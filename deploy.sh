@@ -9,7 +9,7 @@ hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 git add config.toml deploy.sh
 
 # Go To Public folder
-cd docs
+cd public
 # Add changes to git.
 git add .
 
@@ -25,3 +25,5 @@ git push origin master
 
 # Come Back up to the Project Root
 cd ..
+
+git push origin master
