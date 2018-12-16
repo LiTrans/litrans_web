@@ -822,7 +822,8 @@ section#contact .text-success {
 
 section#contact .google-maps {
 	position: relative;
-	padding-bottom: 75%; // This is the aspect ratio
+	float: center;
+	padding-bottom: 60%; // This is the aspect ratio
 	height: 0;
 	overflow: hidden;
 }
