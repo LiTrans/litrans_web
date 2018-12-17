@@ -2,3 +2,9 @@
 	path = public
 	url = https://github.com/mwong009/mwong009.github.io.git
 	branch = master
+
+
+[submodule "public"]
+	path = themes/hugo-agency-theme
+	url = https://github.com/digitalcraftsman/hugo-agency-theme.git
+	branch = master
