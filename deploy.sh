@@ -8,9 +8,6 @@ git submodule update && git pull
 # Build the project.
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
-# add the config files
-git add config.toml deploy.sh
-
 # Go To Public folder
 cd public
 # Add changes to git.
