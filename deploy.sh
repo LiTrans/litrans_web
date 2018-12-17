@@ -2,9 +2,6 @@
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
-# Pull changes from remote
-git submodule update && git pull
-
 # Build the project.
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
