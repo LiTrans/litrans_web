@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+
+  {{ partial "head.html" . }}
+
+  <body id="page-top" class="index">
+    {{ partial "nav.html" . }}
+    {{ partial "herono.html" . }}
+
+
+	<div class="container blog">
+		<div class="row">
+		  <div class="col-lg-8 col-lg-offset-2">
+			{{ .Content }}
+		  </div>
+		</div>
+		<div class="btn-back">
+			<a href="../.." class="page-scroll btn btn-xl ">Back</a>
+		</div>
+	</div>
+	
+
+    {{ if .Site.Params.footer.enable }}
+      {{ partial "footer.html" . }}
+    {{ end }}
+
+    {{ partial "js.html" . }}
+  </body>
+</html>

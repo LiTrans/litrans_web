@@ -1,0 +1,32 @@
+{{ "<!-- Publication Modals -->" | safeHTML }}
+{{ range .Site.Data.publications }}
+  <div class="publication-modal modal fade" id="publication-{{ .modalID }}" tabindex="-1" role="dialog" aria-hidden="false">
+    <div class="modal-content">
+      <div class="close-modal" data-dismiss="modal">
+        <div class="lr">
+          <div class="rl">
+          </div>
+        </div>
+      </div>
+      <div class="container modal-container">
+        <div class="row">
+          <div class="col-sm-8 col-sm-offset-2">
+            <div class="modal-body">
+              <h2>{{ .title  | markdownify }}</h2>
+              <p class="item-intro text-muted">{{ .subtitle | markdownify }}</p>
+              {{ $url := printf "img/publications/%s" .img }}
+              <img class="img-responsive img-centered" src="{{ $url | absURL }}" alt="">
+              <p>{{ .Content | markdownify }}</p>
+              <ul class="list-inline">
+                <li>{{ with $.Site.Params.publication.modal.date }}{{ . }}{{ end }}: {{ .date }}</li>
+                <li>{{ with $.Site.Params.publication.modal.client }}{{ . | markdownify }}{{ end }}: <a href="{{ .clientLink }}">{{ .client }}</a></li>
+                <li>{{ with $.Site.Params.publication.modal.category }}{{ . }}{{ end }}: {{ .category  | markdownify }}</li>
+              </ul>
+              <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> {{ with $.Site.Params.publication.modal.buttonText }}{{ . }}{{ end }}</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+{{ end }}
