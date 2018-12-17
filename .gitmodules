@@ -4,7 +4,3 @@
 	branch = master
 
 
-[submodule "hugo-agency-theme"]
-	path = themes/hugo-agency-theme
-	url = https://github.com/digitalcraftsman/hugo-agency-theme.git
-	branch = master
