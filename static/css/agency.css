@@ -40,7 +40,7 @@ a.active {
 }
 
 a {
-    color: #222;
+    color: rgb(15, 15, 15);
 }
 
 a.alt {
@@ -74,7 +74,7 @@ i.img-icon-contact {
 }
 
 .bg-light-gray {
-    background-color: #f7f7f7;
+    background-color: #eeeeee;
 }
 
 .bg-darkest-gray {
@@ -718,7 +718,7 @@ section h3.section-subheading {
 
 .team-member img {
     margin: 0 auto;
-    border: 7px solid #fff;
+    border: 2px solid #ddd;
 }
 
 .team-member p {
