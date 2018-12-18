@@ -11,7 +11,7 @@
 
       {{ range .Site.Data.publications }}
         <div class="col-md-4 col-sm-6 publication-item">
-            <a data-target="#publication-{{ .modalID }}" class="publication-link" data-toggle="modal">
+            <a data-target="#publication{{ .modalID }}" class="publication-link" data-toggle="modal">
             <div class="publication-hover">
               <div class="publication-hover-content"><i class="fa fa-search fa-3x"></i></div>
             </div>

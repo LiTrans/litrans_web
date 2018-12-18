@@ -1,6 +1,6 @@
 {{ "<!-- Publication Modals -->" | safeHTML }}
 {{ range .Site.Data.publications }}
-  <div class="publication-modal modal fade" id="publication-{{ .modalID }}" tabindex="-1" role="dialog" aria-hidden="false">
+  <div class="publication-modal modal fade" id="publication{{ .modalID }}" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-content">
       <div class="close-modal" data-dismiss="modal">
         <div class="lr">
@@ -16,7 +16,7 @@
               <p class="item-intro text-muted">{{ .subtitle | markdownify }}</p>
               {{ $url := printf "img/publications/%s" .img }}
               <img class="img-responsive img-centered" src="{{ $url | absURL }}" alt="">
-              <p>{{ .Content | markdownify }}</p>
+              <p>{{ .description | markdownify }}</p>
               <ul class="list-inline">
                 <li>{{ with $.Site.Params.publication.modal.date }}{{ . }}{{ end }}: {{ .date }}</li>
                 <li>{{ with $.Site.Params.publication.modal.client }}{{ . | markdownify }}{{ end }}: <a href="{{ .clientLink }}">{{ .client }}</a></li>
