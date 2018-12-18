@@ -73,10 +73,6 @@ i.img-icon-contact {
     margin: 0 auto;
 }
 
-.blog {
-	padding-top: 20px;
-}
-
 .bg-light-gray {
     background-color: #f7f7f7;
 }
@@ -304,6 +300,15 @@ fieldset[disabled] .btn-xl.active {
     .navbar-default.navbar-shrink .navbar-brand {
         font-size: 1.5em;
     }
+
+    .navbar-fixed {
+        padding: 10px 0;
+        background-color: #222;
+    }
+
+    .navbar-default .navbar-brand-fixed {
+        font-size: 1.5em;
+    }
 }
 
 header {
@@ -365,6 +370,11 @@ header .intro-text .intro-heading {
     }
 }
 
+header .intro-text-plain {
+    margin-bottom: 25px;
+    padding-top: 100px;
+}
+
 section {
     padding: 80px 0;
 }
@@ -397,6 +407,10 @@ section h3.section-subheading {
 .service-heading {
     margin: 15px 0;
     text-transform: none;
+}
+
+#single-default {
+    margin-bottom: 0px;
 }
 
 #publications .publication-item {
@@ -475,7 +489,7 @@ section h3.section-subheading {
     z-index: 2;
 }
 
-@media(min-width:767px) {
+@media(min-width:768px) {
     #publications .publication-item {
         margin: 0 0 30px;
     }
@@ -772,7 +786,6 @@ aside .heading {
     text-transform: none;
     color: #777;
     margin-top: 50px;
-    max-margin-bottom: 0px;
 }
 
 section#contact {
@@ -917,6 +930,10 @@ ul.social-buttons li a:active {
 .btn.active,
 .btn:active:focus {
     outline: 0;
+}
+
+#misc a {
+    color: #fed136;
 }
 
 .publication-modal .modal-content {

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+
+  {{ partial "head.html" . }}
+
+  <body id="page-top" class="index">
+    {{ partial "nav.html" . }}
+
+	<section id="single-default">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-8 col-lg-offset-2" id="{{ .Type }}">
+					{{ .Content }}
+				</div>
+			</div>
+			<div class="btn-back">
+				<a href="/" class="page-scroll btn btn-xl ">Home</a>
+			</div>
+		</div>
+	</section>
+
+		<!-- {{ if .Site.Params.contact.enable }}
+			{{ partial "contact.html" . }}
+		{{ end }} -->
+
+    {{ if .Site.Params.footer.enable }}
+      {{ partial "footer.html" . }}
+    {{ end }}
+
+    {{ partial "js.html" . }}
+  </body>
+</html>
