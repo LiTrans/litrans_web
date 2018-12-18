@@ -324,6 +324,10 @@ header {
     -o-background-size: cover;
 }
 
+header .four-o-four {
+    background-image: url(../img/404.jpg);
+}
+
 header .intro-text {
     padding-top: 100px;
     padding-bottom: 50px;
