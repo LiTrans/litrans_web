@@ -1,5 +1,5 @@
 ---
-title: "Terms and Conditions ("Terms")"
+title: "Terms and Conditions"
 draft: false
 type: misc
 ---
