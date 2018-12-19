@@ -1,5 +1,5 @@
 ---
-title: "Terms of Use"
+title: "Terms and Conditions ("Terms")"
 draft: false
 type: misc
 ---
