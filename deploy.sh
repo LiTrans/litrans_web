@@ -17,3 +17,5 @@ git commit -m "$msg"
 
 # Push sourcerepos.
 git push origin master
+
+git status
