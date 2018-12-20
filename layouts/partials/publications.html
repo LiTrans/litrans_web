@@ -8,20 +8,20 @@
       </div>
     </div>
     <div class="row flexbox{{ if .Site.Params.publication.center }} flexbox-center{{ end }}">
-      {{ range .Site.Data.publications }}
-      {{ if .featured }}
+      {{ range where .Data.Pages "Type" "publications" }}
+      {{ if .Params.featured }}
       <div class="col-md-3 col-sm-6 publication-item animatable fadeInUp">
         <div class="card">
-          <a data-target="#publication{{ .modalID }}" class="publication-link" data-toggle="modal">
+          <a data-target="#{{ .File.BaseFileName }}" class="publication-link" data-toggle="modal">
             <div class="publication-hover">
               <div class="publication-hover-content"><i class="fa fa-search fa-3x"></i></div>
             </div>
-            {{ $url := printf "img/publications/%s" .preview }}
+            {{ $url := printf "img/publications/%s" .Params.preview }}
             <img src="{{ $url | absURL }}" class="img-responsive" alt="">
           </a>
           <div class="publication-caption">
-            <h4>{{ if .url }}<a href="{{ .url | absURL }}">{{ .title | markdownify }}</a>{{ else }}{{ .title | markdownify }}{{ end }}</h4>
-            <p class="text-muted">{{ .category | markdownify }}</p>
+            <h4>{{ .Title | markdownify }}</h4>
+            <p class="text-muted">{{ .Params.category | markdownify }}</p>
           </div>
         </div>
       </div>
