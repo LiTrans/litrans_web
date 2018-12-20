@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+
+{{ partial "head.html" . }}
+
+<body class="index">
+	{{ partial "nav.html" . }}
+
+	<section id="{{ .Type }}">
+		<div class="container">
+            {{"<!-- section title -->" | safeHTML}}
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                <h2 class="section-heading">{{ with .Site.Params.news.title }}{{ . | markdownify }}{{ end }}</h2>
+                <h3 class="section-subheading text-muted">{{ with .Site.Params.news.subtitle }}{{ . | markdownify }}{{ end }}</h3>
+                </div>
+            </div>
+            {{"<!-- /section title -->" | safeHTML}}
+
+			<div class="row flexbox{{ if .Site.Params.news.center }} flexbox-center{{ end }}">
+                {{ range where .Data.Pages "Type" "news" }}
+                {{"<!-- single news post -->" | safeHTML}}
+                <article class="col-md-8 news-item">
+                    <div class="card post-block">
+                        <div class="news-content">
+                            <h4><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h4>
+                            <p class="text-muted">{{ .Summary | markdownify }}</p>
+                        </div>
+                    </div>
+                </article>
+                {{"<!-- /single news post -->" | safeHTML}}
+                {{ end }}
+            </div>
+
+            {{"<!-- section nav button -->" | safeHTML}}
+            <div class="row btn-navigate">
+                <div class="text-center">
+                    <a class="btn btn-primary" href="/">Home</a>
+                </div>
+            </div>
+            {{"<!-- /section nav button -->" | safeHTML}}
+		</div>
+	</section>
+
+	{{ if .Site.Params.footer.enable }}
+	{{ partial "footer.html" . }}
+	{{ end }}
+
+	{{ partial "js.html" . }}
+</body>
+
+</html>

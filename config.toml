@@ -23,7 +23,9 @@ googleAnalytics = ""
   # email = "your@email.com"
 
   # Link custom assets relative to /static
-  custom_css = []
+  custom_css = [
+    "css/plugins/animate-css/animate.css",
+    ]
   custom_js  = []
   favicon    = "favicon.ico"
 
@@ -126,41 +128,13 @@ googleAnalytics = ""
       category = "Category"
       buttonText = "Close"
 
-
   # News section
   [params.news]
     enable = true
     title = "News"
+    center = true
     subtitle = "Lorem ipsum dolor sit amet consectetur."
     endpoint = "Be part<br>of our<br>story!"
-
-    # The events will be listed from the top to the bottom.
-    # All images are stored under 'static/img/news'.
-    # Replace them with your own.
-    [[params.news.events]]
-      img = "1.jpg"
-      date = "2009-2011"
-      title = "Curabitur malesuada velit ac dolor blandit"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-
-    [[params.news.events]]
-      img = "2.jpg"
-      date = "March 2011"
-      title = "Donec dignissim posuere euismod"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-
-    [[params.news.events]]
-      img = "3.jpg"
-      date = "December 2012"
-      title = "Morbi pulvinar dolor sed posuere pretium"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-
-    [[params.news.events]]
-      img = "4.jpg"
-      date = "July 2014"
-      title = "Donec ut augue et nunc sagittis hendrerit et ac libero"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-
 
   # Team section
   [params.team]

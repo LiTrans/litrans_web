@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
 
-  {{ partial "head.html" . }}
+{{ partial "head.html" . }}
 
-  <body id="page-top" class="index">
-    {{ partial "nav.html" . }}
+<body class="index">
+	{{ partial "nav.html" . }}
 
 	<section id="single-default">
 		<div class="container">
@@ -13,20 +13,21 @@
 					{{ .Content }}
 				</div>
 			</div>
-			<div class="btn-back">
-				<a href="/" class="page-scroll btn btn-xl ">Home</a>
+			<div class="all-post text-center">
+				<a class="btn btn-primary" href="/">Home</a>
 			</div>
 		</div>
 	</section>
 
-		<!-- {{ if .Site.Params.contact.enable }}
+	<!-- {{ if .Site.Params.contact.enable }}
 			{{ partial "contact.html" . }}
 		{{ end }} -->
 
-    {{ if .Site.Params.footer.enable }}
-      {{ partial "footer.html" . }}
-    {{ end }}
+	{{ if .Site.Params.footer.enable }}
+	{{ partial "footer.html" . }}
+	{{ end }}
 
-    {{ partial "js.html" . }}
-  </body>
+	{{ partial "js.html" . }}
+</body>
+
 </html>
