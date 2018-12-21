@@ -1,3 +1,4 @@
+---
 userID: 3
 img: "1.png"
 name: John Doe C
@@ -16,3 +17,4 @@ social: [
 ]
 bio:  "John is an awesome Lead Designer with heaps of experience in the field of UX. \
        He worked at Pied Piper for years until they went belly up."
+---

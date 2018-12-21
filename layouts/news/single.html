@@ -5,23 +5,25 @@
 
 <body class="index">
 	{{ partial "nav.html" . }}
+	{{ partial "herono.html" . }}
 
 	<section id="{{ .Type }}">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-10 col-lg-offset-1 align-center" id="{{ .Type }}">
-                    <h2>{{ .Title | markdownify }}</h2>
+				<div class="col-lg-8 col-lg-offset-2 align-center" id="{{ .Type }}">
+					<h2>{{ .Title | markdownify }}</h2>
+					<h5 class="report">{{ .Date.Format "January 02, 2006" }}</h5>
 					{{ .Content }}
 				</div>
 			</div>
             <div class="row">
-				<div class="col-lg-3 col-lg-offset-1 text-left">
+				<div class="col-lg-2 col-lg-offset-2 text-left">
 					<a class="btn btn-primary" href="/news">Prev</a>
 				</div>
                 <div class="col-lg-4  text-center">
                     <a class="btn btn-primary" href="/news">View all posts</a>
 				</div>
-				<div class="col-lg-3 text-right">
+				<div class="col-lg-2 text-right">
 					<a class="btn btn-primary" href="/news">Next</a>
 				</div>
             </div>
