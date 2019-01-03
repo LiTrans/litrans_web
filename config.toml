@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "https://litrans.netlify.com/"
 languageCode = "en-us"
-title = "LITrans"
+title = "LiTrans"
 theme = ""
 publishDir = "public"
 
@@ -49,7 +49,7 @@ googleAnalytics = ""
 
   # Navigation
   [params.navigation]
-    brand = "LITrans"
+    brand = "LiTrans"
 	  # icon = "fab fa-canadian-maple-leaf"
     # Optional logo as brand stored in img/
     # logo = "logo.svg"
