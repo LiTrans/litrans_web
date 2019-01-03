@@ -89,7 +89,7 @@ googleAnalytics = ""
   [params.projects]
     enable = true
     title = "What We Do"
-    subtitle = "Lorem ipsum dolor sit amet consectetur."
+    subtitle = "Emerging Transportation Technologies and Services."
 
     [[params.projects.row]]
 
