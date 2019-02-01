@@ -89,27 +89,27 @@ googleAnalytics = ""
   [params.projects]
     enable = true
     title = "What We Do"
-    subtitle = "Emerging Transportation Technologies and Services."
+    subtitle = "Current projects"
 
     [[params.projects.row]]
 
     [[params.projects.row.list]]
       icon = "fas fa-car"
       title = "Smart Mobility"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-      url = "#"
+      description = "Novel distributed end-to-end connected and autonomous vehicles routing system with applications in advanced on-demand transit, traffic management, and system optimization."
+      url = "projects/e2ecav2018.pdf"
 
     [[params.projects.row.list]]
       icon = "fas fa-brain"
-      title = "AI & Machine Learning"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-      url = "#"
+      title = "Discrete choice modelling & Machine Learning"
+      description = "Developing data-driven model structure and estimation methods for discrete choice analysis."
+      # url = "#"
 
     [[params.projects.row.list]]
       icon = "fas fa-laptop"
       title = "Virtual Reality"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-      url = "#"
+      description = "Virtual Immersive Reality Environment (VIRE) for travel behaviour experiments."
+      url = "projects/kalatianfarooq-iatbr-2018.pdf"
 
   # Publication section
   [params.publication]
@@ -120,7 +120,8 @@ googleAnalytics = ""
     # at the root of this Hugo site.
     # For more informtion take a look at the README.
     title = "Publications"
-    subtitle = "publication subtitle"
+    subtitle = "coming soon"
+    display = false
 
     [params.publication.modal]
       client = "Client"
@@ -132,9 +133,9 @@ googleAnalytics = ""
   [params.news]
     enable = true
     title = "News"
-    center = true
-    subtitle = "Lorem ipsum dolor sit amet consectetur."
-    endpoint = "Be part<br>of our<br>story!"
+    center = false
+    # subtitle = "Lorem ipsum dolor sit amet consectetur."
+    # endpoint = "Be part<br>of our<br>story!"
 
   # Team section
   [params.team]
@@ -142,8 +143,8 @@ googleAnalytics = ""
     # Possibility to center items
     center = true
     title = "Our Team"
-    subtitle = "Lorem ipsum dolor sit amet consectetur."
-    description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde."
+    # subtitle = "Lorem ipsum dolor sit amet consectetur."
+    # description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde."
 
     # All team member's pictures are stored under 'static/img/team'.
     # Replace them with your own too.
