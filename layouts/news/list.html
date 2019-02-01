@@ -17,16 +17,18 @@
             </div>
             {{"<!-- /section title -->" | safeHTML}}
 
-			<div class="row flexbox{{ if .Site.Params.news.center }} flexbox-center{{ end }}">
+			<div class="row flexbox flexbox-center">
                 {{ range where .Data.Pages "Type" "news" }}
                 {{"<!-- single news post -->" | safeHTML}}
                 <article class="col-md-8 news-item">
-                    <div class="card post-block">
+                    <div class="">
                         <div class="news-content">
                             <h4><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h4>
-                            <p class="text-muted">{{ .Summary | markdownify }}</p>
+                            <p class="text-muted">{{ if isset .Params "description" }}{{ .Params.description | markdownify }}{{ else }}{{ .Summary | markdownify }}{{ end }}
+                            </p>
                         </div>
                     </div>
+                    <hr/>https://www.ryerson.ca/facilities-management-development/campus-design-construction/centre-urban-innovation/
                 </article>
                 {{"<!-- /single news post -->" | safeHTML}}
                 {{ end }}

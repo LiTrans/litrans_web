@@ -11,16 +11,16 @@
       {{ partial "projects.html" . }}
     {{ end }}
 
-    {{ if .Site.Params.publication.enable }}
-      {{ partial "publications.html" . }}
+    {{ if .Site.Params.team.enable }}
+      {{ partial "team.html" . }}
     {{ end }}
 
     {{ if .Site.Params.news.enable }}
       {{ partial "news.html" . }}
     {{ end }}
 
-    {{ if .Site.Params.team.enable }}
-      {{ partial "team.html" . }}
+    {{ if .Site.Params.publication.enable }}
+      {{ partial "publications.html" . }}
     {{ end }}
 
     {{ if .Site.Params.clients_list.enable }}

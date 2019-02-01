@@ -7,32 +7,34 @@
         <h3 class="section-subheading text-muted">{{ with .Site.Params.publication.subtitle }}{{ . | markdownify }}{{ end }}</h3>
       </div>
     </div>
-    <div class="row flexbox{{ if .Site.Params.publication.center }} flexbox-center{{ end }}">
-      {{ range where .Data.Pages "Type" "publications" }}
-      {{ if .Params.featured }}
-      <div class="col-md-3 col-sm-6 publication-item animatable fadeInUp">
-        <div class="card">
-          <a data-target="#{{ .File.BaseFileName }}" class="publication-link" data-toggle="modal">
-            <div class="publication-hover">
-              <div class="publication-hover-content"><i class="fa fa-search fa-3x"></i></div>
+    {{ if .Site.Params.publication.display }}
+      <div class="row flexbox{{ if .Site.Params.publication.center }} flexbox-center{{ end }}">
+        {{ range where .Data.Pages "Type" "publications" }}
+        {{ if .Params.featured }}
+        <div class="col-md-3 col-sm-6 publication-item animatable fadeInUp">
+          <div class="card">
+            <a data-target="#{{ .File.BaseFileName }}" class="publication-link" data-toggle="modal">
+              <div class="publication-hover">
+                <div class="publication-hover-content"><i class="fa fa-search fa-3x"></i></div>
+              </div>
+              {{ $url := printf "img/publications/%s" .Params.preview }}
+              <img src="{{ $url | absURL }}" class="img-responsive" alt="">
+            </a>
+            <div class="publication-caption">
+              <h4>{{ .Title | markdownify }}</h4>
+              <p class="text-muted">{{ .Params.category | markdownify }}</p>
             </div>
-            {{ $url := printf "img/publications/%s" .Params.preview }}
-            <img src="{{ $url | absURL }}" class="img-responsive" alt="">
-          </a>
-          <div class="publication-caption">
-            <h4>{{ .Title | markdownify }}</h4>
-            <p class="text-muted">{{ .Params.category | markdownify }}</p>
           </div>
         </div>
-      </div>
-      {{ end }}
-      {{ end }}
+        {{ end }}
+        {{ end }}
 
-    </div>
-    <div class="row">
-      <div class="text-center">
-        <a class="btn btn-primary" href="publications">View All Publications</a>
       </div>
-    </div>
+      <div class="row">
+        <div class="text-center">
+          <a class="btn btn-primary" href="publications">View All Publications</a>
+        </div>
+      </div>
+    {{ end }}
   </div>
 </section>

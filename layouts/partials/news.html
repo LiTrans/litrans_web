@@ -17,7 +17,7 @@
         <div class="card post-block">
           <div class="news-content">
             <h4><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h4>
-            <p class="text-muted">{{ .Summary | markdownify }}</p>
+            <p class="text-muted">{{ if isset .Params "description" }}{{ .Params.description | markdownify }}{{ else }}{{ .Summary | markdownify }}{{ end }}</p>
           </div>
         </div>
       </article>

@@ -41,6 +41,7 @@ a.active {
 
 a {
     color: rgb(15, 15, 15);
+    font-weight: 600;
 }
 
 a.alt {
