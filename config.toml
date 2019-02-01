@@ -55,8 +55,8 @@ googleAnalytics = ""
     # logo = "logo.svg"
     projects = "Projects"
     publication = "Publications"
-    news = "News"
     team = "Team"
+    news = "News"
     contact = "Contact"
 
     # Add custom links. Those can be pre- and postpended to the default menu above.
@@ -70,10 +70,10 @@ googleAnalytics = ""
     #  weight = 10
 
     # postpended links
-    [[menu.postpend]]
-      url = "http://gohugo.io"
-      name = "Hugo"
-      weight = 10
+    # [[menu.postpend]]
+    #   url = "http://gohugo.io"
+    #   name = "Hugo"
+    #   weight = 10
 
 
   # Hero section
@@ -81,7 +81,7 @@ googleAnalytics = ""
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
     title = "Centre for Urban Innovation @ Ryerson University"
-    subtitle = "Laboratory of Innovations in Transport"
+    subtitle = "Laboratory of Innovations in Transportation"
     buttonText = "Explore"
 
 
@@ -259,3 +259,7 @@ googleAnalytics = ""
     [[params.footer.quicklinks]]
       text = "Terms of Use"
       link = "/tos"
+
+    [[params.footer.quicklinks]]
+      text = "Hugo"
+      link = "http://gohugo.io/"

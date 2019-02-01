@@ -8,7 +8,7 @@ type: misc
 
 Effective date: December 18, 2018
 
-LITrans ("us", "we", or "our") operates the mwong009.netlify.com website
+LITrans ("us", "we", or "our") operates the litrans.netlify.com website
 (hereinafter referred to as the "Service").
 
 This page informs you of our policies regarding the collection, use, and
@@ -21,13 +21,13 @@ We use your data to provide and improve the Service. By using the Service, you
 agree to the collection and use of information in accordance with this policy.
 Unless otherwise defined in this Privacy Policy, the terms used in this
 Privacy Policy have the same meanings as in our Terms and Conditions,
-accessible from mwong009.netlify.com
+accessible from litrans.netlify.com
 
 ### Definitions
 
   * Service
 
-    Service is the mwong009.netlify.com website operated by LITrans
+    Service is the litrans.netlify.com website operated by LITrans
 
   * Personal Data
 

@@ -4,7 +4,8 @@
 {{ partial "head.html" . }}
 
 <body class="index">
-	{{ partial "nav.html" . }}
+    {{ partial "nav.html" . }}
+    {{ partial "herono.html" . }}
 
 	<section id="{{ .Type }}">
 		<div class="container">
@@ -28,7 +29,7 @@
                             </p>
                         </div>
                     </div>
-                    <hr/>https://www.ryerson.ca/facilities-management-development/campus-design-construction/centre-urban-innovation/
+                    <hr/>
                 </article>
                 {{"<!-- /single news post -->" | safeHTML}}
                 {{ end }}

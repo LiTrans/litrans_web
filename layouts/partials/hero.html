@@ -2,7 +2,7 @@
 <header>
   <div class="container">
     <div class="intro-text">
-      <div class="intro-lead-in">{{ with .Site.Params.hero.title }}{{ . | markdownify }}{{ end }}</div>
+      <span class="intro-lead-in">{{ with .Site.Params.hero.title }}{{ . | markdownify }}{{ end }}</span>
       <div class="intro-heading">{{ with .Site.Params.hero.subtitle }}{{ . | markdownify }}{{ end }}</div>
       <a href="#projects" class="page-scroll btn btn-xl animatable fadeIn">{{ with .Site.Params.hero.buttonText }}{{ . }}{{ end }}</a>
     </div>

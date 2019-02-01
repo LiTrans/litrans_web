@@ -42,9 +42,9 @@
           </li>
         {{ end }}
 
-        {{ if .Site.Params.publication.enable }}
+        {{ if .Site.Params.team.enable }}
           <li>
-            <a class="page-scroll" href="{{ .Site.BaseURL }}#publications">{{ with .Site.Params.navigation.publication }}{{ . }}{{ end }}</a>
+            <a class="page-scroll" href="{{ .Site.BaseURL }}#team">{{ with .Site.Params.navigation.team }}{{ . }}{{ end }}</a>
           </li>
         {{ end }}
 
@@ -54,9 +54,9 @@
           </li>
         {{ end }}
 
-        {{ if .Site.Params.team.enable }}
+        {{ if .Site.Params.publication.enable }}
           <li>
-            <a class="page-scroll" href="{{ .Site.BaseURL }}#team">{{ with .Site.Params.navigation.team }}{{ . }}{{ end }}</a>
+            <a class="page-scroll" href="{{ .Site.BaseURL }}#publications">{{ with .Site.Params.navigation.publication }}{{ . }}{{ end }}</a>
           </li>
         {{ end }}
 
