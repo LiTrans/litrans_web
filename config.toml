@@ -103,7 +103,7 @@ googleAnalytics = ""
       icon = "fas fa-brain"
       title = "Discrete choice modelling & Machine Learning"
       description = "Developing data-driven model structure and estimation methods for discrete choice analysis."
-      # url = "#"
+      url = "projects/rbm-iatbr2018.pdf"
 
     [[params.projects.row.list]]
       icon = "fas fa-laptop"
