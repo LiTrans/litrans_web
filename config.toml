@@ -142,6 +142,7 @@ googleAnalytics = ""
     enable = true
     # Possibility to center items
     center = true
+    links = false
     title = "Our Team"
     # subtitle = "Lorem ipsum dolor sit amet consectetur."
     # description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde."

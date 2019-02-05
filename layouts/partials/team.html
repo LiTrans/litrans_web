@@ -17,15 +17,15 @@
           <div class="col-sm-offset-3 col-sm-6 col">
             <a href="{{ .Permalink }}">
               <img src="{{ $url | absURL }}" class="img-responsive img-circle" alt="{{ .Params.name }}">
+              <h3>{{ .Params.name | markdownify }}</h3>
             </a>
           </div>
           </div>
-          <h3>{{ .Params.name | markdownify }}</h3>
-
           {{ with .Params.position }}<h4>{{ . | markdownify }}</h4>{{ end }}
 
           {{ with .Params.status }}<h5 class="report">{{ . | markdownify }}</h5>{{ end }}
 
+          {{ if .Site.Params.team.links }}
           {{ if .Params.googlescholar }}<a href="{{ .Params.googlescholar }}">{{end}}
             Google Scholar
           {{ if .Params.googlescholar }}</a>{{end}} |
@@ -36,6 +36,7 @@
           <ul class="list-inline social-buttons">
             {{ range .Params.social }}<li><a href="{{ index . 1 }}"><i class="fab {{ index . 0 }}"></i></a></li>{{ end }}
           </ul>
+          {{ end }}
         </div>
       </div>
       {{ end }}
@@ -59,8 +60,9 @@
 
             {{ with .Params.position }}<h4>{{ . | markdownify }}</h4>{{ end }}
 
-            {{ with .Params.status }}<h5>{{ . | markdownify }}</h5>{{ end }}
+            {{ with .Params.status }}<h5 class="report">{{ . | markdownify }}</h5>{{ end }}
 
+            {{ if .Site.Params.team.links }}
             {{ if .Params.googlescholar }}<a href="{{ .Params.googlescholar }}">{{end}}
               Google Scholar
             {{ if .Params.googlescholar }}</a>{{end}} |
@@ -71,6 +73,7 @@
             <ul class="list-inline social-buttons">
               {{ range .Params.social }}<li><a href="{{ index . 1 }}"><i class="fab {{ index . 0 }}"></i></a></li>{{ end }}
             </ul>
+            {{ end }}
           </div>
       </div>
       {{ end }}
