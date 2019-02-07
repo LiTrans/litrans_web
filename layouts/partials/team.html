@@ -9,10 +9,10 @@
     </div>
     <div class="row flexbox flexbox-center">
       {{ range where .Data.Pages "Type" "team" }}
-      {{ if .Params.leader }}
+      {{ if eq .Params.role "professor" }}
       <div class="col-sm-4 col animatable fadeIn ">
         <div class="team-member">
-          {{ $url := printf "img/team/%s" .Params.img }}
+          {{ $url := printf "team/images/%s" .Params.img }}
           <div class="row">
           <div class="col-sm-offset-3 col-sm-6 col">
             <a href="{{ .Permalink }}">
@@ -42,13 +42,50 @@
       {{ end }}
       {{ end }}
     </div>
-
-    <div class="row flexbox flexbox-center">
+    <!-- <h2 class="section-heading">PhD Students</h2> -->
+    <div class="row flexbox">
       {{ range where .Data.Pages "Type" "team" }}
-      {{ if not .Params.leader }}
+      {{ if eq .Params.role "phd" }}
       <div class="col-sm-3 col animatable fadeIn ">
           <div class="team-member">
-            {{ $url := printf "img/team/%s" .Params.img }}
+            {{ $url := printf "team/images/%s" .Params.img }}
+            <div class="row">
+            <div class="col-sm-offset-2 col-sm-8 col">
+              <a href="{{ .Permalink }}">
+                <img src="{{ $url | absURL }}" class="img-responsive img-circle" alt="{{ .Params.name }}">
+              </a>
+            </div>
+            </div>
+            <h3>{{ .Params.name | markdownify }}</h3>
+
+            {{ with .Params.position }}<h4>{{ . | markdownify }}</h4>{{ end }}
+
+            {{ with .Params.status }}<h5 class="report">{{ . | markdownify }}</h5>{{ end }}
+
+            {{ if .Site.Params.team.links }}
+            {{ if .Params.googlescholar }}<a href="{{ .Params.googlescholar }}">{{end}}
+              Google Scholar
+            {{ if .Params.googlescholar }}</a>{{end}} |
+            {{ if .Params.cv }}<a href="{{ .Params.cv }}">{{end}}
+              Curriculum Vitae
+            {{ if .Params.cv }}</a>{{end}}
+
+            <ul class="list-inline social-buttons">
+              {{ range .Params.social }}<li><a href="{{ index . 1 }}"><i class="fab {{ index . 0 }}"></i></a></li>{{ end }}
+            </ul>
+            {{ end }}
+          </div>
+      </div>
+      {{ end }}
+      {{ end }}
+    </div>
+
+    <div class="row flexbox">
+      {{ range where .Data.Pages "Type" "team" }}
+      {{ if eq .Params.role "masc" }}
+      <div class="col-sm-3 col animatable fadeIn ">
+          <div class="team-member">
+            {{ $url := printf "team/images/%s" .Params.img }}
             <div class="row">
             <div class="col-sm-offset-2 col-sm-8 col">
               <a href="{{ .Permalink }}">
