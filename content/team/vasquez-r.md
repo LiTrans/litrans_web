@@ -1,9 +1,10 @@
 ---
-img: "IMG_3926.jpg"
-name: Seyed Mehdi Meshkani
-position: PhD Student
+userID: 6
+img: "IMG_3932.jpg"
+name: Rafael Vasquez
+position: MSc Student
 # status: " "
-role: phd
+role: masc
 social: [
   ["fa-github", "#"],
   ["fa-linkedin", "#"],

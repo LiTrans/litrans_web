@@ -1,9 +1,10 @@
 ---
-img: "IMG_3932.jpg"
-name: Rafael Vasquez
-position: MSc Student
+userID: 4
+img: "IMG_3924.jpg"
+name: Arash Kalatian
+position: PhD Student
 # status: " "
-role: masc
+role: phd
 social: [
   ["fa-github", "#"],
   ["fa-linkedin", "#"],
