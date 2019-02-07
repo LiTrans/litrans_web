@@ -4,8 +4,10 @@ date: 2018-09-16
 draft: false
 # description:
 ---
-In the context of Smart Mobility research, LiTrans, Ryerson University is presenting following work at IEEE 4th International Smart Cities Conference (Sep 16-19, 2018). We look forward to the great feedback from our colleagues.
+In the context of Smart Mobility research, LiTrans, Ryerson University is presenting following work at IEEE 4th International Smart Cities Conference (Sep 16-19, 2018).
 <!--more-->
+
+We look forward to the great feedback from our colleagues.
 
 ### Impact of Distributed Routing of Intelligent Vehicles on Urban Traffic
 Lama Alfaseeh, Shadi Djavadian, and Bilal Farooq\\
