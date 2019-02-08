@@ -11,11 +11,13 @@
       <div class="row text-center">
         {{ range .list }}
           <div class="col-md-4 animatable fadeInUp">
+            {{ if .url }}<a href="{{ .url | absURL }}">{{ end }}
             <div class="fa-stack fa-4x text-primary">
               <i class="fa fa-circle fa-stack-2x text-primary"></i>
               <i class="{{ .icon }} fa-stack-1x fa-inverse"></i>
             </div>
-            <h4 class="project-heading">{{ if .url }}<a href="{{ .url | absURL }}">{{ .title | markdownify }}</a>{{ else }}{{ .title | markdownify }}{{ end }}</h4>
+            <h4 class="project-heading">{{ .title | markdownify }}</h4>
+            {{ if .url }}</a>{{ end }}
             <p class="text-muted">{{ .description | markdownify }}</p>
           </div>
         {{ end }}

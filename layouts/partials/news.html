@@ -11,9 +11,9 @@
     {{"<!-- /section title -->" | safeHTML}}
 
     <div class="row flexbox{{ if .Site.Params.news.center }} flexbox-center{{ end }}">
-      {{ range where .Data.Pages "Type" "news" }}
+      {{ range first 4 .Data.Pages }}
       {{"<!-- single news post -->" | safeHTML}}
-      <article class="col-md-4 news-item animatable fadeInUp">
+      <article class="col-md-3 news-item animatable fadeInUp">
         <div class="card post-block">
           <div class="news-content">
               {{ .Date.Format "January 2, 2006" }}
