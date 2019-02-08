@@ -1,6 +1,6 @@
 ---
 title: "AI@Civil.Eng 2018-2019 Seminar Series (March 2018)"
-date: 2018-08-09
+date: 2018-03-22
 draft: false
 description: Seminar presented by Arash Kalatian, PhD Student at Ryerson University
 ---

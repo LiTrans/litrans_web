@@ -2,7 +2,7 @@
 title: "AI@Civil.Eng 2018-2019 Seminar Series (August 2018)"
 date: 2018-08-09
 draft: false
-description: Seminar presented by Professor Mario Cools of University of Liège
+description: Seminar presented by Professor Mario Cools from University of Liège
 ---
 #### Department of Civil Engineering
 Faculty of Engineering and Architecture Science
