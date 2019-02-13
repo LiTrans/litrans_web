@@ -520,8 +520,13 @@ section h3.section-subheading {
     }
 }
 
+#news {
+    margin-bottom: 50px;
+}
+
 #news .news-item {
     right: 0;
+    margin: 0 auto;
 }
 
 #news .news-content {
@@ -531,8 +536,7 @@ section h3.section-subheading {
     background-color: #fff;
 }
 
-#news {
-    margin-bottom: 50px;
+#news .post-block {
 }
 
 .timeline {

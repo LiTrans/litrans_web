@@ -1,6 +1,6 @@
 # Site settings
 # baseurl = "https://litrans.netlify.com/"
-baseurl = "https://litrans.ca
+baseurl = "/"
 languageCode = "en-us"
 title = "LiTrans"
 theme = ""

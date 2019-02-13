@@ -13,13 +13,16 @@
     <div class="row flexbox{{ if .Site.Params.news.center }} flexbox-center{{ end }}">
       {{ range first 4 .Data.Pages }}
       {{"<!-- single news post -->" | safeHTML}}
-      <article class="col-md-3 news-item animatable fadeInUp">
+      <article class="col-md-6 news-item animatable fadeInUp ">
         <div class="card post-block">
           <div class="news-content">
+            <a href="{{ .Permalink }}">
               {{ .Date.Format "January 2, 2006" }}
-            <h4><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h4>
+              <h4>{{ .Title | markdownify }}</h4>
+            </a>
             <p class="text-muted">{{ if isset .Params "description" }}{{ .Params.description | markdownify }}{{ else }}{{ .Summary | markdownify }}{{ end }}</p>
-          </div>
+            </div>
+
         </div>
       </article>
       {{"<!-- /single news post -->" | safeHTML}}
