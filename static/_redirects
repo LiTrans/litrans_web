@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://litrans.netlify.com/* https://litrans.ca/:splat 301!
