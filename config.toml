@@ -178,6 +178,10 @@ googleAnalytics = ""
     [[params.clients]]  
       logo = "NSERC_RGB.png"
       link = "#"
+
+    [[params.clients]]  
+      logo = "sshrc.jpeg"
+      link = "#"
       
   # Contact section
   [params.contact]
