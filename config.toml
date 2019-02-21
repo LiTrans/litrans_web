@@ -174,7 +174,11 @@ googleAnalytics = ""
     [[params.clients]]
       logo = "ryerson.png"
       link = "#"
-
+    
+    [[params.clients]]  
+      logo = "NSERC_RGB.png"
+      link = "#"
+      
   # Contact section
   [params.contact]
     enable = true
