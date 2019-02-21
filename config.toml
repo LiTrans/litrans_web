@@ -182,13 +182,13 @@ googleAnalytics = ""
     [[params.clients]]  
       logo = "mitacs.png"
       link = "#"
-      
+
     [[params.clients]]  
-      logo = "cutric.png"
+      logo = "ontario.png"
       link = "#"
       
     [[params.clients]]  
-      logo = "ontario.png"
+      logo = "cutric.png"
       link = "#"
 
     [[params.clients]]  
