@@ -94,7 +94,8 @@ googleAnalytics = ""
     subtitle = "Current projects"
 
     [[params.projects.row]]
-
+    center = true
+    
     [[params.projects.row.list]]
       icon = "fas fa-car"
       title = "Smart Mobility"
