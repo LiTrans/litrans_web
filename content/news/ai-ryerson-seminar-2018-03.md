@@ -8,7 +8,7 @@ description: Seminar presented by Arash Kalatian, PhD Student at Ryerson Univers
 Faculty of Engineering and Architecture Science
 
 ![your image](../images/ryerson-rgb.png)
-## TUsing Wi-Fi data to infer transportation mode
+## Using Wi-Fi data to infer transportation mode
 Presenter: Arash Kalatian, Ryerson University\\
 Location: MON316\\
 Date: Thursday March 22, 1:00PM—2:00PM\\
