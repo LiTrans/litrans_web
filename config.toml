@@ -107,6 +107,12 @@ googleAnalytics = ""
       url = "projects/wongfarooq-iatbr-2018.pdf"
 
     [[params.projects.row.list]]
+      icon = "fas fa-data"
+      title = "Cybersecurity & Privacy"
+      description = "Blockchain for Smart Monility Data Markets"
+      url = "https://arxiv.org/pdf/1809.05785.pdf"
+
+    [[params.projects.row.list]]
       icon = "fas fa-laptop"
       title = "Virtual Reality"
       description = "Virtual Immersive Reality Environment (VIRE) for travel behaviour experiments."
