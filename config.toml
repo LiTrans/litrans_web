@@ -204,7 +204,7 @@ googleAnalytics = ""
     address  = "Centre for Urban Innovation<br/>\
 	              CUI-330, Ryerson University<br/>\
 				        44 Gerrard Street East, Toronto ON M5G 1G3, Canada"
-    phoneNumber = "416 888-8888 ext 8888"
+    phoneNumber = "416 979-5000 ext 556456"
     buttonText = "Send message"
 
     # netlify = true
@@ -227,7 +227,7 @@ googleAnalytics = ""
     # add some custom JS script to finish the implementation.
     # postURL = "https://example.com/mailout/"
 
-    email = "your@email.com"
+    email = "bilal.farooq@ryerson.ca"
 
     # Success and error message overwrite for async contact form
     #thanks = "Thank you for awesomely contacting us."
