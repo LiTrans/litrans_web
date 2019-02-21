@@ -89,6 +89,7 @@ googleAnalytics = ""
   # Projects section
   [params.projects]
     enable = true
+    center = true
     title = "What We Do"
     subtitle = "Current projects"
 
@@ -107,7 +108,7 @@ googleAnalytics = ""
       url = "projects/wongfarooq-iatbr-2018.pdf"
 
     [[params.projects.row.list]]
-      icon = "fas fa-hand"
+      icon = "fab fa-github"
       title = "Cybersecurity & Privacy"
       description = "Blockchain for Smart Monility Data Markets"
       url = "https://arxiv.org/pdf/1809.05785.pdf"
