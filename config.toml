@@ -180,6 +180,10 @@ googleAnalytics = ""
       link = "#"
 
     [[params.clients]]  
+      logo = "mitacs.png"
+      link = "#"
+
+    [[params.clients]]  
       logo = "sshrc.jpeg"
       link = "#"
       
