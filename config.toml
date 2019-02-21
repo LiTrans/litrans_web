@@ -194,6 +194,10 @@ googleAnalytics = ""
     [[params.clients]]  
       logo = "sshrc.jpeg"
       link = "#"
+
+    [[params.clients]]  
+      logo = "cfi.png"
+      link = "#"
       
   # Contact section
   [params.contact]
