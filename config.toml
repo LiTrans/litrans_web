@@ -184,6 +184,10 @@ googleAnalytics = ""
       link = "#"
 
     [[params.clients]]  
+      logo = "ontario.png"
+      link = "#"
+
+    [[params.clients]]  
       logo = "sshrc.jpeg"
       link = "#"
       
