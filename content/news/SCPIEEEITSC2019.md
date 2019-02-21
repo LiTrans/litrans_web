@@ -28,4 +28,4 @@ Bilal Farooq, Assistant Professor, Ryerson University, Canada, bilal.farooq@ryer
 David Lopez, Research Fellow, Ryerson University, Canada, david.lopez@ryerson.ca
 
 ## Submission Instructions
-When you submit your paper, please select the Special Session Code: *u9we1*. The deadline for submission is March 31, 2019. Note that the page limit for IEEE ITSC is six (6). For details, please refer to the conference CFP page: https://www.itsc2019.org/call-for-papers. Given the importance and timeliness of the topic, we will also suggest a special issue in IEEE Transactions on ITS, where selected papers from this special session will be invited to submit a full paper.
+When you submit your paper, please select the Special Session Code: #u9we1#. The deadline for submission is March 31, 2019. Note that the page limit for IEEE ITSC is six (6). For details, please refer to the conference CFP page: https://www.itsc2019.org/call-for-papers. Given the importance and timeliness of the topic, we will also suggest a special issue in IEEE Transactions on ITS, where selected papers from this special session will be invited to submit a full paper.
