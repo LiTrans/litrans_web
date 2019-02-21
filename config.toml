@@ -111,7 +111,7 @@ googleAnalytics = ""
     [[params.projects.row.list]]
       icon = "fab fa-github"
       title = "Cybersecurity & Privacy"
-      description = "Blockchain framework for Smart Monility Data-Markets (BSMD)"
+      description = "Blockchain framework for Smart Monility Data-Markets (BSMD) with a focus on cybersecurity and personal privacy."
       url = "https://arxiv.org/pdf/1809.05785.pdf"
 
     [[params.projects.row.list]]
