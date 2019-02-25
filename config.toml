@@ -173,31 +173,31 @@ googleAnalytics = ""
     # Suggestion: .svg in the size of 280px*80px looks good
     [[params.clients]]
       logo = "ryerson.png"
-      link = "#"
+      link = "https://www.ryerson.ca/"
 
     [[params.clients]]
       logo = "NSERC_RGB.png"
-      link = "#"
+      link = "http://www.nserc-crsng.gc.ca/index_eng.asp"
 
     [[params.clients]]
       logo = "mitacs.png"
-      link = "#"
+      link = "https://www.mitacs.ca/"
 
     [[params.clients]]
       logo = "ontario.png"
-      link = "#"
+      link = "https://www.ontario.ca/page/ontario-research-fund"
 
     [[params.clients]]
       logo = "cutric.png"
-      link = "#"
+      link = "http://cutric-crituc.org/"
 
     [[params.clients]]
       logo = "sshrc.jpeg"
-      link = "#"
+      link = "http://www.sshrc-crsh.gc.ca/home-accueil-eng.aspx"
 
     [[params.clients]]
       logo = "cfi.png"
-      link = "#"
+      link = "https://www.innovation.ca/"
 
   # Contact section
   [params.contact]
