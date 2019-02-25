@@ -115,7 +115,7 @@ googleAnalytics = ""
       url = "https://arxiv.org/pdf/1809.05785.pdf"
 
     [[params.projects.row.list]]
-      icon = "fas fa-laptop"
+      icon = "fa fa-vr-cardboard"
       title = "Virtual Reality"
       description = "Virtual Immersive Reality Environment (VIRE) for travel behaviour experiments."
       url = "projects/kalatianfarooq-iatbr-2018.pdf"
