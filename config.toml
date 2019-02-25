@@ -95,7 +95,7 @@ googleAnalytics = ""
 
     [[params.projects.row]]
 
-    
+
     [[params.projects.row.list]]
       icon = "fas fa-car"
       title = "Smart Mobility"
@@ -109,7 +109,7 @@ googleAnalytics = ""
       url = "projects/wongfarooq-iatbr-2018.pdf"
 
     [[params.projects.row.list]]
-      icon = "fab fa-github"
+      icon = "fa fa-user-shield"
       title = "Cybersecurity & Privacy"
       description = "Blockchain framework for Smart Monility Data-Markets (BSMD) with a focus on cybersecurity and personal privacy."
       url = "https://arxiv.org/pdf/1809.05785.pdf"
@@ -174,31 +174,31 @@ googleAnalytics = ""
     [[params.clients]]
       logo = "ryerson.png"
       link = "#"
-    
-    [[params.clients]]  
+
+    [[params.clients]]
       logo = "NSERC_RGB.png"
       link = "#"
 
-    [[params.clients]]  
+    [[params.clients]]
       logo = "mitacs.png"
       link = "#"
 
-    [[params.clients]]  
+    [[params.clients]]
       logo = "ontario.png"
       link = "#"
-      
-    [[params.clients]]  
+
+    [[params.clients]]
       logo = "cutric.png"
       link = "#"
 
-    [[params.clients]]  
+    [[params.clients]]
       logo = "sshrc.jpeg"
       link = "#"
 
-    [[params.clients]]  
+    [[params.clients]]
       logo = "cfi.png"
       link = "#"
-      
+
   # Contact section
   [params.contact]
     enable = true
