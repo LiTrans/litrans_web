@@ -203,8 +203,7 @@ googleAnalytics = ""
   [params.contact]
     enable = true
     title = "Contact us"
-  	# mapurl = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11545.408166267927!2d-79.38499670184325!3d43.661647738950414!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4536d8bdbbc320f6!2sCentre+for+Urban+Energy+at+Ryerson+University!5e0!3m2!1sen!2sca!4v1545095693864&zoom=15"
-	mapurl = "https://goo.gl/maps/PpNYWdPYZgS2"
+  	mapurl = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1443.2139942011902!2d-79.38044537639092!3d43.66006799849111!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDPCsDM5JzM2LjIiTiA3OcKwMjInNDcuNSJX!5e0!3m2!1sen!2sca!4v1551126871383&zoom=15"
     addressTitle = "Office"
     address  = "Centre for Urban Innovation<br/>\
 	              CUI-330, Ryerson University<br/>\
