@@ -441,6 +441,7 @@ section h3.section-subheading {
 
 #publications .publication-item {
     right: 0;
+    min-height: auto;
 }
 
 #publications .publication-item .publication-link {
@@ -451,8 +452,12 @@ section h3.section-subheading {
     max-width: 400px;
 }
 
-#publications .publication-item .publication-link img {
-    width: 400px;
+#publications img {
+    width: 80px;
+    margin: auto;
+    margin-right: 10px;
+    padding: 1px;
+    float: left;
 }
 
 #publications .publication-item .publication-link .publication-hover {
@@ -492,10 +497,11 @@ section h3.section-subheading {
 
 #publications .publication-item .publication-caption {
     margin: 0 auto;
-    padding: 25px;
-    max-width: 400px;
-    text-align: center;
+    padding: 5px 15px 5px 15px;
+    max-width: auto;
+    text-align: left;
     background-color: #fff;
+    font-weight: 550;
 }
 
 #publications .publication-item .publication-caption h4 {
@@ -506,8 +512,7 @@ section h3.section-subheading {
 #publications .publication-item .publication-caption p {
     margin: 0;
     font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 16px;
-    font-style: italic;
+    font-weight: 300;
 }
 
 #publications * {
@@ -516,7 +521,7 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     #publications .publication-item {
-        margin: 0 0 30px;
+        margin: 0;
     }
 }
 
