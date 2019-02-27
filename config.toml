@@ -129,8 +129,8 @@ googleAnalytics = ""
     # at the root of this Hugo site.
     # For more informtion take a look at the README.
     title = "Publications"
-    subtitle = "coming soon"
-    display = false
+    # subtitle = "coming soon"
+    display = true
 
     [params.publication.modal]
       client = "Client"
