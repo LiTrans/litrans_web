@@ -452,11 +452,13 @@ section h3.section-subheading {
     max-width: 400px;
 }
 
-#publications img {
+#publications .publication-thumbnail {
     width: 80px;
     margin: auto;
     margin-right: 10px;
-    padding: 1px;
+    margin-bottom: 2px;
+    padding: 0px;
+    display: flex;
     float: left;
 }
 
@@ -496,6 +498,9 @@ section h3.section-subheading {
 }
 
 #publications .publication-item .publication-caption {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
     margin: 0 auto;
     padding: 5px 15px 5px 15px;
     max-width: auto;
