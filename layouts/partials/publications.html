@@ -12,18 +12,20 @@
         {{ range first 7 (where .Data.Pages "Type" "publications") }}
         <div class="col-sm-10 publication-item animatable fadeInUp">
           <div class="card">
-            {{ $url := printf "img/publications/%s" .Params.preview }}
-            {{ if and (isset .Params "link") (ne .Params.link "") }}<a href={{ .Params.link }}>{{ end }}
+            <div class="publication-thumbnail">
+              {{ $url := printf "publications/images/%s" .Params.preview }}
               <img src="{{ $url | absURL }}" class="img-responsive" alt="">
-            {{ if and (isset .Params "link") (ne .Params.link "") }}</a>{{ end }}
+            </div>
             <div class="publication-caption">
               <p>{{ .Params.bibliography | markdownify }}</p>
-              {{ if and (isset .Params "arxiv") (ne .Params.arxiv "") }}
-                <a href={{ .Params.arxiv }}>[arxiv]</a>
-              {{ end }}
-              {{ if and (isset .Params "link") (ne .Params.link "") }}
-                <a href={{ .Params.link }}>[link]</a>
-              {{ end }}
+              <div>
+                {{ if and (isset .Params "arxiv") (ne .Params.arxiv "") }}
+                  <a href={{ .Params.arxiv }}>[arxiv]</a>
+                {{ end }}
+                {{ if and (isset .Params "link") (ne .Params.link "") }}
+                  <a href={{ .Params.link }}>[link]</a>
+                {{ end }}
+              </div>
             </div>
           </div>
         </div>
