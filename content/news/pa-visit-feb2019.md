@@ -5,5 +5,5 @@ draft: false
 description: Kinga Surma, Parliamentary Assistant, Ministry of Transportation, Ontario met with LiTrans, Ryerson University students to learn more about their research on emerging transportation technologies and services.
 ---
 
-# Students presented their work to Kinga Surma, Parliamentary Assistant, Ministry of Transportation, Ontario
+Students presented their work to Kinga Surma, Parliamentary Assistant, Ministry of Transportation, Ontario
 
