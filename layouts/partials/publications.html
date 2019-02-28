@@ -14,7 +14,7 @@
           <div class="card">
             <div class="publication-thumbnail">
               {{ $url := printf "publications/images/%s" .Params.preview }}
-              <img src="{{ $url | absURL }}" class="img-responsive" alt="">
+              <img src="{{ $url | absURL }}" alt="">
             </div>
             <div class="publication-caption">
               <p>{{ .Params.bibliography | markdownify }}</p>

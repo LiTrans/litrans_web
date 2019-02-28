@@ -453,13 +453,18 @@ section h3.section-subheading {
 }
 
 #publications .publication-thumbnail {
-    width: 80px;
+    max-width: 80px;
     margin: auto;
     margin-right: 10px;
     margin-bottom: 2px;
     padding: 0px;
     display: flex;
     float: left;
+}
+
+#publications .publication-thumbnail {
+    max-width: auto;
+    height: auto;
 }
 
 #publications .publication-item .publication-link .publication-hover {
