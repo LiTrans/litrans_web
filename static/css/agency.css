@@ -453,7 +453,7 @@ section h3.section-subheading {
 }
 
 #publications .publication-thumbnail {
-    max-width: 80px;
+    width: 80px;
     margin: auto;
     margin-right: 10px;
     margin-bottom: 2px;
@@ -462,9 +462,9 @@ section h3.section-subheading {
     float: left;
 }
 
-#publications .publication-thumbnail {
-    max-width: auto;
-    height: auto;
+#publications .publication-thumbnail img {
+    width: 100%;
+    height: 100%
 }
 
 #publications .publication-item .publication-link .publication-hover {
