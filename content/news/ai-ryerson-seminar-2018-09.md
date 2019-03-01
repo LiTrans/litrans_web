@@ -7,7 +7,7 @@ description: Seminar presented by Professor Mario Cools from University of Lièg
 #### Department of Civil Engineering
 Faculty of Engineering and Architecture Science
 
-![your image](../images/ryerson-rgb.png)
+![](../images/ryerson-rgb.png)
 ## The use of learning approaches in modeling traffic
 Presenter: Professor Mario Cools, University of Liège\\
 Location: EPH111\\
