@@ -1,4 +1,8 @@
 ---
+# put bibliography in this format
+# bibliograhpy : "<authors>, <year>.
+#    **<title>**.
+#    <journal location + etc>.
 bibliography: "Farooq, B., Cherchi, E. and Sobhani, A., 2018.
   **Virtual immersive reality for stated preference travel behavior experiments: a case study of autonomous vehicles on urban roads**.
   Transportation research record, 2672(50), pp.35-45." # surround Title with **<title>**

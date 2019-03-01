@@ -1,4 +1,8 @@
 ---
+# put bibliography in this format
+# bibliograhpy : "<authors>, <year>.
+#    **<title>**.
+#    <journal location + etc>.
 bibliography: "Wong, M. and Farooq, B., 2018.
   **Modelling Latent Travel Behaviour Characteristics with Generative Machine Learning**.
   In 2018 21st International Conference on Intelligent Transportation Systems (ITSC), pp. 749-754." # surround Title with **<title>**
