@@ -5,7 +5,7 @@
 #    <journal location + etc>.
 bibliography: "Djavadian, S., Farooq, B., Vasquez, R. and Yip, G., 2019.
   **Chapter 30: Virtual Immersive Reality based Analysis of Behavioral Responses in Connected and Autonomous Vehicle Environment**.
-  Mapping the Travel Behavior Genome: The Role of Disruptive Technologies, Automation, and Experimentation preprint arXiv:1901.07151." # surround Title with **<title>**
+  Mapping the Travel Behavior Genome: The Role of Disruptive Technologies, Automation, and Experimentation. preprint arXiv:1901.07151." # surround Title with **<title>**
 date: 2019-01-22
 preview: paper_djavadianetal_2019.jpg
 arxiv: "https://arxiv.org/abs/1901.07151"
