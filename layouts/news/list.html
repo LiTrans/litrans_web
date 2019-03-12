@@ -18,22 +18,27 @@
             </div>
             {{"<!-- /section title -->" | safeHTML}}
 
-			<div class="row flexbox flexbox-center">
-                {{ range where .Data.Pages "Type" "news" }}
+            {{ range (where .Data.Pages "Type" "news").GroupByDate "2006" }}
+            <div class="row flexbox flexbox-center">
+                <div class="col-md-8">
+                    <h2>{{ .Key }}</h2>
+                    <hr/>
+                </div>
+                {{ range .Pages }}
                 {{"<!-- single news post -->" | safeHTML}}
-                <article class="col-md-8 news-item">
-                    <div class="">
-                        <div class="news-content">
-                            <h4><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h4>
-                            <p class="text-muted">{{ if isset .Params "description" }}{{ .Params.description | markdownify }}{{ else }}{{ .Summary | markdownify }}{{ end }}
-                            </p>
-                        </div>
+                <div class="col-md-8 news-item">
+                    <div class="news-content">
+                        <h4><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h4>
+                        <p class="text-muted">{{ if isset .Params "description" }}{{ .Params.description | markdownify }}{{ else }}{{ .Summary | markdownify }}{{ end }}
+                        </p>
                     </div>
                     <hr/>
-                </article>
+                </div>
                 {{"<!-- /single news post -->" | safeHTML}}
                 {{ end }}
             </div>
+
+            {{ end }}
 
             {{"<!-- section nav button -->" | safeHTML}}
             <div class="row btn-navigate">
