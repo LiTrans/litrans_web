@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+
+{{ partial "head.html" . }}
+
+<body class="index">
+    {{ partial "nav.html" . }}
+    {{ partial "herono.html" . }}
+
+	<section id="{{ .Type }}">
+		<div class="container">
+            {{"<!-- section title -->" | safeHTML}}
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                <h2 class="section-heading">{{ with .Site.Params.publication.title }}{{ . | markdownify }}{{ end }}</h2>
+                <h3 class="section-subheading text-muted">{{ with .Site.Params.publication.subtitle }}{{ . | markdownify }}{{ end }}</h3>
+                </div>
+            </div>
+            {{"<!-- /section title -->" | safeHTML}}
+
+      {{ range (where .Data.Pages "Type" "publications").GroupByDate "2006" }}
+      <div class="row flexbox flexbox-center animatable fadeIn">
+          <div class="col-md-8">
+            <h2>{{ .Key }}</h2>
+            <hr/>
+          </div>
+          {{ range .Pages }}
+          {{"<!-- single news post -->" | safeHTML}}
+          <article class="col-md-8 publication-item">
+            <div class="">
+              <div class="publication-thumbnail">
+                {{ $url := printf "publications/images/%s" .Params.preview }}
+                <img src="{{ $url | absURL }}" alt="">
+              </div>
+              <div class="publication-caption">
+                  <p>{{ .Params.bibliography | markdownify }}</p>
+                  <div>
+                    {{ if and (isset .Params "arxiv") (ne .Params.arxiv "") }}
+                      <a href={{ .Params.arxiv }}>[arxiv]</a>
+                    {{ end }}
+                    {{ if and (isset .Params "link") (ne .Params.link "") }}
+                      <a href={{ .Params.link }}>[link]</a>
+                    {{ end }}
+                  </div>
+              </div>
+            </div>
+            <hr/>
+          </article>
+          {{"<!-- /single news post -->" | safeHTML}}
+          {{ end }}
+      </div>
+
+    {{ end }}
+
+    {{"<!-- section nav button -->" | safeHTML}}
+    <div class="row btn-navigate">
+        <div class="text-center">
+            <a class="btn btn-primary" href="/">Home</a>
+        </div>
+    </div>
+    {{"<!-- /section nav button -->" | safeHTML}}
+		</div>
+	</section>
+
+	{{ if .Site.Params.footer.enable }}
+	{{ partial "footer.html" . }}
+	{{ end }}
+
+	{{ partial "js.html" . }}
+</body>
+
+</html>
