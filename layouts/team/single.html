@@ -28,7 +28,10 @@
 						{{ if .Params.googlescholar }}</a>{{end}} |
 						{{ if .Params.cv }}<a href="{{ .Params.cv }}">{{end}}
 							Curriculum Vitae
-						{{ if .Params.cv }}</a>{{end}}
+						{{ if .Params.cv }}</a>{{end}} |
+						{{ if .Params.website }}<a href="{{ .Params.website }}">{{end}}
+							Website
+							{{ if .Params.website }}</a>{{end}}
 
 						<ul class="list-inline social-buttons">
 							{{ range .Params.social }}
