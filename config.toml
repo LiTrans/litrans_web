@@ -1,5 +1,5 @@
 # Site settings
-# baseurl = "https://litrans.netlify.com/"
+# baseurl = "https://litrans.ca/"
 baseurl = "/"
 languageCode = "en-us"
 title = "LiTrans"
@@ -24,9 +24,7 @@ googleAnalytics = ""
   # email = "your@email.com"
 
   # Link custom assets relative to /static
-  custom_css = [
-    "css/plugins/animate-css/animate.css",
-    ]
+  custom_css = ["css/plugins/animate-css/animate.css"]
   custom_js  = []
   favicon    = "favicon.ico"
 
@@ -50,15 +48,15 @@ googleAnalytics = ""
 
   # Navigation
   [params.navigation]
-    brand = "LiTrans"
-	  # icon = "fab fa-canadian-maple-leaf"
+    brand       = "LiTrans"
+	  # icon      = "fa fa-home"
     # Optional logo as brand stored in img/
-    # logo = "logo.svg"
-    projects = "Projects"
+    # logo      = "logo.svg"
+    projects    = "Projects"
     publication = "Publications"
-    team = "Team"
-    news = "News"
-    contact = "Contact"
+    team        = "Team"
+    news        = "News"
+    contact     = "Contact"
 
     # Add custom links. Those can be pre- and postpended to the default menu above.
     # Use the weight attribute to order your custom links. Uncomment the example
@@ -81,80 +79,78 @@ googleAnalytics = ""
   [params.hero]
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
-    title = "Centre for Urban Innovation @ Ryerson University"
-    subtitle = "Laboratory of Innovations in Transportation"
+    title      = "Centre for Urban Innovation @ Ryerson University"
+    subtitle   = "Laboratory of Innovations in Transportation"
     buttonText = "Explore"
 
 
   # Projects section
   [params.projects]
-    enable = true
-    center = true
-    title = "What We Do"
+    enable   = true
+    center   = true
+    title    = "What We Do"
     subtitle = "Current projects"
 
     [[params.projects.row]]
 
+      [[params.projects.row.list]]
+        icon = "fas fa-car"
+        title = "Smart Mobility"
+        description = "Novel distributed end-to-end connected and autonomous vehicles routing system with applications in advanced on-demand transit, traffic management, and system optimization."
+        url = "projects/e2ecav2018.pdf"
 
-    [[params.projects.row.list]]
-      icon = "fas fa-car"
-      title = "Smart Mobility"
-      description = "Novel distributed end-to-end connected and autonomous vehicles routing system with applications in advanced on-demand transit, traffic management, and system optimization."
-      url = "projects/e2ecav2018.pdf"
+      [[params.projects.row.list]]
+        icon = "fas fa-brain"
+        title = "Discrete choice modelling & Machine Learning"
+        description = "Developing data-driven model structure and estimation methods for discrete choice analysis."
+        url = "projects/wongfarooq-iatbr-2018.pdf"
 
-    [[params.projects.row.list]]
-      icon = "fas fa-brain"
-      title = "Discrete choice modelling & Machine Learning"
-      description = "Developing data-driven model structure and estimation methods for discrete choice analysis."
-      url = "projects/wongfarooq-iatbr-2018.pdf"
+      [[params.projects.row.list]]
+        icon = "fa fa-user-shield"
+        title = "Cybersecurity & Privacy"
+        description = "Blockchain framework for Smart Mobility Data-Markets (BSMD) with a focus on cybersecurity and personal privacy."
+        url = "https://arxiv.org/pdf/1809.05785.pdf"
 
-    [[params.projects.row.list]]
-      icon = "fa fa-user-shield"
-      title = "Cybersecurity & Privacy"
-      description = "Blockchain framework for Smart Mobility Data-Markets (BSMD) with a focus on cybersecurity and personal privacy."
-      url = "https://arxiv.org/pdf/1809.05785.pdf"
-
-    [[params.projects.row.list]]
-      icon = "fa fa-vr-cardboard"
-      title = "Virtual Reality"
-      description = "Virtual Immersive Reality Environment (VIRE) for travel behaviour experiments."
-      url = "projects/kalatianfarooq-iatbr-2018.pdf"
+      [[params.projects.row.list]]
+        icon = "fa fa-vr-cardboard"
+        title = "Virtual Reality"
+        description = "Virtual Immersive Reality Environment (VIRE) for travel behaviour experiments."
+        url = "projects/kalatianfarooq-iatbr-2018.pdf"
 
   # Publication section
   [params.publication]
     enable = true
 	  center = true
     # All projects defined in their own files. You can find example projects
-    # at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
-    # at the root of this Hugo site.
-    # For more informtion take a look at the README.
-    title = "Publications"
-    # subtitle = "coming soon"
+    # at 'exampleSite/data/projects'. Copy the 'projects' folder into the
+    # 'data' directory at the root of this Hugo site.
+    title   = "Publications"
+    # subtitle = ""
     display = true
 
-    [params.publication.modal]
-      client = "Client"
-      date = "Date"
-      category = "Category"
-      buttonText = "Close"
+    # [params.publication.modal]
+    #   client     = "Client"
+    #   date       = "Date"
+    #   category   = "Category"
+    #   buttonText = "Close"
 
   # News section
   [params.news]
     enable = true
-    title = "News"
+    title  = "News"
     center = false
-    # subtitle = "Lorem ipsum dolor sit amet consectetur."
-    # endpoint = "Be part<br>of our<br>story!"
+    # subtitle = ""
+    # endpoint = ""
 
   # Team section
   [params.team]
     enable = true
     # Possibility to center items
     center = true
-    links = false
-    title = "Our Team"
-    # subtitle = "Lorem ipsum dolor sit amet consectetur."
-    # description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde."
+    links  = false
+    title  = "Our Team"
+    # subtitle = ""
+    # description = ""
 
     # All team member's pictures are stored under 'static/img/team'.
     # Replace them with your own too.
@@ -166,7 +162,7 @@ googleAnalytics = ""
     # Possibility to center items
     center = true
     # Optional client title specifying the involvement
-    title = "Affiliations & Funding sources"
+    title  = "Affiliations & Funding sources"
 
     # All the clients' logos are stored under 'static/img/logos'.
     # Replace them with your clients's logos.
@@ -202,14 +198,14 @@ googleAnalytics = ""
   # Contact section
   [params.contact]
     enable = true
-    title = "Contact us"
+    title  = "Contact us"
   	mapurl = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1443.2139942011902!2d-79.38044537639092!3d43.66006799849111!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDPCsDM5JzM2LjIiTiA3OcKwMjInNDcuNSJX!5e0!3m2!1sen!2sca!4v1551126871383&zoom=15"
     addressTitle = "Office"
-    address  = "Centre for Urban Innovation<br/>\
-	              CUI-330, Ryerson University<br/>\
-				        44 Gerrard Street East, Toronto ON M5G 1G3, Canada"
-    phoneNumber = "416 979-5000 ext 556456"
-    buttonText = "Send message"
+    address      = "Centre for Urban Innovation<br/>\
+	                  CUI-330, Ryerson University<br/>\
+				            44 Gerrard Street East, Toronto ON M5G 1G3, Canada"
+    phoneNumber  = "416 979-5000 ext 556456"
+    # buttonText   = "Send message"
 
     # netlify = true
 
@@ -237,31 +233,31 @@ googleAnalytics = ""
     #thanks = "Thank you for awesomely contacting us."
     #error = "Message could not be send. Please contact us at mail@example.com instead."
 
-    twitter = "@litrans_lab"
+    twitter     = "@litrans_lab"
     twitter_url = "https://twitter.com/litrans_lab/"
 
     [params.contact.captcha]
       # sitekey = ""
 
     # 'warning' defines error messages for invalid inputs
-    [params.contact.form.name]
-      text = "Your Name *"
-      warning = "Please enter your name."
+    # [params.contact.form.name]
+    #   text = "Your Name *"
+    #   warning = "Please enter your name."
 
-    [params.contact.form.email]
-      text = "Your Email *"
-      warning = "Please enter your email address."
+    # [params.contact.form.email]
+    #   text = "Your Email *"
+    #   warning = "Please enter your email address."
 
-    [params.contact.form.phone]
-      text = "Your Phone *"
-      warning = "Please enter your phone number."
+    # [params.contact.form.phone]
+    #   text = "Your Phone *"
+    #   warning = "Please enter your phone number."
 
-    [params.contact.form.message]
-      text = "Your Message *"
-      warning = "Please enter a message."
+    # [params.contact.form.message]
+    #   text = "Your Message *"
+    #   warning = "Please enter a message."
 
       # Add optional form fields to identify contact forms
-      [[params.contact.form.hidden]]
+      # [[params.contact.form.hidden]]
       #  name = "someID"
       #  value = "example.com"
       #
@@ -271,13 +267,13 @@ googleAnalytics = ""
 
   # Footer section
   [params.footer]
-    enable = true
+    enable    = true
     copyright = "Published under the [Apache License 2.0.](http://www.apache.org/licenses/LICENSE-2.0)"
 
-    [[params.footer.social]]
-      icon = "fab fa-twitter"
-      link = "#"
-      title = "Twitter"
+    # [[params.footer.social]]
+    #   icon = "fab fa-twitter"
+    #   link = "#"
+    #   title = "Twitter"
 
     # [[params.footer.social]]
     #   icon = "fab fa-facebook"

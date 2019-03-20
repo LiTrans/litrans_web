@@ -221,6 +221,19 @@ fieldset[disabled] .btn-xl.active {
     margin: -15px;
 }
 
+@media (min-width: 768px) {
+    .row.equal {
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+
+.equal > div[class*='col-'] {
+    display: flex;
+    flex-direction: column;
+}
+
+
 @media(min-width:768px) {
     .navbar-brand>img {
         height: 50px;
@@ -552,6 +565,7 @@ section h3.section-subheading {
 }
 
 #news .post-block {
+    height: 95%;
 }
 
 .timeline {
@@ -645,6 +659,10 @@ section h3.section-subheading {
 
 .team-bio {
     padding: 15px
+}
+
+.team-member .profile {
+    text-align: left;
 }
 
 @media(min-width:992px) {
