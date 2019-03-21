@@ -7,7 +7,7 @@
         <h3 class="section-subheading text-mutedwith ">{{ with .Site.Params.team.subtitle }}{{ . | markdownify }}{{ end }}</h3>
       </div>
     </div>
-    <div class="row flexbox">
+    <div class="row flexbox flexbox-center">
       {{ range where .Data.Pages "Type" "team" }}
         {{ if eq .Params.role "professor" }}
         <div class="col-sm-3 col animatable fadeIn ">
@@ -43,7 +43,7 @@
       {{ end }}
     </div>
     <!-- <h2 class="section-heading">Postdoc</h2> -->
-    <div class="row flexbox">
+    <div class="row flexbox flexbox-center">
         {{ range where .Data.Pages "Type" "team" }}
           {{ if eq .Params.role "postdoc" }}
           <div class="col-sm-3 col animatable fadeIn ">
@@ -82,7 +82,7 @@
       </div>
 
     <!-- <h2 class="section-heading">PhD Students</h2> -->
-    <div class="row flexbox">
+    <div class="row flexbox flexbox-center">
       {{ range where .Data.Pages "Type" "team" }}
         {{ if eq .Params.role "phd" }}
         <div class="col-sm-3 col animatable fadeIn ">
@@ -121,7 +121,7 @@
     </div>
 
     <!-- <h2 class="section-heading">MSc Students</h2> -->
-    <div class="row flexbox">
+    <div class="row flexbox flexbox-center">
       {{ range where .Data.Pages "Type" "team" }}
         {{ if eq .Params.role "masc" }}
         <div class="col-sm-3 col animatable fadeIn ">
@@ -160,7 +160,7 @@
     </div>
 
     <!-- <h2 class="section-heading">Others</h2> -->
-    <div class="row flexbox">
+    <div class="row flexbox flexbox-center">
       {{ range where .Data.Pages "Type" "team" }}
         {{ if eq .Params.role "other" }}
         <div class="col-sm-3 col animatable fadeIn ">

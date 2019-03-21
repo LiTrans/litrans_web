@@ -7,6 +7,7 @@ status: Canada Research Chair in Disruptive Transportation and Services
 role: professor
 cv: https://bilalfarooqdotcom.files.wordpress.com/2018/01/farooq_cv_jan2018.pdf
 googlescholar: https://scholar.google.ca/citations?user=XHAkrswAAAAJ&hl=en
+website: https://bilalfarooq.com/
 social: [
   ["fa-github", "https://github.com/billjee"],
   ["fa-linkedin", "https://ca.linkedin.com/in/bilalfarooq"],
