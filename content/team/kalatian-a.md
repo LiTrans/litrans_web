@@ -1,14 +1,18 @@
 ---
-userID: 4
 img: "IMG_3924.jpg"
-name: Arash Kalatian
-position: PhD Student
-# status: " "
 role: phd
+name: "Arash Kalatian"
+position: "PhD Student" # PhD/MSc student, Professor, etc. leave blank if not applicable
 social: [
-  ["fa-github", "#"],
-  ["fa-linkedin", "#"],
-  ["fa-twitter", "#"]
-]
-# bio:
+    ["fa-github", "https://github.com/arashk1990"],
+    ["fa-linkedin", "https://linkedin.com/in/arashkalatian/"],
+    # ["fa-twitter", ""]
+] # enter your social media urls here leave blank "", optional
+# status: ""
+bio: "Arash Kalatian is a Ph.D. Candidate in the Transportation Engineering program at Ryerson University, Toronto.  He received his B.Sc. in Civil Engineering and M.Sc in Transportation Planning, both from Sharif University of Technology, Iran. Started his Ph.D. in 2017 under supervision of Dr. Bilal Farooq, his research mainly focuses on Cyber-Physical Transportation Systems, i.e. Virtual Reality and Ubiquitous Networks, and more specifically, their application in studying Pedestrian Behaviours and Movement Dynamics." # enter your short bio here (markdown format compatible)
+cv: "" # link to your CV online, optional
+website: "https://arashkalatian.com"
+googlescholar: "https://scholar.google.ca/citations?user=PEqSGdIAAAAJ&hl=en" # link to your google scholar profile, optional
+interest: ["Intelligent Transportation Systems", "Machine Learning"] # enter short research interests, optional
+# highlights: ["", "", ""] # enter your research highlights here (awards, achievements, etc.), optional
 ---
