@@ -50,8 +50,8 @@ googleAnalytics = ""
   [params.navigation]
     brand       = "LiTrans"
 	  # icon      = "fa fa-home"
-    # Optional logo as brand stored in img/
-    # logo      = "logo.svg"
+    # Optional logo as brand stored in img/logos
+    logo        = "litrans.png"
     projects    = "Projects"
     publication = "Publications"
     team        = "Team"
