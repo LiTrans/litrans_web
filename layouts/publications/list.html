@@ -19,14 +19,14 @@
             {{"<!-- /section title -->" | safeHTML}}
 
       {{ range (where .Data.Pages "Type" "publications").GroupByDate "2006" }}
-      <div class="row flexbox flexbox-center animatable fadeIn">
+      <div class="row flexbox flexbox-center">
           <div class="col-md-8">
             <h2>{{ .Key }}</h2>
             <hr/>
           </div>
           {{ range .Pages }}
           {{"<!-- single news post -->" | safeHTML}}
-          <article class="col-md-8 publication-item">
+          <article class="col-md-8 publication-item animatable fadeIn">
             <div class="">
               <div class="publication-thumbnail">
                 {{ $url := printf "publications/images/%s" .Params.preview }}
