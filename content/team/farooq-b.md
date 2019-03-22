@@ -13,6 +13,6 @@ bio:  "Bilal Farooq received Bachelor in Engineering from University of Engineer
 cv: https://bilalfarooqdotcom.files.wordpress.com/2018/01/farooq_cv_jan2018.pdf
 website: https://bilalfarooq.com/
 googlescholar: https://scholar.google.ca/citations?user=XHAkrswAAAAJ&hl=en
-# interest: ["interest_1", "interest_2"] # enter short research interests (traffic signal, CAV, etc.), optional
+interest: ["Travel Demand Modelling", "Cyber-Physical Transportation Systems", "Transportation Systems Simulation", "Disruptive and Transformative Transportation Technologies and Services", "Active Transportation"] # enter short research interests (traffic signal, CAV, etc.), optional
 # highlights: ["research_highlights_1", "research_highlights_2", "research_highlights_3"] # enter your research highlights here (awards, achievements, etc.), optional
 ---
