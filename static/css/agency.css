@@ -74,6 +74,10 @@ i.img-icon-contact {
     margin: 0 auto;
 }
 
+.img-logo {
+    margin: 20px;
+}
+
 .bg-light-gray {
     background-color: #eeeeee;
 }
@@ -216,9 +220,9 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-brand>img {
-    height: 50px;
+    height: 40px;
     max-width: 250px;
-    margin: -15px;
+    margin: -10px;
 }
 
 @media (min-width: 768px) {
@@ -937,3 +941,4 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #fed136;
 }
+
