@@ -1,34 +1,31 @@
 {{ "<!-- Publication Modals -->" | safeHTML }}
-{{ range where .Data.Pages "Type" "publications" }}
-{{ if .Params.featured }}
-  <div class="publication-modal modal fade" id="{{ .File.BaseFileName }}" tabindex="-1" role="dialog" aria-hidden="false">
-    <div class="modal-content">
-      <div class="close-modal" data-dismiss="modal">
-        <div class="lr">
-          <div class="rl">
-          </div>
-        </div>
-      </div>
-      <div class="container modal-container">
-        <div class="row">
-          <div class="col-sm-8 col-sm-offset-2">
+{{ range first 7 (where .Data.Pages "Type" "publications") }}
+<div id="{{ .File.BaseFileName }}" class="publication-modal modal fade" role="dialog" tabindex="-1" aria-hidden="false">
+  <div class="container">
+      <div class="row flexbox flexbox-center">
+
+        <!-- Modal content-->
+        <div class="col-md-7">
+          <div class="modal-content">
+            <div class="modal-header">
+              <div type="button" class="close-modal" data-dismiss="modal">
+                <!-- &times; -->
+                <div class="lr">
+                  <div class="rl"></div>
+                </div>
+              </div>
+              <h4 class="modal-title">Bibtex</h4>
+            </div>
             <div class="modal-body">
-              <h2>{{ .Title  | markdownify }}</h2>
-              <p class="item-intro text-muted">{{ .Params.subtitle | markdownify }}</p>
-              {{ $url := printf "img/publications/%s" .Params.img }}
-              <img class="img-responsive img-centered" src="{{ $url | absURL }}" alt="">
-              <p>{{ .Params.description | markdownify }}</p>
-              <ul class="list-inline">
-                <li>{{ with $.Site.Params.publication.modal.date }}{{ . }}{{ end }}: {{ .Date.Format "2006-01-02" }}</li>
-                <li>{{ with $.Site.Params.publication.modal.client }}{{ . | markdownify }}{{ end }}: <a href="{{ .Params.clientLink }}">{{ .Params.client }}</a></li>
-                <li>{{ with $.Site.Params.publication.modal.category }}{{ . }}{{ end }}: {{ .Params.category  | markdownify }}</li>
-              </ul>
-              <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> {{ with $.Site.Params.publication.modal.buttonText }}{{ . }}{{ end }}</button>
+              {{ $url := printf "publications/bibtex/%s" .Params.bibtex }}
+              {{ if and (isset .Params "bibtex") (ne .Params.bibtex "") }}
+              <pre><code>{{ readFile $url }}</code></pre>
+              {{ end }}
             </div>
           </div>
         </div>
+
       </div>
-    </div>
   </div>
-{{ end }}
+</div>
 {{ end }}

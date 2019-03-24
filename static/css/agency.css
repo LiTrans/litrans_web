@@ -834,37 +834,23 @@ footer ul.quicklinks {
     color: #fed136;
 }
 
-.publication-modal .modal-content {
-    padding: 0 0 20px;
-    min-height: 0%;
-    border: 0;
-    border-radius: 0;
-    margin: 30px auto;
-    max-width: 900px;
-    float: center;
-    background-clip: padding-box;
-    box-shadow: 0 7px 7px rgba(0, 0, 0, 0.3);
+.publication-modal {
+    text-align: left;
+    margin-top: 15%;
 }
 
-.publication-modal .modal-container {
-    width: inherit;
+.publication-modal .modal-content {
+    min-height: 0%;
     border: 0;
+    border-radius: 2px;
+    margin: auto;
+    background-clip: padding-box;
+    box-shadow: 0 7px 7px rgba(0, 0, 0, 0.3);
 }
 
 .publication-modal .modal-content h2 {
     margin-bottom: 15px;
     font-size: 3em;
-}
-
-.publication-modal .modal-content p {
-    margin-bottom: 30px;
-}
-
-.publication-modal .modal-content p.item-intro {
-    margin: 20px 0 30px;
-    font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 16px;
-    font-style: italic;
 }
 
 .publication-modal .modal-content ul.list-inline {
@@ -877,13 +863,27 @@ footer ul.quicklinks {
 }
 
 .publication-modal .modal-body {
-    text-align: center;
+    text-align: left;
+    width: 100%;
+    /* position: relative;
+    flex: 1 1 auto; */
+}
+
+.modal-body pre {
+    position: relative;
+    background-color: #f2f2f2;
+    overflow: auto;
+}
+
+.modal-body code {
+    white-space: pre-line;
+    overflow: inherit;
 }
 
 .publication-modal .close-modal {
     position: absolute;
     top: 10px;
-    right: 25px;
+    right: 12px;
     width: 50px;
     height: 50px;
     background-color: transparent;
@@ -897,7 +897,7 @@ footer ul.quicklinks {
 .publication-modal .close-modal .lr {
     z-index: 1051;
     width: 1px;
-    height: 50px;
+    height: 30px;
     margin-left: 35px;
     background-color: #222;
     -webkit-transform: rotate(45deg);
@@ -908,7 +908,7 @@ footer ul.quicklinks {
 .publication-modal .close-modal .lr .rl {
     z-index: 1052;
     width: 1px;
-    height: 50px;
+    height: 30px;
     background-color: #222;
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);

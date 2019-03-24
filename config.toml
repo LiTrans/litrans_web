@@ -128,12 +128,6 @@ googleAnalytics = ""
     # subtitle = ""
     display = true
 
-    # [params.publication.modal]
-    #   client     = "Client"
-    #   date       = "Date"
-    #   category   = "Category"
-    #   buttonText = "Close"
-
   # News section
   [params.news]
     enable = true

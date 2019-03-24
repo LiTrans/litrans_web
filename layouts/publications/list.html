@@ -41,6 +41,9 @@
                     {{ if and (isset .Params "link") (ne .Params.link "") }}
                       <a href={{ .Params.link }}>[link]</a>
                     {{ end }}
+                    {{ if and (isset .Params "bibtex") (ne .Params.bibtex "") }}
+                      <a data-toggle="modal" data-target="#{{ .File.BaseFileName }}" href="">[bibtex]</a>
+                    {{ end }}
                   </div>
               </div>
             </div>
@@ -68,7 +71,11 @@
 
 	{{ if .Site.Params.footer.enable }}
 	  {{ partial "footer.html" . }}
-	{{ end }}
+  {{ end }}
+
+  {{ if .Site.Params.publication.enable }}
+    {{ partial "modals.html" . }}
+  {{ end }}
 
 	{{ partial "js.html" . }}
 </body>
