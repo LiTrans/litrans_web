@@ -69,6 +69,16 @@
 							{{ end }}
 						</ul>
 					{{ end }}
+					{{ if .Params.media }}
+						<h2>In the media</h2>
+						<ul>
+							{{ range .Params.media }}
+							<li>
+								<p>{{ . | markdownify }}</p>
+							</li>
+							{{ end }}
+						</ul>
+					{{ end }}
 				</div>
 
 			</div>
