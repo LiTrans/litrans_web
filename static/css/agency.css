@@ -895,7 +895,7 @@ footer ul.quicklinks {
 }
 
 .publication-modal .close-modal .lr {
-    z-index: 1051;
+    /* z-index: 1051; */
     width: 1px;
     height: 30px;
     margin-left: 35px;
@@ -906,7 +906,7 @@ footer ul.quicklinks {
 }
 
 .publication-modal .close-modal .lr .rl {
-    z-index: 1052;
+    /* z-index: 1052; */
     width: 1px;
     height: 30px;
     background-color: #222;
