@@ -1,5 +1,5 @@
 {{ "<!-- Publication Modals -->" | safeHTML }}
-{{ range first 7 (where .Data.Pages "Type" "publications") }}
+{{ range (where .Data.Pages "Type" "publications") }}
 <div id="{{ .File.BaseFileName }}" class="publication-modal modal fade" role="dialog" tabindex="-1" aria-hidden="false">
   <div class="container">
       <div class="row flexbox flexbox-center">
