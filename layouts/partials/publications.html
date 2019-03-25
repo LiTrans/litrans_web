@@ -16,6 +16,7 @@
               {{ $url := printf "publications/images/%s" .Params.preview }}
               <img src="{{ $url | absURL }}" alt="">
             </div>
+            
             <div class="publication-caption">
               <p>{{ .Params.bibliography | markdownify }}</p>
               <div>
@@ -29,18 +30,20 @@
                   <a data-toggle="modal" data-target="#{{ .File.BaseFileName }}" href="">[bibtex]</a>
                 {{ end }}
               </div>
-
             </div>
+            
           </div>
         </div>
+        {{ partial "modals.html" . }}
         {{ end }}
-
       </div>
+
       <div class="row btn-navigate">
         <div class="text-center">
           <a class="btn btn-primary" href="publications">View All Publications</a>
         </div>
       </div>
+
     {{ end }}
   </div>
 </section>
