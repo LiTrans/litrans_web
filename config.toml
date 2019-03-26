@@ -124,7 +124,7 @@ googleAnalytics = ""
     # All projects defined in their own files. You can find example projects
     # at 'exampleSite/data/projects'. Copy the 'projects' folder into the
     # 'data' directory at the root of this Hugo site.
-    title   = "Publications"
+    title   = "Recent Publications"
     # subtitle = ""
     display = true
 

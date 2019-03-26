@@ -11,4 +11,5 @@ preview: iatbr.jpg
 arxiv: "https://arxiv.org/abs/1901.07151"
 link: ""
 abstract: "Recently, we developed a dynamic distributed end-to-end vehicle routing system (E2ECAV) using a network of intelligent intersections and level 5 CAVs (Djavadian & Farooq, 2018). The case study of the downtown Toronto Network showed that E2ECAV has the ability to maximize throughput and reduce travel time up to 40%. However, the efficiency of these new technologies relies on the acceptance of users in adapting to them and their willingness to give control fully or partially to CAVs. In this study a stated preference laboratory experiment is designed employing Virtual Reality Immersive Environment (VIRE) driving simulator to evaluate the behavioral response of drivers to E2ECAV. The aim is to investigate under what conditions drivers are more willing to adapt. The results show that factors such as locus of control, congestion level and ability to multi-task have significant impact."
+bibtex: djavadian2019virtual.bib
 ---
