@@ -33,15 +33,16 @@
 							Website
 							{{ if .Params.website }}</a>{{end}}
 
+						{{ if .Params.social }}
 						<ul class="list-inline social-buttons">
 							{{ range .Params.social }}
-							<li>
-								<a {{ if ne (index . 1) "" }}href="{{ index . 1 }}" {{ end }}>
-									<i class="fab {{ index . 0 }}"></i>
-								</a>
-							</li>
+								{{ if .github }}<li><a href="{{ .github }}"><i class="fab fa-github"></i></a></li>{{ end }}
+								{{ if .linkedin }}<li><a href="{{ .linkedin }}"><i class="fab fa-linkedin"></i></a></li>{{ end }}
+								{{ if .twitter }}<li><a href="{{ .twitter }}"><i class="fab fa-twitter"></i></a></li>{{ end }}
+								<!-- add more social media links here -->
 							{{ end }}
 						</ul>
+						{{ end }}
 					</div>
 				</div>
 				<div class="col-md-7 col">
@@ -53,9 +54,7 @@
 					<h2>Research Interests</h2>
 					<ul>
 						{{ range .Params.interest }}
-						<li>
-							<p>{{ . | markdownify }}</p>
-						</li>
+						<li><p>{{ . | markdownify }}</p></li>
 						{{ end }}
 					</ul>
 					{{ end }}
@@ -63,9 +62,7 @@
 					<h2>Research Highlights</h2>
 					<ul>
 						{{ range .Params.highlights }}
-						<li>
-							<p>{{ . | markdownify }}</p>
-						</li>
+						<li><p>{{ . | markdownify }}</p></li>
 						{{ end }}
 					</ul>
 					{{ end }}
@@ -73,9 +70,7 @@
 					<h2>In the media</h2>
 					<ul>
 						{{ range .Params.media }}
-						<li>
-							<p>{{ . | markdownify }}</p>
-						</li>
+						<li><p>{{ . | markdownify }}</p></li>
 						{{ end }}
 					</ul>
 					{{ end }}
