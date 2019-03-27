@@ -2,30 +2,30 @@
 {{ range (where .Data.Pages "Type" "publications") }}
 <div id="{{ .File.BaseFileName }}" class="publication-modal modal fade" role="dialog" tabindex="-1" aria-hidden="false">
   <div class="container">
-      <div class="row flexbox flexbox-center">
+    <div class="row flexbox flexbox-center">
 
-        <!-- Modal content-->
-        <div class="col-md-7">
-          <div class="modal-content">
-            <div class="modal-header">
-              <div type="button" class="close-modal" data-dismiss="modal">
-                <!-- &times; -->
-                <div class="lr">
-                  <div class="rl"></div>
-                </div>
+      <!-- Modal content-->
+      <div class="col-md-7">
+        <div class="modal-content">
+          <div class="modal-header">
+            <div type="button" class="close-modal" data-dismiss="modal">
+              <!-- &times; -->
+              <div class="lr">
+                <div class="rl"></div>
               </div>
-              <h4 class="modal-title">Bibtex</h4>
             </div>
-            <div class="modal-body">
-              {{ $url := printf "publications/bibtex/%s" .Params.bibtex }}
-              {{ if and (isset .Params "bibtex") (ne .Params.bibtex "") }}
-              <pre><code>{{ readFile $url }}</code></pre>
-              {{ end }}
-            </div>
+            <h4 class="modal-title">Bibtex</h4>
+          </div>
+          <div class="modal-body">
+            {{ $url := printf "publications/bibtex/%s" .Params.bibtex }}
+            {{ if and (isset .Params "bibtex") (ne .Params.bibtex "") }}
+            <pre><code>{{ readFile $url }}</code></pre>
+            {{ end }}
           </div>
         </div>
-
       </div>
+
+    </div>
   </div>
 </div>
 {{ end }}

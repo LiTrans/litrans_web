@@ -9,16 +9,16 @@
     <div class="row flexbox{{ if .Site.Params.clients_list.center }} flexbox-center{{ end }}">
 
       {{ range .Site.Params.clients }}
-        <div class="col-md-3 col-sm-6 col">
-          {{ $url := printf "img/logos/%s" .logo }}
-          {{ if .link }}
-            <a href="{{ .link }}">
-              <img src="{{ $url | absURL }}" class="img-responsive img-centered" alt="">
-            </a>
-          {{ else }}
-            <img src="{{ $url | absURL }}" class="img-responsive img-centered" alt="">
-          {{ end }}
-        </div>
+      <div class="col-md-3 col-sm-6 col">
+        {{ $url := printf "img/logos/%s" .logo }}
+        {{ if .link }}
+        <a href="{{ .link }}">
+          <img src="{{ $url | absURL }}" class="img-responsive img-centered" alt="">
+        </a>
+        {{ else }}
+        <img src="{{ $url | absURL }}" class="img-responsive img-centered" alt="">
+        {{ end }}
+      </div>
       {{ end }}
 
     </div>

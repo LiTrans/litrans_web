@@ -4,81 +4,82 @@
 {{ partial "head.html" . }}
 
 <body class="index">
-    {{ partial "nav.html" . }}
-    {{ partial "herono.html" . }}
+  {{ partial "nav.html" . }}
+  {{ partial "herono.html" . }}
 
-	<section id="{{ .Type }}">
-		<div class="container">
-            {{"<!-- section title -->" | safeHTML}}
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                <h2 class="section-heading">{{ with .Site.Params.publication.title }}{{ . | markdownify }}{{ end }}</h2>
-                <h3 class="section-subheading text-muted">{{ with .Site.Params.publication.subtitle }}{{ . | markdownify }}{{ end }}</h3>
-                </div>
-            </div>
-            {{"<!-- /section title -->" | safeHTML}}
+  <section id="{{ .Type }}">
+    <div class="container">
+      {{"<!-- section title -->" | safeHTML}}
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading">Publications</h2>
+          <h3 class="section-subheading text-muted">
+            {{ with .Site.Params.publication.subtitle }}{{ . | markdownify }}{{ end }}</h3>
+        </div>
+      </div>
+      {{"<!-- /section title -->" | safeHTML}}
 
       {{ range (where .Data.Pages "Type" "publications").GroupByDate "2006" }}
       <div class="row flexbox flexbox-center">
-          <div class="col-md-8">
-            <h2>{{ .Key }}</h2>
-            <hr/>
-          </div>
-          {{ range .Pages }}
-          {{"<!-- single pub entry -->" | safeHTML}}
-          <article class="col-md-8 publication-item animatable fadeIn">
-            <div class="">
-              <div class="publication-thumbnail">
-                {{ $url := printf "publications/images/%s" .Params.preview }}
-                <img src="{{ $url | absURL }}" alt="">
-              </div>
-              <div class="publication-caption">
-                  <p>{{ .Params.bibliography | markdownify }}</p>
-                  <div>
-                    {{ if and (isset .Params "arxiv") (ne .Params.arxiv "") }}
-                      <a href={{ .Params.arxiv }}>[arxiv]</a>
-                    {{ end }}
-                    {{ if and (isset .Params "link") (ne .Params.link "") }}
-                      <a href={{ .Params.link }}>[link]</a>
-                    {{ end }}
-                    {{ if and (isset .Params "bibtex") (ne .Params.bibtex "") }}
-                      <a data-toggle="modal" data-target="#{{ .File.BaseFileName }}" href="">[bibtex]</a>
-                    {{ end }}
-                  </div>
+        <div class="col-md-8">
+          <h2>{{ .Key }}</h2>
+          <hr />
+        </div>
+        {{ range .Pages }}
+        {{"<!-- single pub entry -->" | safeHTML}}
+        <article class="col-md-8 publication-item animatable fadeIn">
+          <div class="">
+            <div class="publication-thumbnail">
+              {{ $url := printf "publications/images/%s" .Params.preview }}
+              <img src="{{ $url | absURL }}" alt="">
+            </div>
+            <div class="publication-caption">
+              <p>{{ .Params.bibliography | markdownify }}</p>
+              <div>
+                {{ if and (isset .Params "arxiv") (ne .Params.arxiv "") }}
+                <a href={{ .Params.arxiv }}>[arxiv]</a>
+                {{ end }}
+                {{ if and (isset .Params "link") (ne .Params.link "") }}
+                <a href={{ .Params.link }}>[link]</a>
+                {{ end }}
+                {{ if and (isset .Params "bibtex") (ne .Params.bibtex "") }}
+                <a data-toggle="modal" data-target="#{{ .File.BaseFileName }}" href="">[bibtex]</a>
+                {{ end }}
               </div>
             </div>
-            <hr/>
-          </article>
-          {{ partial "modals.html" . }}
-          {{"<!-- /single pub entry -->" | safeHTML}}
-          {{ end }}
+          </div>
+          <hr />
+        </article>
+        {{ partial "modals.html" . }}
+        {{"<!-- /single pub entry -->" | safeHTML}}
+        {{ end }}
       </div>
 
-    {{ end }}
+      {{ end }}
 
-    {{"<!-- section nav button -->" | safeHTML}}
-    <div class="row btn-navigate">
+      {{"<!-- section nav button -->" | safeHTML}}
+      <div class="row btn-navigate">
         <div class="text-center">
-            <a class="btn btn-primary" href="/">Home</a>
+          <a class="btn btn-primary" href="/">Home</a>
         </div>
+      </div>
+      {{"<!-- /section nav button -->" | safeHTML}}
     </div>
-    {{"<!-- /section nav button -->" | safeHTML}}
-		</div>
   </section>
 
   {{ if .Site.Params.contact.enable }}
-    {{ partial "contact.html" . }}
+  {{ partial "contact.html" . }}
   {{ end }}
 
-	{{ if .Site.Params.footer.enable }}
-	  {{ partial "footer.html" . }}
+  {{ if .Site.Params.footer.enable }}
+  {{ partial "footer.html" . }}
   {{ end }}
 
   {{ if .Site.Params.publication.enable }}
-    {{ partial "modals.html" . }}
+  {{ partial "modals.html" . }}
   {{ end }}
 
-	{{ partial "js.html" . }}
+  {{ partial "js.html" . }}
 </body>
 
 </html>

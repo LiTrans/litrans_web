@@ -13,13 +13,13 @@
 {{ template "_internal/google_analytics_async.html" . }}
 
 {{ if .Site.Params.analytics.piwik }}
-  {{ partial "_analytics/piwik.html" . }}
+{{ partial "_analytics/piwik.html" . }}
 {{ end }}
 
 {{ if .Site.Params.contact.captcha }}
-  <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 {{ end }}
 
 {{ range .Site.Params.custom_js }}
-  <script src="{{ . | absURL }}"></script>
+<script src="{{ . | absURL }}"></script>
 {{ end }}

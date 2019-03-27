@@ -232,7 +232,7 @@ fieldset[disabled] .btn-xl.active {
     }
 }
 
-.equal > div[class*='col-'] {
+.equal>div[class*='col-'] {
     display: flex;
     flex-direction: column;
 }
@@ -941,4 +941,3 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #fed136;
 }
-

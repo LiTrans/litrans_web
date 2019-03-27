@@ -6,11 +6,12 @@
         <ul class="list-inline quicklinks">
 
           {{ range .Site.Params.footer.quicklinks }}
-            <li>{{ if .link }}<a href="{{ .link }}">{{ .text | markdownify }}</a>{{ else }}{{ .text | markdownify }}{{ end }}</li> |
+          <li>{{ if .link }}
+            <a href="{{ .link }}">{{ .text | markdownify }}</a>{{ else }}{{ .text | markdownify }}{{ end }}</li> |
           {{ end }}
-            <li>
-              <span class="copyright">{{ with .Site.Params.footer.copyright }}{{ . | markdownify }}{{ end }}</span>
-            </li>
+          <li>
+            <span class="copyright">{{ with .Site.Params.footer.copyright }}{{ . | markdownify }}{{ end }}</span>
+          </li>
         </ul>
       </div>
     </div>

@@ -4,44 +4,45 @@
     <div class="row">
       <div class="col-lg-12 text-center animatable fadeIn">
         <h2 class="section-heading">{{ with .Site.Params.publication.title }}{{ . | markdownify }}{{ end }}</h2>
-        <h3 class="section-subheading text-muted">{{ with .Site.Params.publication.subtitle }}{{ . | markdownify }}{{ end }}</h3>
+        <h3 class="section-subheading text-muted">
+          {{ with .Site.Params.publication.subtitle }}{{ . | markdownify }}{{ end }}</h3>
       </div>
     </div>
     {{ if .Site.Params.publication.display }}
-      <div class="row flexbox{{ if .Site.Params.publication.center }} flexbox-center{{ end }}">
-        {{ range first 7 (where .Data.Pages "Type" "publications") }}
-        <div class="col-sm-10 publication-item animatable fadeInUp">
-          <div class="card">
-            <div class="publication-thumbnail">
-              {{ $url := printf "publications/images/%s" .Params.preview }}
-              <img src="{{ $url | absURL }}" alt="">
-            </div>
-
-            <div class="publication-caption">
-              <p>{{ .Params.bibliography | markdownify }}</p>
-              <div>
-                {{ if and (isset .Params "arxiv") (ne .Params.arxiv "") }}
-                  <a href={{ .Params.arxiv }}>[arxiv]</a>
-                {{ end }}
-                {{ if and (isset .Params "link") (ne .Params.link "") }}
-                  <a href={{ .Params.link }}>[link]</a>
-                {{ end }}
-                {{ if and (isset .Params "bibtex") (ne .Params.bibtex "") }}
-                  <a data-toggle="modal" data-target="#{{ .File.BaseFileName }}" href="">[bibtex]</a>
-                {{ end }}
-              </div>
-            </div>
-
+    <div class="row flexbox{{ if .Site.Params.publication.center }} flexbox-center{{ end }}">
+      {{ range first 7 (where .Data.Pages "Type" "publications") }}
+      <div class="col-sm-10 publication-item animatable fadeInUp">
+        <div class="card">
+          <div class="publication-thumbnail">
+            {{ $url := printf "publications/images/%s" .Params.preview }}
+            <img src="{{ $url | absURL }}" alt="">
           </div>
-        </div>
-        {{ end }}
-      </div>
 
-      <div class="row btn-navigate">
-        <div class="text-center">
-          <a class="btn btn-primary" href="publications">View All Publications</a>
+          <div class="publication-caption">
+            <p>{{ .Params.bibliography | markdownify }}</p>
+            <div>
+              {{ if and (isset .Params "arxiv") (ne .Params.arxiv "") }}
+              <a href={{ .Params.arxiv }}>[arxiv]</a>
+              {{ end }}
+              {{ if and (isset .Params "link") (ne .Params.link "") }}
+              <a href={{ .Params.link }}>[link]</a>
+              {{ end }}
+              {{ if and (isset .Params "bibtex") (ne .Params.bibtex "") }}
+              <a data-toggle="modal" data-target="#{{ .File.BaseFileName }}" href="">[bibtex]</a>
+              {{ end }}
+            </div>
+          </div>
+
         </div>
       </div>
+      {{ end }}
+    </div>
+
+    <div class="row btn-navigate">
+      <div class="text-center">
+        <a class="btn btn-primary" href="publications">View All Publications</a>
+      </div>
+    </div>
 
     {{ end }}
   </div>

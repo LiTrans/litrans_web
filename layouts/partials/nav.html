@@ -11,15 +11,17 @@
         <span class="icon-bar"></span>
       </button>
       {{ if .Site.Params.navigation.logo }}
-        <a class="navbar-brand {{ if eq .Type "misc" }} navbar-brand-fixed {{ end }} page-scroll" href="{{ .Site.BaseURL }}">
-          {{ $url := printf "img/logos/%s" .Site.Params.navigation.logo }}
-          <img src="{{ $url | absURL }}" class="img-responsive img-circle" alt="{{ .Site.Params.navigation.brand }}">
-        </a>
+      <a class="navbar-brand {{ if eq .Type "misc" }} navbar-brand-fixed {{ end }} page-scroll"
+        href="{{ .Site.BaseURL }}">
+        {{ $url := printf "img/logos/%s" .Site.Params.navigation.logo }}
+        <img src="{{ $url | absURL }}" class="img-responsive img-circle" alt="{{ .Site.Params.navigation.brand }}">
+      </a>
       {{ else }}
-        <a class="navbar-brand {{ if eq .Type "misc" }} navbar-brand-fixed {{ end }} page-scroll" href="{{ .Site.BaseURL }}">
-		  <i class="{{ .Site.Params.navigation.icon }}"></i>
-          {{ .Site.Params.navigation.brand }}
-        </a>
+      <a class="navbar-brand {{ if eq .Type "misc" }} navbar-brand-fixed {{ end }} page-scroll"
+        href="{{ .Site.BaseURL }}">
+        <i class="{{ .Site.Params.navigation.icon }}"></i>
+        {{ .Site.Params.navigation.brand }}
+      </a>
       {{ end }}
 
     </div>
@@ -31,45 +33,50 @@
         </li>
 
         {{ range .Site.Menus.prepend }}
-          <li>
-            <a href="{{ .URL }}">{{ .Name | markdownify }}</a>
-          </li>
+        <li>
+          <a href="{{ .URL }}">{{ .Name | markdownify }}</a>
+        </li>
         {{ end }}
 
         {{ if .Site.Params.projects.enable }}
-          <li>
-            <a class="page-scroll" href="{{ .Site.BaseURL }}#projects">{{ with .Site.Params.navigation.projects }}{{ . }}{{ end }}</a>
-          </li>
+        <li>
+          <a class="page-scroll"
+            href="{{ .Site.BaseURL }}#projects">{{ with .Site.Params.navigation.projects }}{{ . }}{{ end }}</a>
+        </li>
         {{ end }}
 
         {{ if .Site.Params.team.enable }}
-          <li>
-            <a class="page-scroll" href="{{ .Site.BaseURL }}#team">{{ with .Site.Params.navigation.team }}{{ . }}{{ end }}</a>
-          </li>
+        <li>
+          <a class="page-scroll"
+            href="{{ .Site.BaseURL }}#team">{{ with .Site.Params.navigation.team }}{{ . }}{{ end }}</a>
+        </li>
         {{ end }}
 
         {{ if .Site.Params.news.enable }}
-          <li>
-            <a class="page-scroll" href="{{ .Site.BaseURL }}#news">{{ with .Site.Params.navigation.news }}{{ . }}{{ end }}</a>
-          </li>
+        <li>
+          <a class="page-scroll"
+            href="{{ .Site.BaseURL }}#news">{{ with .Site.Params.navigation.news }}{{ . }}{{ end }}</a>
+        </li>
         {{ end }}
 
         {{ if .Site.Params.publication.enable }}
-          <li>
-            <a class="page-scroll" href="{{ .Site.BaseURL }}#publications">{{ with .Site.Params.navigation.publication }}{{ . }}{{ end }}</a>
-          </li>
+        <li>
+          <a class="page-scroll"
+            href="{{ .Site.BaseURL }}#publications">{{ with .Site.Params.navigation.publication }}{{ . }}{{ end }}</a>
+        </li>
         {{ end }}
 
         {{ if .Site.Params.contact.enable }}
-          <li>
-            <a class="page-scroll" href="{{ .Site.BaseURL }}#contact">{{ with .Site.Params.navigation.contact }}{{ . }}{{ end }}</a>
-          </li>
+        <li>
+          <a class="page-scroll"
+            href="{{ .Site.BaseURL }}#contact">{{ with .Site.Params.navigation.contact }}{{ . }}{{ end }}</a>
+        </li>
         {{ end }}
 
         {{ range .Site.Menus.postpend }}
-          <li>
-            <a href="{{ .URL }}">{{ .Name }}</a>
-          </li>
+        <li>
+          <a href="{{ .URL }}">{{ .Name }}</a>
+        </li>
         {{ end }}
       </ul>
     </div>
