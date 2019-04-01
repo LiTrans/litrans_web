@@ -70,10 +70,6 @@ i.img-icon-contact {
     padding-right: 10px
 }
 
-.img-centered {
-    margin: 0 auto;
-}
-
 .img-logo {
     margin: 20px;
 }
@@ -669,21 +665,23 @@ section h3.section-subheading {
     text-align: left;
 }
 
-@media(min-width:992px) {
-    aside.clients img {
-        margin: 150px auto;
-    }
-}
-
-aside.clients img {
-    margin-top: 20px;
-    margin-bottom: 50px;
+aside.clients a {
+    margin: auto;
 }
 
 aside .heading {
     text-transform: none;
     color: #777;
     margin-top: 50px;
+}
+
+.client-item {
+    display: flex;
+    width: 250px;
+    min-height: 85px;
+    margin: 5px;
+    /* border: solid 1px; */
+    align-items: center;
 }
 
 section#contact {
