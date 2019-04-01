@@ -17,7 +17,7 @@ interest:
   - "Travel Behaviour" # enter short research interests (traffic signal, CAV, etc.), optional
 highlights:
  - "3rd place, [Thales Arduino Competition 2017](http://toronto.ieee.ca/2017/09/30/thales-project-arduino-competition/)"
- - "5th in Canada, [Thales Innovation Championship 2018](https://www.thalesgroup.com/en/thales-student-innovation-championship)"
+ - "5th place, [Thales Innovation Championship 2018](https://www.thalesgroup.com/en/thales-student-innovation-championship)"
 #  - "research_highlights_3" # enter your research highlights here (awards, achievements, etc.), optional
 # media:
   # - "media_blurb_1"
