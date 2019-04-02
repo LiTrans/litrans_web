@@ -26,7 +26,7 @@ Shadi received Bachelor of Applied Science in Civil Engineering and Master of Tr
 # cv: "your_cv_url" 
 
 # link to your personal website, optional
-website: "your_personal_website_url" 
+# website: "your_personal_website_url" 
 
 # link to your google scholar profile, optional
 googlescholar: "https://scholar.google.ca/citations?user=zYbFE8IAAAAJ&hl=en" 
