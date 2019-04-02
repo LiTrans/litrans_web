@@ -34,7 +34,9 @@ It is recommended to open up an [issue tracker](https://github.com/LITrans/litra
 ├── layouts/           // Site HTML layouts 
 |   ├── _default/
 |   ├── news/
-├── ...
+|   |   ├── single.html  // single article page
+|   |   ├── list.html  // list pages
+|   ├── ...
 |   ├── index.html     // The main landing page HTML file
 ├── static/            // Where all static files live
 |   ├── css/           // css files
@@ -42,5 +44,4 @@ It is recommended to open up an [issue tracker](https://github.com/LITrans/litra
 |   ├── js/            // js files
 |   ├── _redirects     // DNS redirects
 └── config.toml        // The Hugo configuration file
-└─── src/
 ```
