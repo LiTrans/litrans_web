@@ -1,22 +1,22 @@
 ---
 img: "IMG_3916.jpg"
 role: phd
-name: "Lama Al-Faseeh"
+name: "Lama Alfaseeh"
 position: PhD Student # PhD/MSc student, Professor, etc. leave blank if not applicable
 social: # enter your social media urls here, optional
   - github:
   - linkedin:
   - twitter:
 # status: ""
-# bio: "" # enter your short bio here (markdown format compatible)
+bio: "Lama started her Ph.D. in 2016 and joined the Laboratory of Innovations in Transportation (LiTrans) at Ryerson University in 2017. Lama is supervised by Dr. Bilal Farooq and her research investigates the impact of employing intelligent vehicles in a distributed routing environment. Lama utilizes the intelligent transportation systems (ITS) to mitigate the undesired effect on the environment and health. Lama earned her Bachelor Degree in Civil Engineering in 2006 and Master Degree in Construction Project Management in 2011 from Damascus University." # enter your short bio here (markdown format compatible)
 # cv: "your_cv_url" # link to your CV online, optional
 # website: "your_personal_website" # link to your personal website, optional
 # googlescholar: "" # link to your google scholar profile, optional
-# interest:
-  # - "interest_1"
-  # - "interest_2" # enter short research interests (traffic signal, CAV, etc.), optional
-# highlights:
-  # - "research_highlights_1"
+interest:
+   - "Mixed traffic"
+   - "Eco-routing" # enter short research interests (traffic signal, CAV, etc.), optional
+highlights:
+   - "[Winner: Ryerson 3MT 2018] (https://www.youtube.com/watch?v=mxQmHO5VSC4) (Video)"
   # - "research_highlights_2" # enter your research highlights here (awards, achievements, etc.), optional
 # media:
   # - "media_blurb_1"

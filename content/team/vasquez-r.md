@@ -8,13 +8,15 @@ social: # enter your social media urls here, optional
   - linkedin: https://www.linkedin.com/in/~rafaelvasquez
   - twitter: https://twitter.com/rafvasq
 # status: ""
-bio: "Rafael Vasquez received a Bachelor of Computer Science from Ryerson University and is currently completing a Master of Civil Engineering. During his studies, he has completed an internship at IBM and is currently a part of Ryerson's International Hyperloop Team. His research focuses on the development and use of Virtual Reality in the context of mobility behaviour and autonomous vehicles as well as training autonomous vehicles in simulation."
+bio: "Rafael Vasquez is a MASc. Candidate in the Transportation Engineering program at Ryerson University. He received his BSc. in Computer Science from Ryerson University during which he completed an internship at IBM and became involved with LiTrans as a research assistant. His research focuses on the development and application of Virtual Reality and Deep Learning within the context of mobility behaviour and autonomous vehicles."
 # cv: "your_cv_url" # link to your CV online, optional
 # website: "your_personal_website" # link to your personal website, optional
 googlescholar: https://scholar.google.ca/citations?user=56aipDMAAAAJ&hl=en
-# interest:
-  # - "interest_1"
-  # - "interest_2" # enter short research interests (traffic signal, CAV, etc.), optional
+# enter short research interests (traffic signal, CAV, etc.), optional
+interest: 
+ - "Virtual Reality for Behaviour Analysis"
+ - "3D Modelling and Simulation" 
+ - "Deep Learning"
 # highlights:
 #  - "research_highlights_1"
 #  - "research_highlights_2"
