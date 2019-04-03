@@ -16,7 +16,7 @@ interest:
    - "Mixed traffic"
    - "Eco-routing" # enter short research interests (traffic signal, CAV, etc.), optional
 highlights:
-   - "Winner: Ryerson 3MT 2018 (https://www.youtube.com/watch?v=mxQmHO5VSC4)"
+   - "[Winner: Ryerson 3MT 2018] (https://www.youtube.com/watch?v=mxQmHO5VSC4) (Video)"
   # - "research_highlights_2" # enter your research highlights here (awards, achievements, etc.), optional
 # media:
   # - "media_blurb_1"
