@@ -18,11 +18,13 @@ interest:
   - "Transportation Systems Simulation"
   - "Disruptive and Transformative Transportation Technologies and Services"
   - "Active Transportation" # enter short research interests (traffic signal, CAV, etc.), optional
-# highlights:
-#  - "research_highlights_1"
-#  - "research_highlights_2"
+highlights:
+ - "Ontario Early Researcher Award (2018)"
+ - "Canada Research Chair (2017-2002)"
+ - "Quebec Early Researcher Award (2014)"
 #  - "research_highlights_3" # enter your research highlights here (awards, achievements, etc.), optional
-# media:
-  # - "media_blurb_1"
-  # - "media_blurb_2" # enter <<media headlines>>, newspaper articles etc...
+media:
+  - "The Road to China's Global 5G Domination is Here (https://www.ozy.com/fast-forward/the-road-to-chinas-global-5g-domination-is-here/89333)"
+  - "Uber Partnerships with Car-Rental Startups Could Increase Congestion, Expert Says (https://www.cbc.ca/news/canada/toronto/uber-partnerships-with-car-rental-startups-could-increase-congestion-experts-say-1.4778393)" 
+  - "Making Cities Smarter with URBANFlux (http://www.btmontreal.ca/videos/5023121711001/)"# enter <<media headlines>>, newspaper articles etc...
 ---
