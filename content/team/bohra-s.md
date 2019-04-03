@@ -1,6 +1,6 @@
 ---
 img: "IMG_3934.jpg"
-role: masc
+role: meng
 name: Bohra Shubham
 position: MEng Student
 social: # enter your social media urls here, optional
