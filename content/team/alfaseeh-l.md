@@ -8,7 +8,7 @@ social: # enter your social media urls here, optional
   - linkedin:
   - twitter:
 # status: ""
- bio: "Lama started her Ph.D. in 2016 and joined the Laboratory of Innovations in Transportation (LiTrans) at Ryerson University in 2017. Lama is supervised by Dr. Bilal Farooq and her research investigates the impact of employing intelligent vehicles in a distributed routing environment. Lama utilizes the intelligent transportation systems (ITS) to mitigate the undesired effect on the environment. Lama earned her Bachelor Degree in Civil Engineering in 2006 and Master's Degree in Construction Project Management in 2011 from Damascus University." # enter your short bio here (markdown format compatible)
+ bio: "Lama started her Ph.D. in 2016 and joined the Laboratory of Innovations in Transportation (LiTrans) at Ryerson University in 2017. Lama is supervised by Dr. Bilal Farooq and her research investigates the impact of employing intelligent vehicles in a distributed routing environment. Lama utilizes the intelligent transportation systems (ITS) to mitigate the undesired effect on the environment and health. Lama earned her Bachelor Degree in Civil Engineering in 2006 and Master Degree in Construction Project Management in 2011 from Damascus University." # enter your short bio here (markdown format compatible)
 # cv: "your_cv_url" # link to your CV online, optional
 # website: "your_personal_website" # link to your personal website, optional
 # googlescholar: "" # link to your google scholar profile, optional
