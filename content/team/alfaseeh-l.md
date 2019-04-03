@@ -1,7 +1,7 @@
 ---
 img: "IMG_3916.jpg"
 role: phd
-name: "Lama Al-Faseeh"
+name: "Lama Alfaseeh"
 position: PhD Student # PhD/MSc student, Professor, etc. leave blank if not applicable
 social: # enter your social media urls here, optional
   - github:
