@@ -96,7 +96,7 @@ googleAnalytics = ""
       [[params.projects.row.list]]
         icon = "fas fa-car"
         title = "Smart Mobility"
-        description = "Novel distributed end-to-end connected and autonomous vehicles routing system with applications in advanced on-demand transit, traffic management, and system optimization."
+        description = "Novel distributed traffic management system with application in end-to-end CAV routing, advanced on-demand transit, traffic management, and system optimization."
         url = "projects/e2ecav2018.pdf"
 
       [[params.projects.row.list]]
