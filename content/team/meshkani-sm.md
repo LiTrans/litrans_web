@@ -5,16 +5,17 @@ name: Seyed Mehdi Meshkani
 position: PhD Student
 social: # enter your social media urls here, optional
   - github:
-  - linkedin:
+  - linkedin: https://www.linkedin.com/in/mehdi-meshkani-8ab66143
   - twitter:
 # status: ""
-# bio: "" # enter your short bio here (markdown format compatible)
+bio: "Mehdi is a Ph.D. student in the Transportation Engineering program at Ryerson University. He receivedhis B.Sc. in Civil Engineering from University of Sistan & Baluchestan, Iran, and M.Sc. in Roads and Transportation Engineering from Tarbiat Modares University, Iran. He started his Ph.D. in 2018 under supervision of Dr. Bilal Farooq. His research focuses on shared mobility using connected & autonomousvehicles. He applies optimization methods to distributed control of Multi-agent Systems." # enter your short bio here (markdown format compatible)
 # cv: "your_cv_url" # link to your CV online, optional
 # website: "your_personal_website" # link to your personal website, optional
 # googlescholar: "" # link to your google scholar profile, optional
-# interest:
-  # - "interest_1"
-  # - "interest_2" # enter short research interests (traffic signal, CAV, etc.), optional
+interest:
+  - "Optimization"
+  - "Agent-based Modeling & Simulation"
+  - "Intelligent Transportation Systems" # enter short research interests (traffic signal, CAV, etc.), optional
 # highlights:
 #  - "research_highlights_1"
 #  - "research_highlights_2"

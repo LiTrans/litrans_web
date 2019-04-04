@@ -11,7 +11,7 @@ social: # enter your social media urls here, optional
 # bio: "" # enter your short bio here (markdown format compatible)
 # cv: "your_cv_url" # link to your CV online, optional
 # website: "your_personal_website" # link to your personal website, optional
-# googlescholar: "" # link to your google scholar profile, optional
+googlescholar: "https://scholar.google.ca/citations?user=lPvrWhEAAAAJ&hl=en" # link to your google scholar profile, optional
 # interest:
   # - "interest_1"
   # - "interest_2" # enter short research interests (traffic signal, CAV, etc.), optional
