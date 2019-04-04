@@ -564,6 +564,7 @@ section h3.section-subheading {
 #news .news-item {
     right: 0;
     margin: 0 auto 2em;
+    max-width: 100%
 }
 
 #news twitter-widget {
