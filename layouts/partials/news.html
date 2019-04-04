@@ -12,18 +12,17 @@
     {{"<!-- /section title -->" | safeHTML}}
 
     <div class="row equal flexbox{{ if .Site.Params.news.center }} flexbox-center{{ end }}">
-      {{ range first 4 (where .Data.Pages "Type" "news") }}
+      {{ range first 3 (where .Data.Pages "Type" "news") }}
       {{"<!-- single news post -->" | safeHTML}}
-      <article class="col-md-3 news-item animatable fadeInUp ">
+      <article class="col-lg-4 news-item animatable fadeInUp ">
         <div class="card post-block">
           <div class="news-content">
             <a href="{{ .Permalink }}">
               {{ .Date.Format "January 2, 2006" }}
               <h4>{{ .Title | markdownify }}</h4>
             </a>
-            <p class="text-muted">
-              {{ if isset .Params "description" }}{{ .Params.description | markdownify }}{{ else }}{{ .Summary | markdownify }}{{ end }}
-            </p>
+          <hr/>
+            {{ if isset .Params "description" }}<p>{{ .Params.description | markdownify }}</p>{{ else }}{{ .Summary | markdownify }}{{ end }}
           </div>
 
         </div>
