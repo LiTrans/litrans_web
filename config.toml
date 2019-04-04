@@ -118,7 +118,7 @@ googleAnalytics = ""
         url = "projects/kalatianfarooq-iatbr-2018.pdf"
 
       [[params.projects.row.list]]
-        icon = "fa fa-user-shield"
+        icon = "fas fa-city"
         title = "UrbanFlux"
         description = "Ubiquitous sensors network for sensing multimodal traffic in real-time for complete streets"
         url = "https://bilalfarooqdotcom.files.wordpress.com/2018/02/farooq_ryerson_slides.pdf"
