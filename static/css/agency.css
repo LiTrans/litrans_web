@@ -552,8 +552,21 @@ section h3.section-subheading {
     margin-bottom: 50px;
 }
 
+#news figure {
+    text-align: center;
+}
+
+#news figure.description {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
 #news .news-item {
     right: 0;
+    margin: 0 auto 2em;
+}
+
+#news twitter-widget {
     margin: 0 auto;
 }
 
@@ -565,7 +578,7 @@ section h3.section-subheading {
 }
 
 #news .post-block {
-    height: 95%;
+    height: 100%;
 }
 
 .timeline {
