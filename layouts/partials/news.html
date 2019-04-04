@@ -22,7 +22,9 @@
               <h4>{{ .Title | markdownify }}</h4>
             </a>
           <hr/>
-            {{ if isset .Params "description" }}<p>{{ .Params.description | markdownify }}</p>{{ else }}{{ .Summary | markdownify }}{{ end }}
+            {{ if isset .Params "description" }}<p>{{ .Params.description | markdownify }}</p>
+            {{ else }}{{ .Summary | markdownify }}
+            {{ end }}
           </div>
 
         </div>
