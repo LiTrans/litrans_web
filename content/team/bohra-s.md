@@ -3,22 +3,42 @@ img: "IMG_3934.jpg"
 role: meng
 name: Bohra Shubham
 position: MEng Student
-social: # enter your social media urls here, optional
+
+# enter your social media urls here, optional
+social:
   - github:
-  - linkedin:
-  - twitter:
+  - linkedin: https://www.linkedin.com/in/shubhambohra/
+  - twitter: https://twitter.com/shubhambohra94
+
 # status: ""
-# bio: "" # enter your short bio here (markdown format compatible)
-# cv: "your_cv_url" # link to your CV online, optional
-# website: "your_personal_website" # link to your personal website, optional
-# googlescholar: "" # link to your google scholar profile, optional
-# interest:
-  # - "interest_1"
-  # - "interest_2" # enter short research interests (traffic signal, CAV, etc.), optional
+
+# enter your short bio here (markdown format compatible)
+bio: "Shubham Bohra is a Master of Engineering student in the Laboratory of Innovations in Transportation at Ryerson University supervised by [Dr. Bilal Farooq](../farooq-b). Shubham’s research investigates the adjustments required for interrupted flow by modeling these adjustments using microsimulation tool VISSIM with the co-supervision of City of Toronto. In particular, it focuses on Design Manual Adjustments for Autonomous Vehicles under varying Volumes and Market Penetration Rates
+
+
+Shubham graduated with his Bachelor of Technology Degree from Rajasthan Technical University in 2016 and began his M.Eng. in Civil Engineering at Ryerson University in 2017."
+
+# link to your CV online, optional
+cv: "../cv/bohra-s.pdf"
+
+# link to your personal website, optional
+# website: "your_personal_website"
+
+# link to your google scholar profile, optional
+# googlescholar: ""
+
+# enter short research interests (traffic signal, CAV, etc.), optional
+interest:
+  - "Autonomous and Connected Vehicles"
+  - "Transportation Planning and Modelling"
+
+# enter your research highlights here (awards, achievements, etc.), optional
 # highlights:
   # - "research_highlights_1"
-  # - "research_highlights_2" # enter your research highlights here (awards, achievements, etc.), optional
+  # - "research_highlights_2"
+
+# enter <<media headlines>>, newspaper articles etc...
 # media:
   # - "media_blurb_1"
-  # - "media_blurb_2" # enter <<media headlines>>, newspaper articles etc...
+  # - "media_blurb_2"
 ---

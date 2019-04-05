@@ -2,7 +2,7 @@
 img: "IMG_3914.jpg"
 role: masc
 name: Farah Samouh
-position: MSc Student
+position: MASc Student
 social: # enter your social media urls here, optional
   - github:
   - linkedin: https://www.linkedin.com/in/farahsamouh
