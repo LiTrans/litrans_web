@@ -5,16 +5,17 @@ name: Farah Samouh
 position: MSc Student
 social: # enter your social media urls here, optional
   - github:
-  - linkedin:
-  - twitter:
-# status: ""
-# bio: "" # enter your short bio here (markdown format compatible)
-# cv: "your_cv_url" # link to your CV online, optional
+  - linkedin: https://www.linkedin.com/in/farahsamouh
+  - twitter: https://twitter.com/FarahSamouh
+status: "Mitacs Intern at CUTRIC"
+bio: "Farah Samouh is a Master of Applied Science student in the Laboratory of Innovations in Transportation at Ryerson University supervised by [Dr. Bilal Farooq](../farooq-b). Farah’s research investigates the impact of adapting autonomous technologies on traffic network conditions to accommodate the high increase in demand. By using simulation and optimization her research explores the use of autonomous robots and drones to reduce congestion in the network. Farah graduated with her Bachelor of Science Degree from [The University of Jordan](http://www.ju.edu.jo/home.aspx) in 2017 and began her MASc. in Civil Engineering at Ryerson University later that year" # enter your short bio here (markdown format compatible)
+cv: "../cv/samouh-f.pdf" # link to your CV online, optional
 # website: "your_personal_website" # link to your personal website, optional
 # googlescholar: "" # link to your google scholar profile, optional
-# interest:
-  # - "interest_1"
-  # - "interest_2" # enter short research interests (traffic signal, CAV, etc.), optional
+interest:
+  - "Intelligent Transportation Systems"
+  - "Automated Vehicles"
+  - "Transportation Planning" # enter short research interests (traffic signal, CAV, etc.), optional
 # highlights:
 #  - "research_highlights_1"
 #  - "research_highlights_2"
