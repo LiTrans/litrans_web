@@ -6,7 +6,7 @@
 bibliography: "Beaulieu, A., Farooq, B., 2019.
   **A Dynamic Mixed Logit Model with Agent Effect for Pedestrian Next Location Choice Using Ubiquitous Wi-Fi Network Data**.
   Journal of Big Data Analytics in Transportation. Forthcoming." # surround Title with **<title>**
-date: 2019-03-18 # date of publication / posting on arXiv
+date: 2019-03-25 # date of publication / posting on arXiv
 preview: ijtst.jpg # link to paper/journal thumbnail. leave blank "" if not applicable
 arxiv: "" # link to arXiv. leave blank "" if not applicable
 link: "https://www.sciencedirect.com/science/article/pii/S2046043017301004" # link to journal publication. leave blank "" if not applicable
