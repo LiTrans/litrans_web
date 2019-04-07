@@ -20,7 +20,7 @@ interest:
   - "Active Transportation" # enter short research interests (traffic signal, CAV, etc.), optional
 highlights:
  - "Ontario Early Researcher Award (2018)"
- - "Canada Research Chair (2017-2002)"
+ - "Canada Research Chair (2017-2022)"
  - "Winner of 2016 MassMotion Academic Pedestrian Modelling Project of the Year, Oasys Software"
  - "Quebec Early Researcher Award (2014)"
 #  - "research_highlights_3" # enter your research highlights here (awards, achievements, etc.), optional
