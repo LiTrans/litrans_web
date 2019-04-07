@@ -7,7 +7,7 @@ theme = ""
 publishDir = "public"
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+googleAnalytics = "UA-137871044-1"
 
 [params]
   # You can use Markdown syntax for urls [text](//url.to/source) or
@@ -96,12 +96,12 @@ googleAnalytics = ""
       [[params.projects.row.list]]
         icon = "fas fa-car"
         title = "Smart Mobility"
-        description = "Novel distributed end-to-end connected and autonomous vehicles routing system with applications in advanced on-demand transit, traffic management, and system optimization."
+        description = "Distributed traffic management system with application in CAV routing, advanced on-demand transit, traffic management, & system optimization."
         url = "projects/e2ecav2018.pdf"
 
       [[params.projects.row.list]]
         icon = "fas fa-brain"
-        title = "Discrete choice modelling & Machine Learning"
+        title = "Machine Learning & Mobility"
         description = "Developing data-driven model structure and estimation methods for discrete choice analysis."
         url = "projects/wongfarooq-iatbr-2018.pdf"
 
@@ -116,6 +116,12 @@ googleAnalytics = ""
         title = "Virtual Reality"
         description = "Virtual Immersive Reality Environment (VIRE) for travel behaviour experiments."
         url = "projects/kalatianfarooq-iatbr-2018.pdf"
+
+      [[params.projects.row.list]]
+        icon = "fas fa-city"
+        title = "UrbanFlux"
+        description = "Ubiquitous sensors network for sensing multimodal traffic in real-time for complete streets"
+        url = "https://bilalfarooqdotcom.files.wordpress.com/2018/02/farooq_ryerson_slides.pdf"
 
   # Publication section
   [params.publication]
