@@ -27,7 +27,7 @@ googleAnalytics = "UA-137871044-1"
   custom_css = ["css/plugins/animate-css/animate.css"]
   custom_js  = []
   favicon    = "favicon.ico"
-
+  # patch test
   # Possibility to disable external/additional fonts
   # Exception: Fontawesome
   disableFonts = false
