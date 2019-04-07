@@ -101,7 +101,7 @@ googleAnalytics = ""
 
       [[params.projects.row.list]]
         icon = "fas fa-brain"
-        title = "Discrete choice modelling & Machine Learning"
+        title = "Machine Learning & Mobility"
         description = "Developing data-driven model structure and estimation methods for discrete choice analysis."
         url = "projects/wongfarooq-iatbr-2018.pdf"
 
