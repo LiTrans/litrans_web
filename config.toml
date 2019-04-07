@@ -7,7 +7,7 @@ theme = ""
 publishDir = "public"
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+googleAnalytics = "UA-137871044-1"
 
 [params]
   # You can use Markdown syntax for urls [text](//url.to/source) or
@@ -296,13 +296,3 @@ googleAnalytics = ""
     [[params.footer.quicklinks]]
       text = "Hugo"
       link = "http://gohugo.io/"
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-137871044-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-137871044-1');
-</script>
