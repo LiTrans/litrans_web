@@ -13,7 +13,7 @@ social:
 # status: ""
 
 # enter your short bio here (markdown format compatible)
-bio: "Shubham Bohra is a Master of Engineering student in the Laboratory of Innovations in Transportation at Ryerson University supervised by [Dr. Bilal Farooq](../farooq-b). Shubham’s research investigates the adjustments required for interrupted flow by modeling these adjustments using microsimulation tool VISSIM with the co-supervision of City of Toronto. In particular, it focuses on Design Manual Adjustments for Autonomous Vehicles under varying Volumes and Market Penetration Rates
+bio: "Shubham Bohra is a Master of Engineering student in the Laboratory of Innovations in Transportation at Ryerson University supervised by [Dr. Bilal Farooq](../farooq-b). Shubham’s research investigates the design manual adjustments for Autonomous Vehicles under varying Volumes and Market Penetration Rates. In particular, it focuses on adjustments for interrupted flow and modeling these modifications using microsimulation tool VISSIM. Shubham is working with the City of Toronto as part of his M.Eng. thesis project.
 
 
 Shubham graduated with his Bachelor of Technology Degree from Rajasthan Technical University in 2016 and began his M.Eng. in Civil Engineering at Ryerson University in 2017."
