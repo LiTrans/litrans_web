@@ -56,7 +56,7 @@ googleAnalytics = "UA-137871044-1"
     publication = "Publications"
     team        = "Team"
     news        = "News"
-    contact     = "Contact"
+    contact     = "Contact NOT"
 
     # Add custom links. Those can be pre- and postpended to the default menu above.
     # Use the weight attribute to order your custom links. Uncomment the example
