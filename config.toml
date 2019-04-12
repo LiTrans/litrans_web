@@ -198,6 +198,10 @@ googleAnalytics = "UA-137871044-1"
     [[params.clients]]
       logo = "cfi.png"
       link = "https://www.innovation.ca/"
+      
+    [[params.clients]]
+      logo = "esrc.png"
+      link = "https://esrc.ukri.org/"
 
   # Contact section
   [params.contact]
