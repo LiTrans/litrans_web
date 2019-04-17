@@ -89,7 +89,7 @@ googleAnalytics = "UA-137871044-1"
     enable   = true
     center   = true
     title    = "What We Do"
-    subtitle = "Current projects"
+    subtitle = "Creating Cyber-Physical Future of Urban Mobility using Intelligent Technologies & Mathematics"
 
     [[params.projects.row]]
 
@@ -176,13 +176,17 @@ googleAnalytics = "UA-137871044-1"
       link = "http://www.nserc-crsng.gc.ca/index_eng.asp"
 
     [[params.clients]]
-      logo = "mitacs.png"
-      link = "https://www.mitacs.ca/"
+      logo = "crc.jpg"
+      link = "http://www.chairs-chaires.gc.ca/home-accueil-eng.aspx"
 
     [[params.clients]]
       logo = "ontario.png"
       link = "https://www.ontario.ca/page/ontario-research-fund"
-
+      
+    [[params.clients]]
+      logo = "mitacs.png"
+      link = "https://www.mitacs.ca/"
+      
     [[params.clients]]
       logo = "cutric.png"
       link = "http://cutric-crituc.org/"
@@ -194,6 +198,10 @@ googleAnalytics = "UA-137871044-1"
     [[params.clients]]
       logo = "cfi.png"
       link = "https://www.innovation.ca/"
+      
+    [[params.clients]]
+      logo = "esrc.png"
+      link = "https://esrc.ukri.org/"
 
   # Contact section
   [params.contact]
