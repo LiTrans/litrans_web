@@ -1,0 +1,15 @@
+{{ "<!-- Project Head -->" | safeHTML }}
+<header class="projects">
+  <div class="project-heading">
+    <div class="container">
+        <div class="row flexbox flexbox-center">
+        <div class="col-lg-8 col">
+            <h4>Projects</h4>
+            <h2>{{ .Title | markdownify }}</h2>
+            <h4 class="pi">Principal Investigators</h4>
+            <p>{{ delimit .Params.pi ", " | markdownify }}</p>
+        </div>
+        </div>
+    </div>
+  </div>
+</header>
