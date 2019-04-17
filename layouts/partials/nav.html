@@ -55,21 +55,21 @@
         {{ if .Site.Params.news.enable }}
         <li>
           <a class="page-scroll"
-            href="{{ if .IsHome }}{{ .Site.BaseURL }}#news{{ else }}{{ .Site.BaseURL }}/news{{ end }}">{{ with .Site.Params.navigation.news }}{{ . }}{{ end }}</a>
+            href="{{ if .IsHome }}{{ .Site.BaseURL }}#news{{ else }}{{ .Site.BaseURL }}news{{ end }}">{{ with .Site.Params.navigation.news }}{{ . }}{{ end }}</a>
         </li>
         {{ end }}
 
         {{ if .Site.Params.publication.enable }}
         <li>
           <a class="page-scroll"
-            href="{{ if .IsHome }}{{ .Site.BaseURL }}#publications{{ else }}{{ .Site.BaseURL }}/publications{{ end }}">{{ with .Site.Params.navigation.publication }}{{ . }}{{ end }}</a>
+            href="{{ if .IsHome }}{{ .Site.BaseURL }}#publications{{ else }}{{ .Site.BaseURL }}publications{{ end }}">{{ with .Site.Params.navigation.publication }}{{ . }}{{ end }}</a>
         </li>
         {{ end }}
 
         {{ if .Site.Params.contact.enable }}
         <li>
           <a class="page-scroll"
-            href="{{ if .IsHome }}{{ .Site.BaseURL }}#contact{{ else }}{{ .Site.BaseURL }}/contact{{ end }}">{{ with .Site.Params.navigation.contact }}{{ . }}{{ end }}</a>
+            href="{{ if .IsHome }}{{ .Site.BaseURL }}#contact{{ else }}{{ .Site.BaseURL }}contact{{ end }}">{{ with .Site.Params.navigation.contact }}{{ . }}{{ end }}</a>
         </li>
         {{ end }}
 
