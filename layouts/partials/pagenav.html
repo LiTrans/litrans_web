@@ -1,0 +1,20 @@
+<div class="row flexbox flexbox-center">
+    <div class="col-sm-8">
+        <div class="row flexbox flexbox-space-between">
+            <div class="col-md-4 text-left">
+                {{ if .PrevInSection }}
+                <a class="btn btn-primary" href="{{ .PrevInSection.Permalink }}">Previous</a>
+                {{ end }}
+            </div>
+            <div class="col-md-4  text-center">
+                <a class="btn btn-primary" href="/{{ .Type }}">{{ .Scratch.Get "label" }}</a>
+            </div>
+            <div class="col-md-4 text-right">
+                {{ if .NextInSection }}
+                <a class="btn btn-primary" href="{{ .NextInSection.Permalink }}">Next</a>
+                {{ end }}
+                <p></p>
+            </div>
+        </div>
+    </div>
+</div>

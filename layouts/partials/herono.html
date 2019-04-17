@@ -1,7 +1,8 @@
 {{ "<!-- Hero -->" | safeHTML }}
 <header>
   <div class="container">
-    <div class="single-heading">
+    <div class="single-text">
+      <div class="single-heading">{{ with .Type }}{{ . | markdownify }}{{ end }}</div>
     </div>
   </div>
 </header>

@@ -55,14 +55,14 @@
         {{ if .Site.Params.news.enable }}
         <li>
           <a class="page-scroll"
-            href="{{ .Site.BaseURL }}#news">{{ with .Site.Params.navigation.news }}{{ . }}{{ end }}</a>
+            href="{{ if .IsHome }}{{ .Site.BaseURL }}#news{{ else }}{{ .URL }}{{ end }}">{{ with .Site.Params.navigation.news }}{{ . }}{{ end }}</a>
         </li>
         {{ end }}
 
         {{ if .Site.Params.publication.enable }}
         <li>
           <a class="page-scroll"
-            href="{{ .Site.BaseURL }}#publications">{{ with .Site.Params.navigation.publication }}{{ . }}{{ end }}</a>
+            href="{{ if .IsHome }}{{ .Site.BaseURL }}#publications{{ else }}{{ .URL }}{{ end }}">{{ with .Site.Params.navigation.publication }}{{ . }}{{ end }}</a>
         </li>
         {{ end }}
 

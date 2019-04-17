@@ -10,24 +10,29 @@
     <section id="{{ .Type }}">
         <div class="container">
             {{"<!-- section title -->" | safeHTML}}
-            <div class="row">
+            <!-- <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">{{ with .Site.Params.news.title }}{{ . | markdownify }}{{ end }}</h2>
                     <h3 class="section-subheading text-muted">
-                        {{ with .Site.Params.news.subtitle }}{{ . | markdownify }}{{ end }}</h3>
+                        {{ with .Site.Params.news.subtitle }}{{ . | markdownify }}{{ end }}
+                    </h3>
                 </div>
-            </div>
+            </div> -->
             {{"<!-- /section title -->" | safeHTML}}
 
             {{ range (where .Data.Pages "Type" "news").GroupByDate "2006" }}
-            <div class="row flexbox flexbox-center">
-                <div class="col-md-8">
+            <div class="row equalflexbox flexbox-center">
+                <div class="col-md-12">
                     <h2>{{ .Key }}</h2>
                     <hr />
                 </div>
                 {{ range .Pages }}
                 {{"<!-- single news post -->" | safeHTML}}
-                <div class="col-md-8 news-item">
+                <div class="row flexbox flexbox-left container">
+                <div class="col-md-2">
+                    <h5>{{ .Date.Format "January 2" | markdownify }}</h5>
+                </div>
+                <article class="col-md-6 news-item">
                     <div class="news-content">
                         <h4><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h4>
                         <p class="text-muted">
@@ -35,6 +40,7 @@
                         </p>
                     </div>
                     <hr />
+                </article>
                 </div>
                 {{"<!-- /single news post -->" | safeHTML}}
                 {{ end }}
