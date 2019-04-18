@@ -41,7 +41,7 @@
         {{ if .Site.Params.projects.enable }}
         <li>
           <a class="page-scroll"
-            href="{{ .Site.BaseURL }}#projects">{{ with .Site.Params.navigation.projects }}{{ . }}{{ end }}</a>
+            href="{{ if .IsHome }}{{ .Site.BaseURL }}#projects{{ else }}{{ .Site.BaseURL }}projects{{ end }}">{{ with .Site.Params.navigation.projects }}{{ . }}{{ end }}</a>
         </li>
         {{ end }}
 

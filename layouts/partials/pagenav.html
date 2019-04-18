@@ -2,7 +2,7 @@
     <div class="col-sm-8">
         <div class="row flexbox flexbox-space-between">
             <div class="col-md-4 text-left">
-                {{ if .PrevInSection }}
+                {{ if and (.PrevInSection) (eq (.Scratch.Get "single") "true") }}
                 <a class="btn btn-primary" href="{{ .PrevInSection.Permalink }}">Previous</a>
                 {{ end }}
             </div>
@@ -10,7 +10,7 @@
                 <a class="btn btn-primary" href="/{{ .Type }}">{{ .Scratch.Get "label" }}</a>
             </div>
             <div class="col-md-4 text-right">
-                {{ if .NextInSection }}
+                {{ if and (.NextInSection) (eq (.Scratch.Get "single") "true") }}
                 <a class="btn btn-primary" href="{{ .NextInSection.Permalink }}">Next</a>
                 {{ end }}
                 <p></p>

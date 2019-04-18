@@ -9,16 +9,12 @@
 
 	<section id="{{ .Type }}-single">
 		<div class="container">
-			<div class="row flexbox project-frame">
-				<div class="col-lg-8 col-lg-offset-2 align-center">
-					<!-- <h5 class="report">{{ .Date.Format "January 02, 2006" }}</h5> -->
-					{{ .Content }}
-					{{ if .Params.references }}
-						<h4>References</h4>
-						{{ range .Params.references }}
-						{{ . | markdownify }}
-						{{ end }}
+			<div class="row flexbox flexbox-center  project-frame">
+				<div class="col-lg-8 align-center">
+					{{ if not .Date.IsZero }}
+						<h5 class="report">{{ .Date.Format "January 02, 2006" }}</h5>
 					{{ end }}
+					{{ .Content }}
 				</div>
 			</div>
 		</div>
@@ -26,31 +22,33 @@
 
 	<section id="related-projects">
 		<div class="container">
-			<div class="row equal flexbox">
-				<div class="col-lg-8 col-lg-offset-2 align-center">
-					<h4>Related Projects</h4>
-				</div>
-			</div>
-			{{ $related := .Site.RegularPages.Related . | first 2 }}
 			<div class="row equal flexbox flexbox-center">
-			{{ with $related }}
-				{{ range . }}
-				<div class="col-lg-4 news-item">
-					<div class="card post-block">
-					<div class="content">
-						<a href="{{ .Permalink }}">
-						<h4>{{ .Title }}</h4>
-						</a>
-						<p>{{ .Summary }}</p>
-					</div>
+				<div class="col-lg-8 align-center">
+					<h4>Related Projects</h4>
+					{{ $related := .Site.RegularPages.Related . | first 2 }}
+					<div class="row equal flexbox">
+					{{ with $related }}
+						{{ range . }}
+						<div class="col-lg-6 news-item">
+							<div class="card post-block">
+							<div class="content">
+								<a href="{{ .Permalink }}">
+								<h4>{{ .Title }}</h4>
+								</a>
+								<p>{{ .Params.description }}</p>
+							</div>
+							</div>
+						</div>
+						{{ end }}
+					{{ end }}
 					</div>
 				</div>
-				{{ end }}
-			{{ end }}
-
 			</div>
+
+
 			<div class="navigation">
 			{{ .Scratch.Set "label" "view all projects" }}
+			{{ .Scratch.Set "single" "true"}}
 			{{ partial "pagenav.html" . }}
 			</div>
 		</div>
