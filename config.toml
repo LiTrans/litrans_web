@@ -182,10 +182,6 @@ googleAnalytics = "UA-137871044-1"
     [[params.clients]]
       logo = "ontario.png"
       link = "https://www.ontario.ca/page/ontario-research-fund"
-      
-    [[params.clients]]
-      logo = "mitacs.png"
-      link = "https://www.mitacs.ca/"
 
     [[params.clients]]
       logo = "mitacs.png"
