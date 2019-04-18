@@ -21,11 +21,5 @@ keywords:
 Distributed traffic management system with application in CAV routing, advanced on-demand transit, traffic management, & system optimization.
 
 #### References
-Alfaseeh et al., 2018. Impact of Distributed Routing of Intelligent Vehicles on Urban Traffic. ITS Canada ACGM, Niagara Falls, ON. [[link]](e2ecav2018.pdf)
-=======
-references:
-    - "Alfaseeh et al., 2018. Impact of Distributed Routing of Intelligent Vehicles on Urban Traffic. ITS Canada ACGM, Niagara Falls, ON. [[link]](e2ecav2018.pdf)"
----
-#### Impact of Distributed Routing of Intelligent Vehicles on Urban Traffic
 
-Distributed traffic management system with application in CAV routing, advanced on-demand transit, traffic management, & system optimization.
+Alfaseeh et al., 2018. Impact of Distributed Routing of Intelligent Vehicles on Urban Traffic. ITS Canada ACGM, Niagara Falls, ON. [[link]](e2ecav2018.pdf)
