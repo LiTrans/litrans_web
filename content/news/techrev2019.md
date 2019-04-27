@@ -7,7 +7,7 @@ draft: false
 
 Our new work on multiobjective autonomous braking system training using naturalistic data & deep reinforcement learning, features in MIT Technology Review.
 
-{{< figure src="/news/images/av_ped_rd.png" >}}
+{{< figure src="/news/images/av_ped.png" >}}
 
 <!--more-->
 
