@@ -3,7 +3,7 @@ title: "Smart Mobility"
 draft: false
 featured: true # featured on front page
 description: "Distributed traffic management system with application in CAV routing, advanced on-demand transit, traffic management, & system optimization."
-# icon: "fas fa-car"
+icon: "fas fa-car"
 pi:
     - "[Lama Alfaseeh](/team/alfaseeh-l)"
     - "[Shadi Djavadian](/team/djavadian-s)"

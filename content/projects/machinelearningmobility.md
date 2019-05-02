@@ -3,7 +3,7 @@ title: "Machine Learning & Mobility"
 draft: false
 featured: true # featured on front page
 description: "Developing data-driven model structure and estimation methods for discrete choice analysis."
-# icon: "fas fa-car"
+icon: "fas fa-brain"
 pi:
     - "[Melvin Wong](/team/wong-m)"
     - "[Bilal Farooq](/team/farooq-b)"
