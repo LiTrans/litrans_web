@@ -1,5 +1,5 @@
 ---
-title: "IEEE Int. Smart Cities Webinar"
+title: "IEEE International Smart Cities Webinar"
 date: 2019-05-04
 draft: false
 # description:
