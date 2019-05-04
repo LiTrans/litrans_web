@@ -5,7 +5,7 @@ draft: false
 # description:
 ---
 
-our lab's research on distributed traffic management system and CAV routing is invited to be presented at a webinar on May 16, 2019, hosted by IEEE International Smart Cities.
+Our lab's research on distributed traffic management system and CAV routing is invited to be presented at a webinar on May 16, 2019, hosted by IEEE International Smart Cities.
 
 
 {{< figure src="/news/images/bilaliscs.jpg" width="100%" >}}
