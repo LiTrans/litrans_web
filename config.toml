@@ -203,6 +203,10 @@ googleAnalytics = "UA-137871044-1"
       logo = "esrc.png"
       link = "https://esrc.ukri.org/"
 
+    [[params.clients]]
+      logo = "aws.png"
+      link = "https://aws.amazon.com/"
+
   # Contact section
   [params.contact]
     enable = true
