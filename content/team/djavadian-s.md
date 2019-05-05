@@ -1,6 +1,6 @@
 ---
 img: "IMG_3928.jpg"
-role: postdoc
+role: senior postdoc
 # your name
 name : "Shadi Djavadian"
 
