@@ -5,7 +5,7 @@ role: postdoc
 name : "Shadi Djavadian"
 
 # PhD/MSc student, Professor, etc. leave blank if not applicable
-position: "Postdoctoral Research Fellow" 
+position: "Senior Postdoc" 
 
 # enter your social media urls here, optional
 social: 
