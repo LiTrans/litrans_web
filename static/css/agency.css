@@ -399,22 +399,16 @@ header .single-text .single-heading {
     line-height: 50px;
 }
 
-header.projects {
-    /* padding: 0; */
-    background-color: #fed136;
-    background-image: none;
-}
-
-header.projects .project-heading {
-    height: auto;
-    padding-top: 100px;
-    color: #222;
+header .project-heading {
+    padding: 125px 0px 50px;
+    min-height: 180px;
+    color: #fff;
     text-align: left;
 }
 
-header.projects a {
-    color: rgb(15, 15, 15);
-    font-weight: normal;
+header .project-heading a {
+    font-weight: 400;
+    color: #fff;
 }
 
 header.news {
@@ -473,7 +467,6 @@ header.news .news-heading {
         margin-right: auto;
         max-width: 668px;
     }
-
 }
 
 header .intro-text-plain {
@@ -491,14 +484,13 @@ section#projects {
 }
 
 section#projects-single {
-    padding: 100px 0 80px 0;
-    margin-top: -80px;
+    padding: 40px 0 80px 0;
 }
 
 section#related-projects {
     padding-top: 20px;
     padding-bottom: 80px;
-    background-color: #fff;
+    background-color: #eee;
 }
 
 #projects .project-frame {
@@ -510,10 +502,13 @@ section#related-projects {
 }
 
 #projects .post-block {
-    margin-bottom: 20px;
-    padding: 15px;
+    padding: 5px 30px 20px;
     height: 100%;
-    /* background-color: #eee; */
+    color: #fff;
+}
+
+#projects h3.project-heading {
+    margin-bottom: 25px;
 }
 
 #related-projects .content {
@@ -529,7 +524,7 @@ section#related-projects {
 
 section#contact {
     padding: 50px 0;
-    margin-top: 0;
+    margin-top: -2px;
 }
 
 section h2.section-heading {
@@ -819,6 +814,7 @@ section#contact {
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
+    background-attachment: fixed;
 }
 
 section#contact .section-heading {

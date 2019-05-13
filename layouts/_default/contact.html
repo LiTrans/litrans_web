@@ -9,24 +9,23 @@
   <!-- {{ partial "hero.html" . }} -->
   {{ partial "herono.html" . }}
 
-  <section id="contact">
+  <section id="contact" style="background-image: none; background-color: #fff;">
     <div class="container">
-
       <div class="row address-bar">
         <div class="col-sm-6 text-left">
           {{ with $contact.address }}
-          <h5 class="section-heading text-muted-partial">{{ $contact.addressTitle | markdownify }}</h5>
-          <p class="text-muted-partial">{{ . | markdownify }}</p>
+          <h5>{{ $contact.addressTitle | markdownify }}</h5>
+          <p>{{ . | markdownify }}</p>
           {{ end }}
           {{ with $contact.phoneNumber }}
-          <p class="text-muted-partial"><i class="fas fa-phone img-icon-contact"></i>{{ . | markdownify }}</p>
+          <p><i class="fas fa-phone img-icon-contact"></i>{{ . | markdownify }}</p>
           {{ end }}
           {{ with $contact.email }}
-          <p class="text-muted-partial"><i class="fas fa-envelope img-icon-contact"></i>{{ . | markdownify }}</p>
+          <p><i class="fas fa-envelope img-icon-contact"></i>{{ . | markdownify }}</p>
           {{ end }}
           {{ with $contact.twitter }}
-          <p class="text-muted-partial">
-            <a href={{ $contact.twitter_url }} class="text-muted-partial"><i
+          <p>
+            <a href={{ $contact.twitter_url }}><i
                 class="fab fa-twitter img-icon-contact"></i>{{ . | markdownify }}</a>
           </p>
           {{ end }}

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+
+{{ partial "head.html" . }}
+
+<body class="index">
+    {{ partial "nav.html" . }}
+    {{ partial "herono.html" . }}
+
+    {{ if .Site.Params.projects.enable }}
+    {{ partial "projects.html" . }}
+    {{ end }}
+
+    {{ if .Site.Params.footer.enable }}
+    {{ partial "footer.html" . }}
+    {{ end }}
+
+    {{ partial "js.html" . }}
+</body>
+</html>
