@@ -18,7 +18,8 @@
 
       {{ if or (and (.Params.featured) ($homeflag)) (eq $homeflag false) }}
       <div class="col-md-4 post-frame text-center">
-        <a href="{{ .Permalink }}">
+        <!-- <a href="{{ .Permalink }}"> -->
+        <a>
           {{ if .Params.icon }}
           <div class="fa-stack fa-4x text-primary">
             <i class="fa fa-circle fa-stack-2x text-primary"></i>
