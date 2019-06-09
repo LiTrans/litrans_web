@@ -1,5 +1,5 @@
 ---
-title: "Panel on Furture Mobility"
+title: "Panel on Furture Mobility and Smart Transportation"
 date: 2019-06-05
 draft: false
 # description:
