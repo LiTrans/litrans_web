@@ -5,7 +5,7 @@ draft: false
 # description:
 ---
 
-On June 05, 2019, LiTrans organized a panel on the future of mobility and smart transportation at Centre for Urban Innovation, Ryerson University.
+On June 05, 2019, LiTrans organized a panel discussion on the future of mobility and smart transportation at the Centre for Urban Innovation, Ryerson University.
 
 {{< figure src="/news/images/smpanel.jpg" width="100%" >}}
 
