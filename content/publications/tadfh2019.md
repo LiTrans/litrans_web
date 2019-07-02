@@ -9,7 +9,7 @@ concentrations**." # surround Title with **<title>**
 date: 2019-06-24
 preview: journal_trpartd.jpg
 arxiv: ""
-link: ""
+link: "https://www.sciencedirect.com/science/article/pii/S1361920919303402"
 abstract: "Communication between vehicles and road infrastructure can enable more efficient use of the road network and hence reduce congestion in urban areas. This improvement can be enhanced by
 distributed control due to its lighter computational load and higher reliability. Despite favourable impacts on traffic, little is known about the effects of such systems on near-road air quality. In
 this study, an End-To-End (E2E) dynamic distributed routing algorithm in Connected and Automated Vehicles (CAVs) was applied in downtown Toronto, to identify whether benefits to
