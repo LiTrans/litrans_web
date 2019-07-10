@@ -1,11 +1,11 @@
 ---
-title: "Call for Participants: Behavioural Analysis in AVs using Immersive VR"
+title: "Call for Participants: Behavioural Analysis in Automated Vehicles using Immersive VR"
 date: 2019-07-08
 draft: false
 # description:
 ---
 
-We are looking for volunteers to participate in an immersive VR based experiments to understand human behaviour when travelling in AVs.
+We are looking for volunteers to participate in an immersive virtual reality based experiments to understand human behaviour when travelling in automated vehicles.
 
 
 {{< figure src="/news/images/cav01.png" width="100%" >}}
@@ -17,10 +17,13 @@ The Laboratory of Innovations in Transportation (LiTrans) has developed a virtua
 
 {{< figure src="/news/images/cav02.png" width="100%" >}}
 
-Eligibility:
+*Eligibility:*
 - Older than 18 years old
+
 - Must have a driver's license of Class G2 and above
+
 - No history of head, eye, brain, or heart illness
+
 - No feelings of nausea or fatigue when playing video games or using immersive technology
 
 {{< figure src="/news/images/cav03.png" width="100%" >}}
