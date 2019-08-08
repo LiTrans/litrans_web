@@ -1,5 +1,5 @@
 ---
-title: "Professor Ricardo Daziano from Cornell University to present a Transporation Seminar"
+title: "Professor Ricardo Daziano, Cornell University to present at LiTrans Transporation Seminar"
 date: 2019-08-12
 draft: false
 # description:
