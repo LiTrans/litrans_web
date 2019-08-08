@@ -7,7 +7,7 @@ draft: false
 
 Better framing emission information for carbon abatement of private vehicles
 
-{{< figure src="/news/images/daziano.png" width="100%" >}}
+<!---{{< figure src="/news/images/daziano.png" width="100%" >}}-->
 
 <!--more-->
 <!---
