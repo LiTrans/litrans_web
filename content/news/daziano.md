@@ -7,9 +7,11 @@ draft: false
 
 **Better framing emission information for carbon abatement of private vehicles**
 
-*Presenter:* [Professor Ricardo Daziano](https://www.cee.cornell.edu/faculty-directory/ricardo-daziano), [Cornell University] (https://www.cornell.edu/) 
+*Presenter:* [Professor Ricardo Daziano](https://www.cee.cornell.edu/faculty-directory/ricardo-daziano), [Cornell University](https://www.cornell.edu/) 
+
 *Location:* CUI219, 44 Gerrard St. E.
-Date: Monday August 12, 2:30PM—3:30PM
+
+*Date:* Monday August 12, 2:30PM—3:30PM
 
 {{< figure src="/news/images/BilalReWork.png" width="100%" >}}
 
