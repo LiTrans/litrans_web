@@ -1,5 +1,5 @@
 ---
-title: "Professor Ricardo Daziano, Cornell University to present at LiTrans Transporation Seminar"
+title: "Professor Ricardo Daziano"
 date: 2019-08-12
 draft: false
 # description:
@@ -7,10 +7,10 @@ draft: false
 
 Better framing emission information for carbon abatement of private vehicles
 
-<!---{{< figure src="/news/images/daziano.png" width="100%" >}}-->
+{{< figure src="/news/images/daziano.png" width="100%" >}}
 
 <!--more-->
-<!---
+
 Presenter: [Professor Ricardo Daziano](https://www.cee.cornell.edu/faculty-directory/ricardo-daziano), [Cornell University](https://www.cornell.edu/) 
 
 Location: CUI219, 44 Gerrard St. E.
@@ -22,5 +22,5 @@ In response to concerns related to climate change, and an attempt to encourage m
 ### Biography
 
 Ricardo Daziano, choice modeler and PhD in economics, is an associate professor of Civil and Environmental Engineering and of Systems Engineering at Cornell University. His research goal is to better understand the interplay of consumer behavior with engineering, investment, and policy choices for energy-efficient technologies and for sustainable urban mobility. In 2013, Daziano received an NSF CAREER award for deriving and analyzing advanced demand estimators for energy-efficiency in personal transportation.
--->
+
 
