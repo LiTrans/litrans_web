@@ -5,11 +5,11 @@ draft: false
 # description:
 ---
 
-Better framing emission information for carbon abatement of private vehicles
-
-{{< figure src="/news/images/daziano.png" width="100%" >}}
+{{< figure src="/news/images/daziano.png" width="75%" >}}
 
 <!--more-->
+
+## Better framing emission information for carbon abatement of private vehicles
 
 Presenter: [Professor Ricardo Daziano](https://www.cee.cornell.edu/faculty-directory/ricardo-daziano), [Cornell University](https://www.cornell.edu/) 
 
