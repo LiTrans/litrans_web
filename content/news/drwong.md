@@ -4,14 +4,14 @@ date: 2019-08-12
 draft: false
 # description:
 ---
-{{< figure src="/team/images/wong.jpeg" width="75%" >}}
+{{< figure src="news/images/wong.jpeg" width="75%" >}}
 
 
 <!--more-->
 
 ## Title: Generative Modelling and Machine Learning Methods for Travel Behaviour Analysis
 
-{{< figure src="/news/images/IMG_3917.jpg" width="75%" >}}
+{{< figure src="/team/images/IMG_3917.jpg" width="75%" >}}
 
 Congratulations to Melvin Wong on successfully defending his PhD thesis on August 12, 2019. Dr. Wong completed his undergraduate degree in Computer Engineering from [Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx) in 2015. The same year he was admitted to the Ph.D. program. His thesis developed interpretable generative machine learning models for travel demand analysis. 
 
