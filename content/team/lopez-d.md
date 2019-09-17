@@ -1,6 +1,7 @@
 ---
 img: "IMG_3930.jpg"
-role: postdoc
+role: alumni
+date: 2019-05-01
 name: "David Lopez"
 position: "Postdoc Research Fellow"
 social: # enter your social media urls here, optional
@@ -8,7 +9,7 @@ social: # enter your social media urls here, optional
   - linkedin: https://www.linkedin.com/in/david-lopez-a462033a
   - twitter: https://twitter.com/Mitrailer
 # status: ""
-bio: "David is a Postdoc Fellow in the Laboratory of Innovations in Transportation at Ryerson University supervised by [Dr. Bilal Farooq](../farooq-b). David's research is focused on cybersecurity and privacy management systems for smart mobility. He is currently developing a comprehensive Blockchain framework for private and secure transactions of transportation data. He is also exploring the use of Blockchain in privacy-aware distribute transportation models. 
+bio: "David is a Postdoc Fellow in the Laboratory of Innovations in Transportation at Ryerson University supervised by [Dr. Bilal Farooq](../farooq-b). David's research is focused on cybersecurity and privacy management systems for smart mobility. He is currently developing a comprehensive Blockchain framework for private and secure transactions of transportation data. He is also exploring the use of Blockchain in privacy-aware distribute transportation models.
 
 
 David received his BsC in Mathematics, MsEng in Systems Engineering-Transportation (with Honours) and PhD in Systems Engineering-Transportation from the [Universidad Nacional Autónoma de México (UNAM)](https://www.unam.mx/)." # enter your short bio here (markdown format compatible)

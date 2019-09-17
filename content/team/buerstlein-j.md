@@ -1,6 +1,7 @@
 ---
 img: "IMG_3922.jpg"
 role: alumni
+date: 2019-03-01
 name: "Johanna Buerstlein"
 position: Visiting graduate student
 social: # enter your social media urls here, optional
