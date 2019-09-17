@@ -12,6 +12,7 @@ bio: "David is a Postdoc Fellow in the Laboratory of Innovations in Transportati
 
 
 David received his BsC in Mathematics, MsEng in Systems Engineering-Transportation (with Honours) and PhD in Systems Engineering-Transportation from the [Universidad Nacional Autónoma de México (UNAM)](https://www.unam.mx/)." # enter your short bio here (markdown format compatible)
+
 cv: "https://drive.google.com/file/d/1YWGRaVcz2cCsKwFFipXf7g6d8G94RtSz/view?usp=sharing" # link to your CV online, optional
 # website: "your_personal_website" # link to your personal website, optional
 googlescholar: "https://scholar.google.ca/citations?user=lPvrWhEAAAAJ&hl=en" # link to your google scholar profile, optional
