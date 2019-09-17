@@ -1,8 +1,8 @@
 ---
 img: "IMG_3917.jpg"
-role: phd
+role: postdoc
 name: "Melvin Wong"
-position: PhD Student
+position: Postdoc Research Fellow
 social:
   - github: https://github.com/mwong009
   - linkedin: https://www.linkedin.com/in/mwong009/

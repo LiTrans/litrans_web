@@ -1,6 +1,7 @@
 ---
 img: "IMG_3934.jpg"
-role: meng
+role: alumni
+date: 2019-06-01
 name: Bohra Shubham
 position: MEng Student
 
