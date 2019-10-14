@@ -4,7 +4,7 @@ date: 2019-10-14
 draft: false
 # description:
 ---
-{{< figure src="/news/images/ieeesc2.jpg" width="100%" >}}
+{{< figure src="/news/images/ieeesc2.jpg" width="50%" >}}
 
 In the context of Smart Mobility research, LiTrans @ Ryerson University is presenting following work at IEEE 5th International Smart Cities Conference (Oct 14-17, 2019).
 <!--more-->
