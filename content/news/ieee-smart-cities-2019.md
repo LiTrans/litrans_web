@@ -9,6 +9,8 @@ In the context of Smart Mobility research, LiTrans @ Ryerson University is prese
 
 We look forward to the great feedback from our colleagues.
 
+***
+
 ### Privacy-Aware Distributed Mobility Choice Modelling over Blockchain
 David Lopez and Bilal Farooq\\
 Tuesday, October 15, 2019\\
