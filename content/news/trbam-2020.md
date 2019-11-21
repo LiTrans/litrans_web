@@ -5,6 +5,8 @@ draft: false
 description: Our group will be well represented at the Transportation Research Board (TRB) 99th Annual Meeting to be held on January 12–16, 2020.
 ---
 
+{{< figure src="/news/images/trb2020.jpg" width="100%" >}}
+
 ### Analysis of Driver Willingness to Adapt to Connected and Autonomous Vehicle Using Virtual Immersive Reality Environment
 Shadi Djavadian\\
 Travel Behavior and Safety Studies from the Psychological and Neurophysiological Perspective: Application of Virtual Reality\\
