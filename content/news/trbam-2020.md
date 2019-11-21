@@ -7,6 +7,7 @@ description:
 ---
 
 {{< figure src="/news/images/trb2020.jpg" width="100%" >}}
+
 Our group will be well represented at the Transportation Research Board (TRB) 99th Annual Meeting to be held on January 12–16, 2020.
 
 ### Analysis of Driver Willingness to Adapt to Connected and Autonomous Vehicle Using Virtual Immersive Reality Environment
