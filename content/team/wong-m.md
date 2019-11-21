@@ -1,18 +1,19 @@
 ---
 img: "IMG_3917.jpg"
-role: phd
+role: postdoc
 name: "Melvin Wong"
-position: PhD Student
+position: Postdoc Research Fellow
 social:
   - github: https://github.com/mwong009
   - linkedin: https://www.linkedin.com/in/mwong009/
   - twitter:
 # status: " "
-bio: "Melvin is a Ph.D. Candidate in the Laboratory of Innovations in Transportation at Ryerson University supervised by [Dr. Bilal Farooq](../farooq-b). Melvin's research explores how generative modelling and machine learning can impact travel behaviour analysis and how it changes the way we look at choice modelling. In particular, measuring heterogeneity in 'Big Data' and using deep learning methods for optimization of complex choice models.
+bio: "Melvin is a Postdoc Research Fellow in the Laboratory of Innovations in Transportation at Ryerson University supervised by [Dr. Bilal Farooq](../farooq-b). Melvin's research explores how generative modelling and machine learning can impact travel behaviour analysis and how it changes the way we look at choice modelling. In particular, measuring heterogeneity in 'Big Data' and using deep learning methods for optimization of complex choice models.
 
 
-Melvin graduated with his Bachelor in Engineering Degree with Honors from [Nanyang Technological University (NTU)](https://www.ntu.edu.sg) in 2015 and began his Ph.D. in Civil Engineering later that year." # enter your short bio here (markdown format compatible)
-cv: "https://drive.google.com/file/d/1fAt2YUyhXuceD2aMe9MbsLIymIKkX9ZB/view?usp=sharing" # link to your CV online, optional
+Melvin graduated with his Bachelor in Engineering Degree with Honors from [Nanyang Technological University (NTU)](https://www.ntu.edu.sg) in 2015 and defended his Ph.D. Dissertation in August 2019." # enter your short bio here (markdown format compatible)
+# cv: "https://drive.google.com/file/d/1AS7vae1kaHpcMx74HvIdYQqfiBbUY8bQ/view?usp=sharing" # link to your CV online, optional
+
 # website: "your_personal_website" # link to your personal website, optional
 googlescholar: "https://scholar.google.ca/citations?user=KsC51sUAAAAJ&hl=en" # link to your google scholar profile, optional
 interest:

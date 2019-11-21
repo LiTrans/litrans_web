@@ -1,6 +1,7 @@
 ---
 img: "IMG_3934.jpg"
-role: meng
+role: alumni
+date: 2019-06-01
 name: Bohra Shubham
 position: MEng Student
 
@@ -19,7 +20,7 @@ bio: "Shubham Bohra is a Master of Engineering student in the Laboratory of Inno
 Shubham graduated with his Bachelor of Technology Degree from Rajasthan Technical University in 2016 and began his M.Eng. in Civil Engineering at Ryerson University in 2017."
 
 # link to your CV online, optional
-cv: "../cv/bohra-s.pdf"
+# cv: "../cv/bohra-s.pdf"
 
 # link to your personal website, optional
 # website: "your_personal_website"
