@@ -10,7 +10,7 @@
     </div>
     {{ if .Site.Params.publication.display }}
     <div class="row flexbox{{ if .Site.Params.publication.center }} flexbox-center{{ end }}">
-      {{ range first 7 (where .Data.Pages "Type" "publications") }}
+      {{ range first 7 (where .Site.RegularPages "Type" "publications") }}
       <!-- <div class="col-sm-10 publication-item animatable fadeInUp"> -->
       <div class="col-sm-10 publication-item">
         <div class="card">

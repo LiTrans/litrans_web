@@ -14,23 +14,22 @@
     {{ end }}
     {{ $homeflag := .IsHome }}
     <div class="row flexbox flexbox-center">
-      {{ range (where .Data.Pages "Type" "projects") }}
-      {{ if or (and (.Params.featured) ($homeflag)) (eq $homeflag false) }}
-      <div class="col-md-4 post-frame text-center">
-        <!-- <a href="{{ .Permalink }}"> -->
-        <a>
-          {{ if .Params.icon }}
-          <div class="fa-stack fa-4x text-primary">
-            <i class="fa fa-circle fa-stack-2x text-primary"></i>
-            <i class="{{ .Params.icon }} fa-stack-1x fa-inverse"></i>
-          </div>
-          {{ end }}
-          <h3 class="project-heading">{{ .Title | markdownify }}</h3>
-        </a>
-        <p class="text-muted">{{ .Params.description | markdownify }}</p>
-      </div>
-      {{ end }}
-
+      {{ range (where .Site.Pages "Type" "projects") }}
+        <!-- {{ if or (and (.Params.featured) ($homeflag)) (eq $homeflag false) }} -->
+        <div class="col-md-4 post-frame text-center">
+          <!-- <a href="{{ .Permalink }}"> -->
+          <a>
+            {{ if .Params.icon }}
+            <div class="fa-stack fa-4x text-primary">
+              <i class="fa fa-circle fa-stack-2x text-primary"></i>
+              <i class="{{ .Params.icon }} fa-stack-1x fa-inverse"></i>
+            </div>
+            {{ end }}
+            <h3 class="project-heading">{{ .Title | markdownify }}</h3>
+          </a>
+          <p class="text-muted">{{ .Params.description | markdownify }}</p>
+        </div>
+        <!-- {{ end }} -->
       {{ end }}
     </div>
 
