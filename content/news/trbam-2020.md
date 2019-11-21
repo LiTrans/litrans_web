@@ -2,16 +2,15 @@
 title: "LiTrans @ 99th TRB Annual Meeting"
 date: 2019-11-21
 draft: false
+{{< figure src="/news/images/trb2020.jpg" width="100%" >}}
 description: Our group will be well represented at the Transportation Research Board (TRB) 99th Annual Meeting to be held on January 12–16, 2020.
 ---
-
-{{< figure src="/news/images/trb2020.jpg" width="100%" >}}
 
 ### Analysis of Driver Willingness to Adapt to Connected and Autonomous Vehicle Using Virtual Immersive Reality Environment
 Shadi Djavadian\\
 Travel Behavior and Safety Studies from the Psychological and Neurophysiological Perspective: Application of Virtual Reality\\
 Sunday 1:30 PM - 4:30 PM\\
-Workshop 1050\\
+Workshop 1050
 
 ***
 
@@ -19,7 +18,7 @@ Workshop 1050\\
 David Lopez and Bilal Farooq\\
 Blockchain: Opportunities and Challenges for the Transport Sector\\
 Monday 8:00 AM - 9:45 AM\\
-Lectern Session 1097\\
+Lectern Session 1097
 
 ***
 
@@ -27,7 +26,7 @@ Lectern Session 1097\\
 Farah Samouh, Veronica Gluza, Shadi Djavadian, Seyed Mehdi Meshkani, Bilal Farooq\\
 Advances and Innovations in Urban Freight Transportation Planning\\
 Monday 8:00 AM - 9:45 AM\\
-Poster Session 1157\\
+Poster Session 1157
 
 ***
 
@@ -35,7 +34,7 @@ Poster Session 1157\\
 Shadi Djavadian, Rafael Vasquez, Bilal Farooq\\
 Shared Mobility, Automated Vehicles, and the Future of Mobility\\
 Monday 10:15 AM - 12:00 PM\\
-Lectern Session 1167\\
+Lectern Session 1167
 
 ***
 
@@ -52,7 +51,7 @@ Task Force Meeting\\
 Melvin Wong, Bilal Farooq\\
 Travel Modeling Poster Session\\
 Monday 03:45 PM - 05:30 PM\\
-Poster Session 1333\\
+Poster Session 1333
 
 ***
 
@@ -60,7 +59,7 @@ Poster Session 1333\\
 Rafael Vasquez, Bilal Farooq\\
 Current Research in User Information Systems\\
 Monday 03:45 PM - 05:30 PM\\
-Poster Session 1342\\
+Poster Session 1342
 
 ***
 
@@ -86,7 +85,7 @@ Poster Session 1488\\
 Arash Kalatian, Bilal Farooq\\
 Traffic Flow Theory and Characteristics\\
 Tuesday 06:00 PM - 7:30 PM\\
-Poster Session 1654\\
+Poster Session 1654
 
 ***
 
@@ -94,7 +93,7 @@ Poster Session 1654\\
 Arash Kalatian, Bilal Farooq\\
 Pedestrian Design and Behavior\\
 Wednesday 08:00 AM - 9:45 AM\\
-Poster Session 1692\\
+Poster Session 1692
 
 ***
 
@@ -102,6 +101,6 @@ Poster Session 1692\\
 Bilal Farooq\\
 Stated Response Subcommittee\\
 Wednesday 10:15 AM - 11:00 AM\\
-Subcommittee Meeting\\
+Subcommittee Meeting
 
 ***
