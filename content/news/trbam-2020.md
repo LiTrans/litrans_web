@@ -61,3 +61,45 @@ Monday 03:45 PM - 05:30 PM\\
 Poster Session 1342\\
 
 ***
+
+### Multi-Objective Eco-Routing in a Distributed Traffic Management Framework with a Case Study of Downtown Toronto
+Shadi Djavadian, Lama Alfaseeh, Ran Tu, Bilal Farooq, Marianne Hatzopoulou\\
+Current Issues in Transportation and Air Quality\\
+Tuesday 08:00 AM - 09:45 AM\\
+Poster Session 1412\\
+*Collaboration with University of Toronto
+
+***
+
+### Electric Vehicle Charging Optimization to Minimize Marginal Greenhouse Gas Emissions
+Ran Tu, Yijun Gai, Bilal Farooq, Marianne Hatzopoulou\\
+Current Issues in Alternative Transportation Fuels and Technologies\\
+Tuesday 10:15 AM - 12:00 PM\\
+Poster Session 1488\\
+*Collaboration with University of Toronto
+
+***
+
+### Pedestrian Trajectory Prediction Model for Autonomous Vehicles Using Sequence Learning with Auxiliary Information
+Arash Kalatian, Bilal Farooq\\
+Traffic Flow Theory and Characteristics\\
+Tuesday 06:00 PM - 7:30 PM\\
+Poster Session 1654\\
+
+***
+
+### Deep Survival Model for Pedestrian Crossing Behaviour in Mixed Traffic Conditions
+Arash Kalatian, Bilal Farooq\\
+Pedestrian Design and Behavior\\
+Wednesday 08:00 AM - 9:45 AM\\
+Poster Session 1692\\
+
+***
+
+### Virtual Environments for Discrete Chocie Experiments on Autonomous Vehicles
+Bilal Farooq\\
+Stated Response Subcommittee\\
+Wednesday 10:15 AM - 11:00 AM\\
+Subcommittee Meeting\\
+
+***
