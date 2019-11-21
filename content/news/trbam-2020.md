@@ -2,13 +2,17 @@
 title: "LiTrans @ 99th TRB Annual Meeting"
 date: 2019-11-21
 draft: false
-
-description: 
+# description: 
 ---
 
 {{< figure src="/news/images/trb2020.jpg" width="100%" >}}
 
 Our group will be well represented at the Transportation Research Board (TRB) 99th Annual Meeting to be held on January 12–16, 2020.
+<!--more-->
+
+We look forward to the great feedback from our colleagues.
+
+***
 
 ### Analysis of Driver Willingness to Adapt to Connected and Autonomous Vehicle Using Virtual Immersive Reality Environment
 Shadi Djavadian\\
