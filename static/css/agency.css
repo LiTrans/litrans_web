@@ -639,7 +639,7 @@ section h3.section-subheading {
 
 #publications .publication-item .publication-caption p {
     margin: 0;
-    font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 300;
 }
 
@@ -787,6 +787,10 @@ section h3.section-subheading {
 #team .team-profile {
     text-align: left;
     margin: 20px 0 50px;
+}
+
+aside.clients {
+    margin-bottom: 80px;
 }
 
 aside.clients a {

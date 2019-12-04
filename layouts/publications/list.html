@@ -19,7 +19,7 @@
       </div> -->
       {{"<!-- /section title -->" | safeHTML}}
 
-      {{ range (where .Data.Pages "Type" "publications").GroupByDate "2006" }}
+      {{ range (where .Site.RegularPages "Type" "publications").GroupByDate "2006" }}
       <div class="row flexbox flexbox-center">
         <div class="col-md-8">
           <h2>{{ .Key }}</h2>

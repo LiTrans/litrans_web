@@ -11,7 +11,7 @@
 
     <!-- Faculty -->
     <div class="row flexbox flexbox-center">
-      {{ range where .Data.Pages "Type" "team" }}
+      {{ range where .Site.Pages "Type" "team" }}
       {{ if eq .Params.role "professor" }}
       <div class="col-sm-3 col">
         <div class="team-member">
@@ -50,7 +50,7 @@
     <!-- Students -->
     <div class="row flexbox flexbox-center">
 
-      {{ range where .Data.Pages "Type" "team" }}
+      {{ range where .Site.Pages "Type" "team" }}
       {{ if eq .Params.role "postdoc" }}
       <div class="col-sm-3 col">
         <div class="team-member">
@@ -87,7 +87,8 @@
       {{ end }}
       {{ end }}
 
-      {{ range where .Data.Pages "Type" "team" }}
+
+      {{ range where .Site.Pages "Type" "team" }}
       {{ if eq .Params.role "phd" }}
       <div class="col-sm-3 col">
         <div class="team-member">
@@ -124,7 +125,7 @@
       {{ end }}
       {{ end }}
       <!-- MSc & MEng -->
-      {{ range where .Data.Pages "Type" "team" }}
+      {{ range where .Site.Pages "Type" "team" }}
       {{ if or (eq .Params.role "masc") (eq .Params.role "meng") }}
       <div class="col-sm-3 col">
         <div class="team-member">
@@ -161,7 +162,7 @@
       {{ end }}
       {{ end }}
       <!-- Undergrad, Interns and Others -->
-      {{ range where .Data.Pages "Type" "team" }}
+      {{ range where .Site.Pages "Type" "team" }}
       {{ if eq .Params.role "other" }}
       <div class="col-sm-3 col">
         <div class="team-member">
@@ -199,15 +200,16 @@
       {{ end }}
     </div>
 
-    {{ if .Site.Params.team.alumni }}
     <div class="row">
       <div class="col-lg-12 text-center">
         <h2 class="section-heading">Former members & Alumni</h2>
       </div>
     </div>
+    
+    {{ if .Site.Params.team.alumni }}
     <div class="row flexbox flexbox-center">
       <!-- Alumni -->
-      {{ range where .Data.Pages "Type" "team" }}
+      {{ range where .Site.Pages "Type" "team" }}
       {{ if eq .Params.role "alumni" }}
       <div class="col-sm-3 col">
         <div class="team-member">
