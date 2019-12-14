@@ -1,8 +1,8 @@
 ---
-img : ""
-role:
-name : "" #name
-position: "" 
+img : "IMG_3963.JPG"
+role: other
+name : "Le Tran" #name
+position: "Undergraduate Research Assistant" 
 # social: # enter your social media urls here, optional
 #  - github:
 #  - linkedin:

@@ -1,8 +1,8 @@
 ---
-img : ""
-role:
-name : "" #name
-position: "" 
+img : "IMG_3961.JPG"
+role: other
+name : "Shivan Patel" #name
+position: "Undergraduate Research Assistant" 
 # social: # enter your social media urls here, optional
 #  - github:
 #  - linkedin:
