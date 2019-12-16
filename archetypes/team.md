@@ -1,23 +1,24 @@
 ---
 img : ""
-role:
-name : "" #name
-position: "" 
-# social: # enter your social media urls here, optional
+role: "" # leave blank
+name : "" # your name
+position: "" # leave blank
+# enter your social media urls here, optional
+# social: 
 #  - github:
 #  - linkedin:
 #  - twitter:
 # status: "" # additional titles, optional
-# bio: "your_bio" 
+# bio: ""
 
 # link to your CV online, optional
-# cv: "your_cv_url" 
+# cv: "https://your_cv_url" 
 
 # link to your personal website, optional
-# website: "your_personal_website_url" 
+# website: "https://your_personal_website_url" 
 
 # link to your google scholar profile, optional
-# googlescholar: "your_google_scholar_profile_url" 
+# googlescholar: "https://your_google_scholar_profile_url" 
 
 # enter short research interests (traffic signal, CAV, etc.), optional
 # interest: 
