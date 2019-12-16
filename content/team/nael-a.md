@@ -1,24 +1,23 @@
 ---
-img : ""
-role: "" # leave blank
-name : "" # your name
-position: "" # leave blank
-# enter your social media urls here, optional
-# social: 
+img : "IMG_3953.JPG"
+role: phd
+name : "Nael Alsaleh" #name
+position: "PhD Student" 
+# social: # enter your social media urls here, optional
 #  - github:
 #  - linkedin:
 #  - twitter:
 # status: "" # additional titles, optional
-# bio: ""
+# bio: "your_bio" 
 
 # link to your CV online, optional
-# cv: "https://your_cv_url" 
+# cv: "your_cv_url" 
 
 # link to your personal website, optional
-# website: "https://your_personal_website_url" 
+# website: "your_personal_website_url" 
 
 # link to your google scholar profile, optional
-# googlescholar: "https://your_google_scholar_profile_url" 
+# googlescholar: "your_google_scholar_profile_url" 
 
 # enter short research interests (traffic signal, CAV, etc.), optional
 # interest: 

@@ -1,6 +1,6 @@
 ---
 img: "IMG_3932.jpg"
-role: masc
+role: alumni
 name: "Rafael Vasquez"
 position: MASc Student
 social: # enter your social media urls here, optional
