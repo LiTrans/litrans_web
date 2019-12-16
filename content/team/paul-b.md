@@ -3,21 +3,21 @@ img : "IMG_3958.JPG"
 role: other
 name : "Paul Boutot" #name
 position: "Undergraduate Research Assistant" 
-# social: # enter your social media urls here, optional
-#  - github:
-#  - linkedin:
-#  - twitter:
+social: 
+ - github: "https://github.com/PaulBoutot"
+ - linkedin: "https://www.linkedin.com/in/paul-boutot-3ab536174/"
+ - twitter: "https://twitter.com/paulboutot"
 # status: "" # additional titles, optional
-# bio: "your_bio" 
-
+bio: "Ryerson Computer Science Undergraduate Student"
+​
 # link to your CV online, optional
-# cv: "your_cv_url" 
-
+# cv: "https://your_cv_url" 
+​
 # link to your personal website, optional
-# website: "your_personal_website_url" 
-
+# website: "https://your_personal_website_url" 
+​
 # link to your google scholar profile, optional
-# googlescholar: "your_google_scholar_profile_url" 
+# googlescholar: "https://your_google_scholar_profile_url" 
 
 # enter short research interests (traffic signal, CAV, etc.), optional
 # interest: 
