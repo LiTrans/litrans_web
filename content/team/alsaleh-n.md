@@ -16,12 +16,12 @@ cv: "https://drive.google.com/open?id=1h5Zn4i2aYrLDWJO094q96qcn8TLRL3v2"
 # link to your google scholar profile, optional
 googlescholar: "https://scholar.google.com/citations?user=kLkCsa0AAAAJ&hl=en" 
 # enter short research interests (traffic signal, CAV, etc.), optional
-# interest: 
- - "Travel Demand Modelling"
- - "Machine Learning" 
+interest: 
+  - "Travel Demand Modelling"
+  - "Machine Learning" 
 # your research highlights here (awards, achievements, etc.), optional
-# highlights: 
-#  - "The First Place Award in The Best Master Thesis at JUST for 2018"
+highlights: 
+  - "The First Place Award in The Best Master Thesis at JUST for 2018"
 #  - "research_highlights_2"
 #  - "research_highlights_3" 
 # media headlines, newspaper articles etc..., optional
