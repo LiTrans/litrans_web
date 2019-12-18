@@ -1,14 +1,16 @@
 ---
-img : "IMG_3953.JPG"
-role: phd
-name : "Nael Alsaleh" #name
-position: "PhD Student" 
-# social: # enter your social media urls here, optional
-#  - github:
-#  - linkedin:
-#  - twitter:
+img : "IMG_3961.JPG"
+role: other
+name : "Shivam Patel" #name
+position: "Undergraduate Research Assistant" 
+# enter your social media urls here, optional
+social: 
+ - github:
+ - linkedin: https://www.linkedin.com/in/shivampatel24/
+ - twitter:
 # status: "" # additional titles, optional
-# bio: "your_bio" 
+# bio: ""
+​
 
 # link to your CV online, optional
 # cv: "your_cv_url" 
@@ -20,9 +22,9 @@ position: "PhD Student"
 # googlescholar: "your_google_scholar_profile_url" 
 
 # enter short research interests (traffic signal, CAV, etc.), optional
-# interest: 
-#  - "research_interest_1"
-#  - "research_interest_2" 
+interest: 
+ - "Autonomous Vehicle Networks"
+ - "Machine Learning in Robotics"
 
 # your research highlights here (awards, achievements, etc.), optional
 # highlights: 
