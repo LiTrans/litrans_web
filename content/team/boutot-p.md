@@ -4,9 +4,9 @@ role: other
 name : "Paul Boutot" #name
 position: "Undergraduate Research Assistant" 
 social: 
- - github: "https://github.com/PaulBoutot"
- - linkedin: "https://www.linkedin.com/in/paul-boutot-3ab536174/"
- - twitter: "https://twitter.com/paulboutot"
+ - github: https://github.com/PaulBoutot
+ - linkedin: https://www.linkedin.com/in/paul-boutot-3ab536174/
+ - twitter: https://twitter.com/paulboutot
 # status: "" # additional titles, optional
 bio: "Ryerson Computer Science Undergraduate Student"
 ​
