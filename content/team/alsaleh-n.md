@@ -5,7 +5,7 @@ name : "Nael Alsaleh" #name
 position: "PhD Student" 
 social: 
  - github:
- - linkedin:www.linkedin.com/in/nael-alsaleh
+ - linkedin: "www.linkedin.com/in/nael-alsaleh"
  - twitter:
 # status: "" # additional titles, optional
 bio: "Nael is a Ph.D. Student in Transportation Engineering at Ryerson University, Canada. He completed his B.Sc. in Civil Engineering in 2015 and M.Sc. in Transportation Engineering in 2017, both from Jordan University of Science and Technology (JUST), Jordan. He started his Ph.D. in 2019 under the supervision of Dr. Bilal Farooq. His research focuses on Travel Demand Modelling using Machine Learning Algorithms."
