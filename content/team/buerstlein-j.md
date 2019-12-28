@@ -8,7 +8,7 @@ social: # enter your social media urls here, optional
   - github:
   - linkedin:
   - twitter:
-# status: ""
+status: "Visiting researcher, 2019"
 # bio: "" # enter your short bio here (markdown format compatible)
 # cv: "your_cv_url" # link to your CV online, optional
 # website: "your_personal_website" # link to your personal website, optional

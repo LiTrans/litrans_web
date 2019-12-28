@@ -6,7 +6,7 @@
   <meta name="description" content="{{ . }}">{{ end }}
   {{ with .Site.Params.name }}
   <meta name="author" content="{{ . }}">{{ end }}
-  {{ .Hugo.Generator }}
+  {{ hugo.Generator }}
   <title>{{ .Title }}{{ if not .IsHome }} &middot; {{ .Site.Title }}{{ end }}</title>
   {{ "<!-- Stylesheets -->" | safeHTML }}
   <link href="{{ "plugins/animate-css/animate.css" |absURL}}" rel="stylesheet">

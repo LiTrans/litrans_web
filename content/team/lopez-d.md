@@ -8,7 +8,7 @@ social: # enter your social media urls here, optional
   - github: https://github.com/mitrailer
   - linkedin: https://www.linkedin.com/in/david-lopez-a462033a
   - twitter: https://twitter.com/Mitrailer
-# status: ""
+status: "Postdoc, 2019"
 bio: "David is a Postdoc Fellow in the Laboratory of Innovations in Transportation at Ryerson University supervised by [Dr. Bilal Farooq](../farooq-b). David's research is focused on cybersecurity and privacy management systems for smart mobility. He is currently developing a comprehensive Blockchain framework for private and secure transactions of transportation data. He is also exploring the use of Blockchain in privacy-aware distribute transportation models.
 
 
