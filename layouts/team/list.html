@@ -17,12 +17,17 @@
       </div>
       {{"<!-- /section title -->" | safeHTML}}
       <ul>
-      {{ range (where .Site.RegularPages "Type" "team") }}
-        {{ if (eq .Params.role "alumni") }}
-        <li>
-          <a href="{{ .Permalink }}" style="font-weight:normal">{{ .Params.name | markdownify }} ({{ .Params.status | markdownify }})
-          </a>
-        </li>
+      {{ range (where .Site.RegularPages "Type" "team").GroupByDate "2006" }}
+        {{ if (gt .Key 2016) }}
+          <h2>{{ .Key }}</h2>
+        {{ end }}
+        {{ range .Pages }}
+          {{ if (eq .Params.role "alumni") }}
+          <li>
+            <a href="{{ .Permalink }}" style="font-weight:normal">{{ .Params.name | markdownify }} ({{ .Params.status | markdownify }})
+            </a>
+          </li>
+          {{ end }}
         {{ end }}
       {{ end }}
       </ul>
