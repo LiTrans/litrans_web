@@ -2,12 +2,13 @@
 img: "IMG_3917.jpg"
 role: postdoc
 name: "Melvin Wong"
+date: 2020-02-01
 position: Postdoc Research Fellow
 social:
   - github: https://github.com/mwong009
   - linkedin: https://www.linkedin.com/in/mwong009/
   - twitter:
-# status: " "
+status: "Postdoc, 2020"
 bio: "Melvin is a Postdoc Research Fellow in the Laboratory of Innovations in Transportation at Ryerson University supervised by [Dr. Bilal Farooq](../farooq-b). Melvin's research explores how generative modelling and machine learning can impact travel behaviour analysis and how it changes the way we look at choice modelling. In particular, measuring heterogeneity in 'Big Data' and using deep learning methods for optimization of complex choice models.
 
 
