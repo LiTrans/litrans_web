@@ -5,12 +5,11 @@ draft: false
 # description:
 ---
 <!-- ![](../images/anae.jpg) -->
-LiTrans alumni, Dr. Sobhani appointed as an Assistant Professor at Utrecht University, the Netherlands.
+LiTrans alumni, Dr. López appointed as an Associate Researcher at Universidad Nacional Autónoma de México (UNAM), Mexico.
 
-{{< figure src="/news/images/anae.jpg" >}}
+
+{{< figure src="/news/images/david.jpg" >}}
 
 <!--more-->
 
-[Dr. Anae Sobhani](https://www.uu.nl/staff/asobhani) was LiTrans' first postdoc who worked from Nov. 2015 to Oct. 2017. She is now working as an Assistant Professor in the Department of Human Geography and Spatial Planning in Utrecht University, the Netherlands. Her research interests primarily involve formulating and developing discrete choice models that allow for a better understanding of the behavioural patterns involved in various decision processes.
-
-
+Dr. David López was a LiTrans postdoc who worked from March 2018 to April 2019. He is now working as an Associate Researcher in the Engineering Institute at the UNAM, Mexico. His research interests involve the development of 3rd generation Advanced Traveler Information Systems often called Intelligent Traveler Information Systems. He also is deeply interested on the use of blockchain for privacy and data transactions.
