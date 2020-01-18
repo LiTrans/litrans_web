@@ -6,7 +6,7 @@ draft: false
 ---
 <!-- ![](../images/melvin-epfl.jpg) -->
 {{< figure src="/news/images/drwong.jpg" width="65%">}}
-LiTrans' first full Ph.D. graduate, Dr. Wong appointed as a Postdoctoal Researcher at the Transport and Mobility Laboratory, EPFL, Dwitzerland.
+LiTrans' first full Ph.D. graduate, Dr. Wong appointed as a Postdoctoal Researcher at the Transport and Mobility Laboratory, EPFL, Switzerland.
 
 
 <!--more-->
