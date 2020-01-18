@@ -1,5 +1,5 @@
 ---
-title: "Dr. David López Flores Appointed Associate Researcher at National Autonomous University of Mexico (Universidad Nacional Autónoma de México)"
+title: "Dr. David López Flores Appointed Associate Researcher at Universidad Nacional Autónoma de México"
 date: 2020-01-09
 draft: false
 # description:
