@@ -7,7 +7,7 @@ draft: false
 <!-- ![](../images/david.jpg) -->
 LiTrans alumni, Dr. López appointed as an Associate Researcher at Universidad Nacional Autónoma de México (UNAM), Mexico.
 
-{{< figure src="/news/images/anae.jpg" width="50%">}}
+{{< figure src="/news/images/david.jpg" width="50%">}}
 
 <!--more-->
 
