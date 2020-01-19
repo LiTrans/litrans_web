@@ -1,8 +1,8 @@
 ---
 img: "IMG_3917.jpg"
-role: postdoc
+role: alumni
 name: "Melvin Wong"
-date: 2020-02-01
+date: 2020-01-17
 position: Postdoc Research Fellow
 social:
   - github: https://github.com/mwong009
