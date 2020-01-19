@@ -149,7 +149,7 @@ googleAnalytics = "UA-137871044-1"
     center = true
     links  = false
     title  = "Our Team"
-    alumni = false
+    alumni = true
     # subtitle = ""
     # description = ""
 
