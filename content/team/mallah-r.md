@@ -2,7 +2,7 @@
 img: "ranwa.jpg"
 role: postdoc
 date: 2020-02-01
-name: "David Lopez"
+name: "Ranwa Al Mallah"
 position: Postdoc Research Fellow
 social: # enter your social media urls here, optional
   - github:
