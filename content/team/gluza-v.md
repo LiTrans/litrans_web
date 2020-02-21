@@ -1,7 +1,7 @@
 ---
-img: "veronica.jpeg"
+img : "veronica.jpeg"
 role: other
-name: Veronica Gluza
+name : "Veronica Gluza"
 position: "Undergraduate Research Assistant"
 social: # enter your social media urls here, optional
   - github: https://github.com/veragluz
