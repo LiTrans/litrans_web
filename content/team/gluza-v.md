@@ -7,8 +7,8 @@ social: # enter your social media urls here, optional
   - github: https://github.com/veragluz
   - linkedin: https://www.linkedin.com/in/veronicagluza/
   - twitter:
- status: "BSc Computer Science, Minor in Mathematics Graduate, 2020"
- bio: "Veronica is a BSc undergraduate in the Computer Science program at Ryerson University. She completed a summer internship at Magnet and shortly after joined Litrans as a research assistant. Her research has covered autonomous vehicle simulations and high performance computing applications in transportation. She will be a research intern at Cornell University to explore generative modelling and transportation econometrics. " # enter your short bio here (markdown format compatible)
+status: "BSc Computer Science, Minor in Mathematics Graduate, 2020"
+bio: "Veronica is a BSc undergraduate in the Computer Science program at Ryerson University. She completed a summer internship at Magnet and shortly after joined Litrans as a research assistant. Her research has covered autonomous vehicle simulations and high performance computing applications in transportation. She will be a research intern at Cornell University to explore generative modelling and transportation econometrics. " # enter your short bio here (markdown format compatible)
 # cv: "your_cv_url" # link to your CV online, optional
 # website: "your_personal_website" # link to your personal website, optional
 # googlescholar: "" # link to your google scholar profile, optional
