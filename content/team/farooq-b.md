@@ -2,7 +2,7 @@
 img: "farooq_B.jpg"
 role: professor
 name: "Bilal Farooq"
-position: Assistant Professor
+position: Associate Professor
 social: # enter your social media urls here, optional
   - github: https://github.com/billjee
   - linkedin: https://ca.linkedin.com/in/bilalfarooq
