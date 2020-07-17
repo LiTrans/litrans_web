@@ -1,6 +1,6 @@
 ---
 img : "IMG_3963.JPG"
-role: other
+role: alumni
 name : "Le Tran" #name
 position: "Undergraduate Research Assistant" 
 social: # enter your social media urls here, optional
