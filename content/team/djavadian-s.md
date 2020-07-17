@@ -6,7 +6,7 @@ date: 2020-03-01
 name : "Shadi Djavadian"
 
 # PhD/MSc student, Professor, etc. leave blank if not applicable
-position: "Senior Postdoc" 
+position: "Senior Postdoc, 2020" 
 
 # enter your social media urls here, optional
 social: 
