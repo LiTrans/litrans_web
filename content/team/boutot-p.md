@@ -3,7 +3,7 @@ img : "IMG_3958.JPG"
 role: alumni
 date: 2020-05-01
 name : "Paul Boutot" #name
-position: "Undergraduate Research Assistant" 
+position: "Undergraduate Research Assistant, 2020" 
 social: 
  - github: https://github.com/PaulBoutot
  - linkedin: https://www.linkedin.com/in/paul-boutot-3ab536174/
