@@ -3,7 +3,7 @@ img : "IMG_3963.JPG"
 role: alumni
 date: 2020-05-01
 name : "Le Tran" #name
-position: "Undergraduate Research Assistant" 
+position: "Undergraduate Research Assistant, 2020" 
 social: # enter your social media urls here, optional
   - github:
   - linkedin: https://www.linkedin.com/in/le-tran-42a08b136/
