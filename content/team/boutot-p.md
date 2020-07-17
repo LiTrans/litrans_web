@@ -1,6 +1,6 @@
 ---
 img : "IMG_3958.JPG"
-role: other
+role: alumni
 name : "Paul Boutot" #name
 position: "Undergraduate Research Assistant" 
 social: 
