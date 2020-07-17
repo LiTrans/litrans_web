@@ -1,6 +1,7 @@
 ---
 img: "IMG_3928.jpg"
 role: alumni
+date: 2020-03-01
 # your name
 name : "Shadi Djavadian"
 
