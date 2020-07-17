@@ -1,6 +1,7 @@
 ---
 img : "IMG_3958.JPG"
 role: alumni
+date: 2020-05-01
 name : "Paul Boutot" #name
 position: "Undergraduate Research Assistant" 
 social: 
