@@ -6,7 +6,7 @@ date: 2020-05-01
 name : "Amjad Dehman"
 
 # PhD/MSc student, Professor, etc. leave blank if not applicable
-position: "Senior Postdoc" 
+position: "Senior Researcher" 
 
 # enter your social media urls here, optional
 social: 
