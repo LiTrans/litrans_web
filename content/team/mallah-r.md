@@ -1,5 +1,5 @@
 ---
-img: "ranwa.jpg"
+img: "ranwa.png"
 role: postdoc
 date: 2020-02-01
 name: "Ranwa Al Mallah"
