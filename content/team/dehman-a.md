@@ -1,6 +1,6 @@
 ---
 img: "dehmana.png"
-role: ""
+role: postdoc
 date: 2020-05-01
 # your name
 name : "Amjad Dehman"
