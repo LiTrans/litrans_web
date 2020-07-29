@@ -191,7 +191,7 @@ googleAnalytics = "UA-137871044-1"
     [[params.clients]]
       logo = "cutric.png"
       link = "http://cutric-crituc.org/"
-
+      
     [[params.clients]]
       logo = "sshrc.jpeg"
       link = "http://www.sshrc-crsh.gc.ca/home-accueil-eng.aspx"
@@ -207,6 +207,18 @@ googleAnalytics = "UA-137871044-1"
     [[params.clients]]
       logo = "aws.png"
       link = "https://aws.amazon.com/"
+      
+    [[params.clients]]
+      logo = "ospe.png"
+      link = "https://ospe.on.ca/"
+
+    [[params.clients]]
+      logo = "ff.png"
+      link = "https://fuseforward.com/"
+
+    [[params.clients]]
+      logo = "lc.png"
+      link = "http://www.lazaretcapital.ca/"
 
   # Contact section
   [params.contact]
