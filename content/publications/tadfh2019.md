@@ -5,7 +5,7 @@
 #    <journal location + etc>.
 bibliography: "Tu, R., Alfaseeh, L., Djavadian, S., Farooq, B., Hatzopoulou, M., 2019.
   **Quantifying the impacts of dynamic control in connected and automated vehicles on greenhouse gas emissions and urban NO2
-concentrations**." # surround Title with **<title>**
+concentrations**. Transportation Research Part D: Transport and Environment." # surround Title with **<title>**
 date: 2019-06-24
 preview: journal_trpartd.jpg
 arxiv: ""
