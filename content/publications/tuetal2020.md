@@ -4,7 +4,7 @@
 #    **<title>**.
 #    <journal location + etc>.
 bibliography: "Tu, R., Gai, Y., Farooq, B., Posen, D., Hatzopoulou, M. 2020.
-  **Electric vehicle charging optimization to minimize marginal greenhouse gas emissions from power generation**." # surround Title with **<title>**
+  **Electric vehicle charging optimization to minimize marginal greenhouse gas emissions from power generation**. Applied Energy." # surround Title with **<title>**
 date: 2020-07-27
 preview: ap.png
 arxiv: ""
