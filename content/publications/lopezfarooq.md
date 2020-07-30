@@ -4,8 +4,7 @@
 #    **<title>**.
 #    <journal location + etc>.
 bibliography: "López, D., Farooq, B., 2020.
-  **A multi-layered blockchain framework for smart mobility data-markets**.
-  arXiv preprint arXiv:1906.06435." # surround Title with **<title>**
+  **A multi-layered blockchain framework for smart mobility data-markets**. Transportation Research Part C: Emerging Technologies." # surround Title with **<title>**
 date: 2020-01-18
 preview: journal_trpartc.jpg
 arxiv: "https://arxiv.org/abs/1906.06435"
