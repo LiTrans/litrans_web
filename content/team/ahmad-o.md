@@ -23,7 +23,7 @@ interest:
 - Machine Learning
 # your research highlights here (awards, achievements, etc.), optional
 highlights: 
-- "Summer 2020 Intern at [PTV AV](https://www.ptvgroup.com/en/)"
+- "Summer 2020 Intern at [PTV AG](https://www.ptvgroup.com/en/)"
 #  - "research_highlights_2"
 #  - "research_highlights_3" 
 # media headlines, newspaper articles etc..., optional
