@@ -45,10 +45,10 @@
         </li>
         {{ end }}
 
-        {{ if .Site.Params.team.enable }}
+        {{ if .Site.Params.publication.enable }}
         <li>
           <a class="page-scroll"
-            href="{{ .Site.BaseURL }}#team">{{ with .Site.Params.navigation.team }}{{ . }}{{ end }}</a>
+            href="{{ if .IsHome }}{{ .Site.BaseURL }}#publications{{ else }}{{ .Site.BaseURL }}publications{{ end }}">{{ with .Site.Params.navigation.publication }}{{ . }}{{ end }}</a>
         </li>
         {{ end }}
 
@@ -59,13 +59,13 @@
         </li>
         {{ end }}
 
-        {{ if .Site.Params.publication.enable }}
+        {{ if .Site.Params.team.enable }}
         <li>
           <a class="page-scroll"
-            href="{{ if .IsHome }}{{ .Site.BaseURL }}#publications{{ else }}{{ .Site.BaseURL }}publications{{ end }}">{{ with .Site.Params.navigation.publication }}{{ . }}{{ end }}</a>
+            href="{{ .Site.BaseURL }}#team">{{ with .Site.Params.navigation.team }}{{ . }}{{ end }}</a>
         </li>
         {{ end }}
-
+        
         {{ if .Site.Params.contact.enable }}
         <li>
           <a class="page-scroll"
