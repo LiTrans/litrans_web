@@ -7,11 +7,11 @@ position: MEng Student
 
 # enter your social media urls here, optional
 social:
-  - github:
-  - linkedin: # https://www.linkedin.com/in/shubhambohra/
-  - twitter: # https://twitter.com/shubhambohra94
+  - github: ""
+  - linkedin: ""
+  - twitter: ""
 
-status: "MEng Graduate, 2022"
+#status: "MEng Graduate, 2022"
 
 # enter your short bio here (markdown format compatible)
 bio: "Roderick is a MEng student supervised by [Dr. Bilal Farooq](../farooq-b) in the Laboratory of Innovations in Transportation(LiTrans) at Ryerson University. Roderick received his H.B.Sc as a Physics Specialist from the University of Toronto in 2020. As an undergraduate in Physics, he specialized in areas of Planetary Atmosphere and Planetary Interior. In his final year of undergraduate, Roderick worked on an independent research project and created the first model of Machine-Learning based Martian climate zone map. Roderick has a very keen interest in climate change solutions, and his research in LiTrans focuses on using Deep-Learning frameworks to create better anticipatory routing solution to mitigate vehicular GHG emission and travel time on roads."
