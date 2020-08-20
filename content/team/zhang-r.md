@@ -6,10 +6,10 @@ name: Rodrick Zhang
 position: MEng Student
 
 # enter your social media urls here, optional
-#social:
-#  - github:
-#  - linkedin: https://www.linkedin.com/in/shubhambohra/
-#  - twitter: https://twitter.com/shubhambohra94
+social:
+  - github:
+  - linkedin: # https://www.linkedin.com/in/shubhambohra/
+  - twitter: # https://twitter.com/shubhambohra94
 
 status: "MEng Graduate, 2022"
 
