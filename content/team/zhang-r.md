@@ -1,7 +1,7 @@
 ---
 img: "rodrick.png"
 role: emng
-date: 2019-06-01
+date: 2020-08-19
 name: Rodrick Zhang
 position: MEng Student
 
