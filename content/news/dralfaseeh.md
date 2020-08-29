@@ -4,14 +4,14 @@ date: 2020-08-20
 draft: false
 # description:
 ---
-{{< figure src="/news/images/IMG_3916.jpg" width="80%" >}}
+{{< figure src="/news/images/img_3916.jpg" width="80%" >}}
 
 
 <!--more-->
 
 Congratulations to Lama Alfaseeh on successfully defending her PhD thesis on August 20, 2020. Her thesis developed strategies for anticipatory multi-objective eco-routing using connectivity. 
 
-{{< figure src="/team/images/IMG_3916.jpg" width="75%" >}}
+{{< figure src="/team/images/img_3916.jpg" width="75%" >}}
 
 ## Title: 
 
