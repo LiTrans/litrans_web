@@ -4,7 +4,7 @@ date: 2020-08-31
 draft: false
 # description:
 ---
-{{< figure src="/images/shadi.png" width="75%" >}}
+{{< figure src="/news/images/shadi.png" width="75%" >}}
 
 
 <!--more-->
