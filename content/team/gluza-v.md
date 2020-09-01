@@ -1,8 +1,8 @@
 ---
 img : "veronica.jpeg"
-role: other
+role: alumni
 name : "Veronica Gluza"
-position: "Undergraduate Research Assistant"
+position: "Undergraduate Research Assistant, 2020"
 social: # enter your social media urls here, optional
   - github: https://github.com/veragluz
   - linkedin: https://www.linkedin.com/in/veronicagluza/
