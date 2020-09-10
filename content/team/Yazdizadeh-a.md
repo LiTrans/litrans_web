@@ -1,5 +1,5 @@
 ---
-img: "ali.png"
+img: "ali.jpg"
 role: postdoc
 date: 2020-05-01
 name: "Ali Yazdizadeh"
