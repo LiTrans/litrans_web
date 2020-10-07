@@ -1,6 +1,6 @@
 ---
 img: "ayun.jpg"
-role: ""
+role: "other"
 date: 2020-10-10
 # your name
 name : "Ayun Kumar"
