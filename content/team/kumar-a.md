@@ -6,7 +6,7 @@ date: 2020-10-10
 name : "Ayun Kumar"
 
 # PhD/MSc student, Professor, etc. leave blank if not applicable
-position: "Intern, 2020" 
+position: "Undergraduate Research Assistant" 
 
 # enter your social media urls here, optional
 social: 
