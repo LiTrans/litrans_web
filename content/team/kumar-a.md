@@ -35,10 +35,10 @@ interest:
  - "Machine Learning"
 
 # your research highlights here (awards, achievements, etc.), optional
-highlights: 
- - ""
- - ""
- - "" 
+#highlights: 
+# - ""
+# - ""
+# - "" 
 
 # media headlines, newspaper articles etc..., optional
 # media: 
