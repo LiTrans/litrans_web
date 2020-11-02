@@ -3,7 +3,7 @@ img: "ayun.jpg"
 role: "other"
 date: 2020-10-07
 # your name
-name : "Ayun Kumar"
+name : "Ayush Kumar"
 
 # PhD/MSc student, Professor, etc. leave blank if not applicable
 position: "Undergraduate Research Assistant" 
