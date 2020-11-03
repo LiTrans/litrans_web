@@ -9,7 +9,7 @@ social: # enter your social media urls here, optional
   - twitter: https://twitter.com/billjee
 status: Canada Research Chair in Disruptive Transportation and Services
 bio:  "Bilal Farooq received Bachelor in Engineering from University of Engineering and Technology and Master in Computer Science from [Lahore University of Management Sciences](https://lums.edu.pk/), both in Pakistan. He worked in software industry for several years before starting his Ph.D in Transportation Engineering at [University of Toronto](https://www.utoronto.ca/) in 2006. From 2011-2013 he did his Post-Doctoral research at [EPFL](https://epfl.ch/), Switzerland. From 2013-2017 he worked as an Assistant Professor at [Polytechnique Montréal](http://www.polymtl.ca/), where in 2014 he was awarded [Québec Early Researcher Award](http://www.frqsc.gouv.qc.ca/bourses-et-subventions/consulter-les-programmes-remplir-une-demande/bourse?id=fnc8mcbz1433940868852). In 2018 he also received the [Early Researcher Award from Ontario](https://www.ontario.ca/page/early-researcher-awards)."
-cv: https://bilalfarooqdotcom.files.wordpress.com/2019/03/farooq_cv_feb2019-1.pdf
+cv: https://bilalfarooqdotcom.files.wordpress.com/2020/05/farooq_cv_may2020-1.pdf
 website: https://bilalfarooq.com/
 googlescholar: https://scholar.google.ca/citations?user=XHAkrswAAAAJ&hl=en
 interest:
