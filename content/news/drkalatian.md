@@ -9,7 +9,7 @@ draft: false
 
 <!--more-->
 
-Congratulations to Arash Kalatian on successfully defending his PhD thesis on December 18, 2020. In the context of pedestrian dynamics, his thesis developed novel data collection techniques, interpretable machine learning models, and framework for interactions with automated vehicles. 
+Congratulations to Arash Kalatian on successfully defending his PhD thesis on December 18, 2020. In the context of pedestrian dynamics, his thesis developed novel data collection techniques, interpretable machine learning models, and a framework for interactions with automated vehicles. 
 
 
 ## Title: 
