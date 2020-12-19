@@ -1,5 +1,5 @@
 ---
-title: "Arash Kalatian Successfully defended her PhD Dissertation"
+title: "Arash Kalatian Successfully defended his PhD Dissertation"
 date: 2020-12-18
 draft: false
 # description:
