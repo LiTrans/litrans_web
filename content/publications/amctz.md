@@ -3,7 +3,7 @@
 # bibliograhpy : "<authors>, <year>.
 #    **<title>**.
 #    <journal location + etc>.
-bibliography: "Ansar, M.S., Ma, Y., Chen, S., Tang, k., and Zhang, z., 2020.
+bibliography: "Ansar, M.S., Ma, Y., Chen, S., Tang, K., and Zhang, Z., 2020.
   **Investigating the trip configured causal effect ofdistracted driving on aggressive driving behavior fore-hailing taxi drivers**.
   Journal of Traffic and Transportation Engineering." # surround Title with **<title>**
 date: 2020-12-15
