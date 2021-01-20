@@ -1,5 +1,5 @@
 ---
-title: "Dr. Kalatian appointed Research Fellow in Choice Modelling & Machine Learning"
+title: "Dr. Kalatian appointed Research Fellow at Leeds Choice Modelling Centre"
 date: 2021-01-19
 draft: false
 # description:
