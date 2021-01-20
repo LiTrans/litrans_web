@@ -1,5 +1,5 @@
 ---
-title: "Dr. Kalatian appointed Research Fellow at Leeds Choice Modelling Centre"
+title: "Dr. Kalatian appointed Research Fellow at Institute for Transport Studies, Leeds"
 date: 2021-01-19
 draft: false
 # description:
