@@ -1,6 +1,6 @@
 ---
 title: "Dr. Kalatian appointed Research Fellow in Choice Modelling and Machine Learning"
-date: 2020-01-19
+date: 2021-01-19
 draft: false
 # description:
 ---
