@@ -1,5 +1,5 @@
 ---
-title: "Dr. Kalatian appointed Research Fellow at ITS Leeds"
+title: "Dr. Kalatian appointed Research Fellow at ITS, Leeds University"
 date: 2021-01-19
 draft: false
 # description:
