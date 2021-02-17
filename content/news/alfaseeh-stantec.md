@@ -1,5 +1,5 @@
 ---
-title: "Dr. Alfaseeh joins Stantec Inc. as a Transportation Planner"
+title: "Dr. Alfaseeh joined Stantec Inc. as a Transportation Planner"
 date: 2021-02-16
 draft: false
 # description:
