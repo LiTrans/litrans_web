@@ -4,7 +4,7 @@ date: 2021-03-12
 draft: false
 # description:
 ---
-{{< figure src="/news/images/ranwa.png" width="75%" >}}
+{{< figure src="/news/images/ranwa.png" width="65%" >}}
 
 
 <!--more-->
