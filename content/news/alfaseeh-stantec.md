@@ -4,7 +4,7 @@ date: 2021-02-16
 draft: false
 # description:
 ---
-{{< figure src="/news/images/lama.png" width="75%" >}}
+{{< figure src="/news/images/lama.png" width="80%" >}}
 
 
 <!--more-->
