@@ -1,6 +1,6 @@
 ---
 img: "alex.png"
-role: "other"
+role: alumni
 date: 2020-05-07
 # your name
 name : "Alexander Khrulev"
