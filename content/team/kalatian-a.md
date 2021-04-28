@@ -1,8 +1,8 @@
 ---
 img: "IMG_3924.jpg"
-role: phd
+role: alumni
 name: "Arash Kalatian"
-position: "PhD Student" # PhD/MSc student, Professor, etc. leave blank if not applicable
+position: "PhD Student, 2021" # PhD/MSc student, Professor, etc. leave blank if not applicable
 social: # enter your social media urls here, optional
   - github: https://github.com/arashk1990
   - linkedin: https://linkedin.com/in/arashkalatian/
