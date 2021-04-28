@@ -150,7 +150,7 @@ googleAnalytics = "UA-137871044-1"
     links  = false
     title  = "Our Team"
     alumni = true
-    # subtitle = ""
+    subtitle = "We prioritize, value, and practice equity, diversity, and inclusion in our research, lab space, teaching, and engagements."
     # description = ""
 
     # All team member's pictures are stored under 'static/img/team'.
