@@ -81,7 +81,7 @@ googleAnalytics = "UA-137871044-1"
     # the 'static/img' folder.
     title      = "Centre for Urban Innovation @ Ryerson University"
     subtitle   = "Laboratory of Innovations in Transportation"
-    # buttonText = "Explore"
+    buttonText = "Explore"
 
 
   # Projects section
