@@ -1,6 +1,6 @@
 ---
 img : "IMG_3961.JPG"
-role: other
+role: alumni
 date: 2019-01-01
 name : "Shivam Patel" #name
 position: "Undergraduate Research Assistant" 
