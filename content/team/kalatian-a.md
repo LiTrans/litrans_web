@@ -2,6 +2,7 @@
 img: "IMG_3924.jpg"
 role: alumni
 name: "Arash Kalatian"
+date: 2021-02-01
 position: "PhD Student, 2021" # PhD/MSc student, Professor, etc. leave blank if not applicable
 social: # enter your social media urls here, optional
   - github: https://github.com/arashk1990
