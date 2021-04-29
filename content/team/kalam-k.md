@@ -2,6 +2,7 @@
 img: "kimia.png"
 role: phd
 name: "Kimia Kamal"
+date: 2020-12-30
 position: "PhD Student" # PhD/MSc student, Professor, etc. leave blank if not applicable
 social: # enter your social media urls here, optional
   - github: ""
