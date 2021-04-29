@@ -1,5 +1,5 @@
 ---
-img : "daniel.jpeg"
+img : "daniel.png"
 role: phd
 name : "Daniel Mensah" #name
 position: "PhD Student" 
