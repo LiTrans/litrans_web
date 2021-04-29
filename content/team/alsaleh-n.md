@@ -3,6 +3,7 @@ img : "IMG_3953.JPG"
 role: phd
 name : "Nael Alsaleh" #name
 position: "PhD Student" 
+date: 2019-9-10
 social: 
   - github:
   - linkedin: "www.linkedin.com/in/nael-alsaleh"
