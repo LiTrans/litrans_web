@@ -3,6 +3,7 @@ img : "daniel.jpeg"
 role: phd
 name : "Daniel Mensah" #name
 position: "PhD Student" 
+date: 2021-04-29
 social: 
   - github: ""
   - linkedin: "" 
@@ -22,7 +23,7 @@ interest:
   - "Secure and Privacy-preserving Mobility Data" 
 # your research highlights here (awards, achievements, etc.), optional
 highlights: 
-  - "The First Place Award in The Best Master Thesis at JUST for 2018"
+#  - "The First Place Award in The Best Master Thesis at JUST for 2018"
 #  - "research_highlights_2"
 #  - "research_highlights_3" 
 # media headlines, newspaper articles etc..., optional
