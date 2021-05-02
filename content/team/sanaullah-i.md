@@ -20,6 +20,7 @@ social:
 # enter your short bio here (markdown format compatible)
 bio: "Irum Sanaullah was a Postdoctoral Research Fellow at the Laboratory of Innovations in Transportation at Ryerson University working under the supervision of Dr. Bilal Farooq. Her research focused on investigating the Spatial and temporal factors which impact the On-Demand Transit. She worked on the City of Belleville's on-demand transit project to carry out the performance analysis.
 
+
 Irum completed her Ph.D. in Intelligent Transportation Systems from Loughborough University, UK, in 2013. She has also worked as a researcher on the project of social and environmental impacts of adopting a driverless car (dial-a-pod) system in the UK. She has been teaching Transportation-related subjects in Universities for the last ten years." 
 
 # link to your CV online, optional
