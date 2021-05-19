@@ -3,7 +3,7 @@ img : "mudassarm.png"
 role: meng
 date: 2020-05-01
 name : "Mahwish Mudassar" #name
-position: "MEng Student" 
+position: "MASc Student" 
 social: 
  - github: ""
  - linkedin: https://www.linkedin.com/in/mahwish-mudassar-6a9813126/
