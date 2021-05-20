@@ -1,5 +1,5 @@
 ---
-img: ""
+img: "def.jpeg"
 role: other
 date: 2021-05-17
 name: Thomas Zhao
