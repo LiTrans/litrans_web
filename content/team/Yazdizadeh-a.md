@@ -1,6 +1,6 @@
 ---
 img: "ali.jpg"
-role: postdoc
+role: alumni
 date: 2020-05-01
 name: "Ali Yazdizadeh"
 position: Postdoc Research Fellow
