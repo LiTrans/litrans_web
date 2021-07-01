@@ -8,7 +8,7 @@ social: # enter your social media urls here, optional
   - github:
   - linkedin: "https://www.linkedin.com/in/ali-yazdizadeh-data-scientist/"
   - twitter:
-# status: "Postdoc, 2020"
+status: "Postdoc, 2021"
 bio: "Ali Yazdizadeh is a Postdoctoral Research Fellow at the Laboratory of Innovations in Transportation at Ryerson University under the supervision of Prof. Bilal Farooq. Ali completed a M.Sc. in Transportation Planning at Sharif University of Technology and a M.Sc. in Geography at Concordia University. He specialized in discrete choice modeling and transportation demand analysis. He earned his Ph.D. in Geography, Planning & Environment from Concordia University in 2020. Ali’s current research is focused on application of artificial intelligence in mobility and geospatial data analysis. He has also over four years of industry experience in urban and freight transportation planning. His current research goal is to develop secure and smart solutions for design and operation of intelligent transportation systems."
 
 
