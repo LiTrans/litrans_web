@@ -1,6 +1,6 @@
 ---
 img: "ranwa.png"
-role: postdoc
+role: alumni
 date: 2020-02-01
 name: "Ranwa Al Mallah"
 position: Postdoc Research Fellow
