@@ -1,7 +1,7 @@
 ---
 img: "ranwa.png"
 role: alumni
-date: 2020-02-01
+date: 2021-08-23
 name: "Ranwa Al Mallah"
 position: Postdoc Research Fellow
 social: # enter your social media urls here, optional
