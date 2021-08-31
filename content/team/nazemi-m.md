@@ -1,6 +1,6 @@
 ---
 img: "mohsen.jpg"
-role: postdocc
+role: postdoc
 name: "Mohsen Nazemi"
 position: Postdoc Research Fellow
 social: # enter your social media urls here, optional
