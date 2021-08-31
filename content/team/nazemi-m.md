@@ -1,13 +1,13 @@
 ---
 img: "mohsen.jpg"
 role: postdoc
+date: 2021-08-28
 name: "Mohsen Nazemi"
 position: Postdoc Research Fellow
 social: # enter your social media urls here, optional
   - github:
   - linkedin: https://www.linkedin.com/in/mohsennazemi/
   - twitter:
-date: 2021-28-08
 status: 
 bio:  "Mohsen Nazemi received his master's degree in Transportation Engineering and Planning from [Tarbiat Modares University, Tehran, Iran](https://www.modares.ac.ir/en), followed by a bachelor's degree in Civil Engineering. He worked in a transportation consultancy for a few years before starting his doctoral studies in Transportation Engineering at [ETH Zurich (Singapore campus)](https://sec.ethz.ch/) in 2016."
 cv:
@@ -26,7 +26,7 @@ highlights:
  - "Winner of the Three Minute Thesis Competition, Future Cities Laboratory, Singapore, 2017"
 #  - "research_highlights_3" # enter your research highlights here (awards, achievements, etc.), optional
 media:
-  - "[GALILEO SPEZIAL “Smart, smarter, Singapur - Leben in der Stadt der Zukunft”, ProSieben] (https://vimeo.com/435085448 (Video)"
+  - "[GALILEO SPEZIAL “Smart, smarter, Singapur - Leben in der Stadt der Zukunft”, ProSieben] (https://vimeo.com/435085448) (Video)"
   - "[Using Virtual Reality to Evaluate Cyclist’s Perceived Safety, Netzwerk Stadt und Landschaft] (https://www.nsl.ethz.ch/en/cycling-in-virtual-reality-for-improved-bike-paths/) (Article)" 
   - "[Using virtual reality to get more people to cycle, The Straits Times] (https://www.straitstimes.com/singapore/using-virtual-reality-to-get-more-people-to-cycle) (Article)"# enter <<media headlines>>, newspaper articles etc...
 ---
