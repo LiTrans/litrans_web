@@ -26,6 +26,6 @@ highlights:
 #  - "research_highlights_3" # enter your research highlights here (awards, achievements, etc.), optional
 media:
   - "[GALILEO SPEZIAL “Smart, smarter, Singapur - Leben in der Stadt der Zukunft”, ProSieben] (https://vimeo.com/435085448 (Video)"
-  - "[Using Virtual Reality to Evaluate Cyclist’s Perceived Safety, Netzwerk Stadt und Landschaft] (https://www.cbc.ca/news/canada/toronto/uber-partnerships-with-car-rental-startups-could-increase-congestion-experts-say-1.4778393) (Article)" 
-  - "[Using virtual reality to get more people to cycle, The Straits Times] (http://www.btmontreal.ca/videos/5023121711001/) (Video)"# enter <<media headlines>>, newspaper articles etc...
+  - "[Using Virtual Reality to Evaluate Cyclist’s Perceived Safety, Netzwerk Stadt und Landschaft] (https://www.nsl.ethz.ch/en/cycling-in-virtual-reality-for-improved-bike-paths/) (Article)" 
+  - "[Using virtual reality to get more people to cycle, The Straits Times] (https://www.straitstimes.com/singapore/using-virtual-reality-to-get-more-people-to-cycle) (Article)"# enter <<media headlines>>, newspaper articles etc...
 ---
