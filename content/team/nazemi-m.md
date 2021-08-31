@@ -7,6 +7,7 @@ social: # enter your social media urls here, optional
   - github:
   - linkedin: https://www.linkedin.com/in/mohsennazemi/
   - twitter:
+date: 2021-28-08
 status: 
 bio:  "Mohsen Nazemi received his master's degree in Transportation Engineering and Planning from [Tarbiat Modares University, Tehran, Iran](https://www.modares.ac.ir/en), followed by a bachelor's degree in Civil Engineering. He worked in a transportation consultancy for a few years before starting his doctoral studies in Transportation Engineering at [ETH Zurich (Singapore campus)](https://sec.ethz.ch/) in 2016."
 cv:
