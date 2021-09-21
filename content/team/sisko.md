@@ -7,7 +7,7 @@ social: # enter your social media urls here, optional
   - github: 
   - linkedin: 
   - twitter: 
-status: Moral Officer
+status: Highly energetic
 bio:  ""
 cv: 
 website: 
