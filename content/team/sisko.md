@@ -1,7 +1,7 @@
 ---
 img: "sisko.jpg"
 role: professor
-name: "Captain B. Sisko"
+name: "Capt'n Sisko"
 position: Moral Officer
 social: # enter your social media urls here, optional
   - github: 
