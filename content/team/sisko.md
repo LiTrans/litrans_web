@@ -8,7 +8,7 @@ social: # enter your social media urls here, optional
   - linkedin: 
   - twitter: 
 status: Highly energetic
-bio:  ""
+bio:  "Captain Benjamin Sisko is a Portuguese Water Dog who likes playing fetch with his favourite toys - currently a green piglet - running and jumping in water and rolling in grass and mud. He graduated from an accelerated doggie training with a Masters in Mischievousness. His strong points are Sit, Lay Down, Fetch, and Jump. He is highly motivated (by chicken treats), autonomous and independent."
 cv: 
 website: 
 googlescholar: 
@@ -16,10 +16,9 @@ interest:
   - "Other dogs"
   - "People"
   - "Tomato"
-  - "Running"
-  - "Jumping" # enter short research interests (traffic signal, CAV, etc.), optional
+  - "Running and jumping"
 highlights:
- - ""
+ - "Sniffing"
  - ""
  - ""
  - ""
