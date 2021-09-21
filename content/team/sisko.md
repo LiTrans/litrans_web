@@ -2,7 +2,7 @@
 img: "sisko.jpg"
 role: professor
 name: "Capt'n Sisko"
-position: Moral Officer
+position: Morale Officer
 social: # enter your social media urls here, optional
   - github: 
   - linkedin: 
