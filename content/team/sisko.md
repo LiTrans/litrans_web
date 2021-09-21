@@ -24,5 +24,5 @@ highlights:
  - "Jumping in water"
 #  - "research_highlights_3" # enter your research highlights here (awards, achievements, etc.), optional
 media:
-  - "I am pretty active on [Instagram](https://www.instagram.com/captainsisko_pwd)"# enter <<media headlines>>, newspaper articles etc...
+  - "[InstaDog](https://www.instagram.com/captainsisko_pwd)"# enter <<media headlines>>, newspaper articles etc...
 ---
