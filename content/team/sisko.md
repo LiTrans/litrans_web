@@ -13,11 +13,11 @@ cv:
 website: 
 googlescholar: 
 interest:
-  - "Travel Demand Modelling"
-  - "Cyber-Physical Transportation Systems"
-  - "Transportation Systems Simulation"
-  - "Disruptive and Transformative Transportation Technologies and Services"
-  - "Active Transportation" # enter short research interests (traffic signal, CAV, etc.), optional
+  - "Other dogs"
+  - "People"
+  - "Tomato"
+  - "Running"
+  - "Jumping" # enter short research interests (traffic signal, CAV, etc.), optional
 highlights:
  - ""
  - ""
@@ -25,7 +25,5 @@ highlights:
  - ""
 #  - "research_highlights_3" # enter your research highlights here (awards, achievements, etc.), optional
 media:
-  - ""
-  - "" 
   - ""# enter <<media headlines>>, newspaper articles etc...
 ---
