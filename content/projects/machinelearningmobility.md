@@ -20,6 +20,17 @@ keywords:
     - generative modelling
 ---
 <!-- content body -->
+### Socially Aware Automated Vehicles
+
+##### Abstract
+
+Currently, the interactions between drivers and pedestrians on urban roads are mainly in the form of a silent agreement. Eye contact between the two agents, or head orientations and body movements of the pedestrians observed by the drivers, are some of the behaviours that establish this silent agreement. Drivers then continuously try to anticipate the next actions of pedestrians based on what they see. At the same time, pedestrians decide on their behavioural choices based
+on what they perceive from the vehicles and drivers. To replicate these interactions in an automated urban environment, immersive virtual reality experiments are designed to collect detailed behavioural data from pedestrians. Interpretable deep learning models are then developed that can predict pedestrian walking behaviour when crossing urban roads. Multi-objective reinforcement learning is used to train the AV that can anticipate the pedestrian's actions and react while incorporating pedestrian safety as well as passenger comfort. The findings of this study are not only useful for the manufacturers but can also help municipalities in
+the reassessment of current policies, practices, design, rules and regulations in order to prepare them for the mobility technologies of the future.
+
+#### References
+Kalatian, A., Farooq, B., 2021. Decoding pedestrian and automated vehicle interactions using immersive virtual reality and interpretable deep learning. Transportation Research Part C: Emerging Technologies. 124, 102962.
+
 ### Restricted Boltzmann Machine based Multiple Discrete Continuous Model for very large datasets
 
 ##### Abstract
