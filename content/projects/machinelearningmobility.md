@@ -2,11 +2,14 @@
 title: "AI, Machine Learning & Mobility"
 draft: false
 featured: true # featured on front page
-description: "Developing data-driven model structure and estimation methods for discrete choice analysis."
+description: "Developing contex-aware artificial intelligence for automated vehicles and interpretable machine learning for travel behaviour modelling."
 icon: "fas fa-brain"
 pi:
-    - "[Melvin Wong](/team/wong-m)"
     - "[Bilal Farooq](/team/farooq-b)"
+    - "[Kimia Kamal](/team/kalam-k)"
+    - "[Arash Kalatian](/team/kalatian-a)
+    - "[Melvin Wong](/team/wong-m)"
+
 
 # keywords allow related projects to be linked at the bottom of the project page
 keywords:
