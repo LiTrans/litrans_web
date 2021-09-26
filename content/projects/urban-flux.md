@@ -1,5 +1,5 @@
 ---
-title: "Urban Flux"
+title: "Urban Flux & IoT"
 draft: false
 featured: true # featured on front page
 description: "Ubiquitous sensors network for sensing multimodal traffic in real-time for complete streets."
