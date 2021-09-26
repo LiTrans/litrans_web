@@ -1,5 +1,5 @@
 ---
-title: "Smart Mobility"
+title: "Sustainable Smart Mobility"
 draft: false
 featured: true # featured on front page
 description: "Distributed traffic management system with application in CAV routing, advanced on-demand transit, traffic management, & system optimization."
