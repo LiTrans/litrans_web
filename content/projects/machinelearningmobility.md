@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning & Mobility"
+title: "AI, Machine Learning & Mobility"
 draft: false
 featured: true # featured on front page
 description: "Developing data-driven model structure and estimation methods for discrete choice analysis."
