@@ -1,5 +1,5 @@
 ---
-title: "Resilience, Cybersecurity & Privacy"
+title: "Resilience, Cybersecurity, & Privacy"
 draft: false
 featured: true # featured on front page
 description: "Digital and physical resilience of emerging transportation systems with a focus on cyber-security, privacy, and climate change."
