@@ -5,9 +5,9 @@ featured: true # featured on front page
 description: "Virtual Immersive Reality Environment (VIRE) for travel behaviour experiments."
 icon: "fas fa-vr-cardboard"
 pi:
-    - "[Arash Kalatian](/team/kalatian-a)"
     - "[Bilal Farooq](/team/farooq-b)"
-
+    - "[Rafael Vasquez](/team/vasques-r)"
+    - "[Paul Boutot](/team/boutot-p)"
 # keywords allow related projects to be linked at the bottom of the project page
 keywords:
     - virtual reality
