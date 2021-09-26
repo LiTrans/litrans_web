@@ -6,8 +6,10 @@ description: "Virtual Immersive Reality Environment (VIRE) for travel behaviour 
 icon: "fas fa-vr-cardboard"
 pi:
     - "[Bilal Farooq](/team/farooq-b)"
-    - "[Rafael Vasquez](/team/vasques-r)"
+    - "[Thomas Zhao](/team/zhao-t)"
     - "[Paul Boutot](/team/boutot-p)"
+    - "[Rafael Vasquez](/team/vasques-r)"
+
 # keywords allow related projects to be linked at the bottom of the project page
 keywords:
     - virtual reality
@@ -16,9 +18,10 @@ keywords:
     - machine learning
     - simulation
 ---
-### Title
+### Virtual Immersive Reality Environment (VIRE)
 
-Abstract.
+##### Abstract
+VIRE is a multi-player, multi-modal, dynamic digital twin that uses virtual reality for travel behaviour analysis. 
 
 #### References
-Kalatian A., Farooq, B., 2019. Systematic Behavioural Analysis of Pedestrian and Autonomous Vehicle Interactions using Virtual Immersive Reality Environment. IATBR 2018. [[link]](kalatianfarooq-iatbr-2018.pdf)
+Farooq, B., Cherchi, E., & Sobhani, A. (2018). Virtual immersive reality for stated preference travel behavior experiments: A case study of autonomous vehicles on urban roads. Transportation research record, 2672(50), 35-45.
