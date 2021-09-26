@@ -1,6 +1,6 @@
 ---
 title: "Virtual Reality based Digital Twin"
-draft: true
+draft: false
 featured: true # featured on front page
 description: "Virtual Immersive Reality Environment (VIRE) for travel behaviour experiments."
 icon: "fas fa-vr-cardboard"
