@@ -95,19 +95,19 @@ googleAnalytics = "UA-137871044-1"
 
       [[params.projects.row.list]]
         icon = "fas fa-car"
-        title = "Smart Mobility"
+        title = "Sustainable Smart Mobility"
         description = "Distributed traffic management system with application in CAV routing, advanced on-demand transit, traffic management, & system optimization."
         url = "projects/e2ecav2018.pdf"
 
       [[params.projects.row.list]]
         icon = "fas fa-brain"
-        title = "Machine Learning & Mobility"
+        title = "AI, Machine Learning & Mobility"
         description = "Developing data-driven model structure and estimation methods for discrete choice analysis."
         url = "projects/wongfarooq-iatbr-2018.pdf"
 
       [[params.projects.row.list]]
         icon = "fa fa-user-shield"
-        title = "Cybersecurity & Privacy"
+        title = "Resilience, Cybersecurity, & Privacy"
         description = "Blockchain framework for Smart Mobility Data-Markets (BSMD) with a focus on cybersecurity and personal privacy."
         url = "https://arxiv.org/pdf/1809.05785.pdf"
 
@@ -119,7 +119,7 @@ googleAnalytics = "UA-137871044-1"
 
       [[params.projects.row.list]]
         icon = "fas fa-city"
-        title = "UrbanFlux"
+        title = "UrbanFlux & IoT"
         description = "Ubiquitous sensors network for sensing multimodal traffic in real-time for complete streets"
         url = "https://bilalfarooqdotcom.files.wordpress.com/2018/02/farooq_ryerson_slides.pdf"
 
