@@ -1,5 +1,5 @@
 ---
-title: "Cybersecurity & Privacy"
+title: "Resilience, Cybersecurity & Privacy"
 draft: false
 featured: true # featured on front page
 description: "Blockchain framework for Smart Mobility Data-Markets (BSMD) with a focus on cybersecurity and personal privacy."
