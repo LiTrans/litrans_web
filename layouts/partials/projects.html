@@ -1,6 +1,7 @@
 {{ "<!-- Projects -->" | safeHTML }}
 <section id="projects">
   <div class="container">
+    {{ $homeflag := .IsHome }}
     {{ if .IsHome }}
     <div class="row">
       <div class="col-lg-12 text-center">
@@ -12,13 +13,13 @@
       </div>
     </div>
     {{ end }}
-    {{ $homeflag := .IsHome }}
+    
     <div class="row flexbox flexbox-center">
       {{ range (where .Site.Pages "Type" "projects") }}
-        <!-- {{ if or (and (.Params.featured) ($homeflag)) (eq $homeflag false) }} -->
+        {{ if or (and (.Params.featured) ($homeflag)) (and (.Params.featured) (eq $homeflag false)) }}
         <div class="col-md-4 post-frame text-center">
-          <!-- <a href="{{ .Permalink }}"> -->
-          <a>
+          <a href="{{ .Permalink }}">
+          <!-- <a> -->
             {{ if .Params.icon }}
             <div class="fa-stack fa-4x text-primary">
               <i class="fa fa-circle fa-stack-2x text-primary"></i>
@@ -29,7 +30,7 @@
           </a>
           <p class="text-muted">{{ .Params.description | markdownify }}</p>
         </div>
-        <!-- {{ end }} -->
+        {{ end }}
       {{ end }}
     </div>
 
