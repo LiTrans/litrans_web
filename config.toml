@@ -88,6 +88,7 @@ googleAnalytics = "UA-137871044-1"
   [params.projects]
     enable   = true
     center   = true
+    display  = true
     title    = "What We Do"
     subtitle = "Creating Cyber-Physical Future of Urban Mobility using Intelligent Technologies & Mathematics"
 
