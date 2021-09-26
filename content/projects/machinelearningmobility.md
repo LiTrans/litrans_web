@@ -30,6 +30,7 @@ the reassessment of current policies, practices, design, rules and regulations i
 
 #### References
 Kalatian, A., Farooq, B., 2021. Decoding pedestrian and automated vehicle interactions using immersive virtual reality and interpretable deep learning. Transportation Research Part C: Emerging Technologies. 124, 102962.
+Vasquez, R., & Farooq, B. (2019, October). Multi-objective autonomous braking system using naturalistic dataset. In 2019 IEEE Intelligent Transportation Systems Conference (ITSC) (pp. 4348-4353). IEEE.
 
 ### Restricted Boltzmann Machine based Multiple Discrete Continuous Model for very large datasets
 
