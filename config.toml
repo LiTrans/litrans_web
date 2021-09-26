@@ -113,7 +113,7 @@ googleAnalytics = "UA-137871044-1"
 
       [[params.projects.row.list]]
         icon = "fa fa-vr-cardboard"
-        title = "Virtual Reality"
+        title = "Virtual Reality based Digital Twin"
         description = "Virtual Immersive Reality Environment (VIRE) for travel behaviour experiments."
         url = "projects/kalatianfarooq-iatbr-2018.pdf"
 
