@@ -7,7 +7,7 @@ icon: "fas fa-brain"
 pi:
     - "[Bilal Farooq](/team/farooq-b)"
     - "[Kimia Kamal](/team/kalam-k)"
-    - "[Arash Kalatian](/team/kalatian-a)
+    - "[Arash Kalatian](/team/kalatian-a)"
     - "[Melvin Wong](/team/wong-m)"
 
 
