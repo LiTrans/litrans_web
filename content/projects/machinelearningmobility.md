@@ -29,8 +29,8 @@ on what they perceive from the vehicles and drivers. To replicate these interact
 the reassessment of current policies, practices, design, rules and regulations in order to prepare them for the mobility technologies of the future.
 
 #### References
-Kalatian, A., Farooq, B., 2021. Decoding pedestrian and automated vehicle interactions using immersive virtual reality and interpretable deep learning. Transportation Research Part C: Emerging Technologies. 124, 102962.
-Vasquez, R., & Farooq, B. (2019, October). Multi-objective autonomous braking system using naturalistic dataset. In 2019 IEEE Intelligent Transportation Systems Conference (ITSC) (pp. 4348-4353). IEEE.
+    Kalatian, A., Farooq, B., 2021. Decoding pedestrian and automated vehicle interactions using immersive virtual reality and interpretable deep learning. Transportation Research Part C: Emerging Technologies. 124, 102962.
+    Vasquez, R., & Farooq, B. (2019, October). Multi-objective autonomous braking system using naturalistic dataset. In 2019 IEEE Intelligent Transportation Systems Conference (ITSC) (pp. 4348-4353). IEEE.
 
 ### Restricted Boltzmann Machine based Multiple Discrete Continuous Model for very large datasets
 
@@ -43,4 +43,4 @@ This paper propose a novel generative modelling methodology for MDC data based o
 Trip mode, purpose and distance measures are specifically considered in our case study. Our preliminary studies have demonstrated the applicability of the proposed method and could significantly improve the understanding of latent behaviour in MDC choice data.
 
 #### References
-Wong, M., Farooq, B., 2019. Restricted Boltzmann Machine based Multiple Discrete Continuous Model for very large datasets. IATBR 2018. [[link]](wongfarooq-iatbr-2018.pdf)
+    Wong, M., Farooq, B., 2019. Restricted Boltzmann Machine based Multiple Discrete Continuous Model for very large datasets. IATBR 2018. [[link]](wongfarooq-iatbr-2018.pdf)
