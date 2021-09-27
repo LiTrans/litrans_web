@@ -18,6 +18,8 @@ keywords:
     - machine learning
     - simulation
 ---
+{{< figure src="/news/images/cav01.png" width="100%" >}}
+
 ### Virtual Immersive Reality Environment (VIRE)
 
 ##### Abstract
