@@ -8,7 +8,7 @@ pi:
     - "[Bilal Farooq](/team/farooq-b)"
     - "[Thomas Zhao](/team/zhao-t)"
     - "[Paul Boutot](/team/boutot-p)"
-    - "[Rafael Vasquez](/team/vasques-r)"
+    - "[Rafael Vasquez](/team/vasquez-r)"
 
 # keywords allow related projects to be linked at the bottom of the project page
 keywords:
