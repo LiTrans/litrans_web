@@ -37,6 +37,8 @@ Vasquez, R., & Farooq, B. (2019) [Multi-objective autonomous braking system usin
 
 ### Restricted Boltzmann Machine based Multiple Discrete Continuous Model for very large datasets
 
+{{< figure src="/projects/machinelearningmobility/rbm.png" width="100%" >}}
+
 ##### Abstract
 
 Efficient and robust machine learning frameworks for explaining latent behaviour are becoming more important with the increased use of very large scale multiple discrete-continuous (MDC) choice data in travel behaviour modelling.
