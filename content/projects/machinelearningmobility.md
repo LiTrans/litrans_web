@@ -22,6 +22,8 @@ keywords:
 <!-- content body -->
 ### Socially Aware Automated Vehicles
 
+{{< figure src="/projects/machinelearningmobility/ped5.png" width="100%" >}}
+
 ##### Abstract
 
 Currently, the interactions between drivers and pedestrians on urban roads are mainly in the form of a silent agreement. Eye contact between the two agents, or head orientations and body movements of the pedestrians observed by the drivers, are some of the behaviours that establish this silent agreement. Drivers then continuously try to anticipate the next actions of pedestrians based on what they see. At the same time, pedestrians decide on their behavioural choices based
