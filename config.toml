@@ -220,6 +220,10 @@ googleAnalytics = "UA-137871044-1"
       logo = "lc.png"
       link = "http://www.lazaretcapital.ca/"
 
+    [[params.clients]]
+      logo = "innisfil.jpg"
+      link = "https://innisfil.ca/"
+
   # Contact section
   [params.contact]
     enable = true
