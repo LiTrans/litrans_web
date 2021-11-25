@@ -6,7 +6,7 @@ draft: false
 ---
 
 {{< figure src="/news/images/mwong_tue.jpg" width="65%">}}
-Dr. Melvin Wong, former PhD graduate from LiTrans (2019), has been appointed as assistant professor in the Department of Built Environment, at Eindhoven University of Technology.
+# Dr. Melvin Wong, former PhD graduate from LiTrans (2019), has been appointed as assistant professor in the Department of Built Environment, at Eindhoven University of Technology.
 
 <!--more-->
 
