@@ -1,6 +1,6 @@
 ---
 title: "Dr. Melvin Wong appointed assistant professor at TU Eindhoven"
-date: 2021-12-01
+date: 2021-11-25
 draft: false
 # description:
 ---
