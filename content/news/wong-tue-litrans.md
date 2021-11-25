@@ -5,7 +5,7 @@ draft: false
 # description:
 ---
 
-{{< figure src="/news/images/mwong_tue.jpg" width="85%">}}
+{{< figure src="/team/images/IMG_3917.jpg" width="85%">}}
 
 <!--more-->
 
