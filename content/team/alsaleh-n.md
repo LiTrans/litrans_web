@@ -1,5 +1,5 @@
 ---
-img : "IMG_3953.JPG"
+img : "nael.png"
 role: phd
 name : "Nael Alsaleh" #name
 position: "PhD Student" 
@@ -7,7 +7,7 @@ date: 2019-9-10
 social: 
   - github:
   - linkedin: "www.linkedin.com/in/nael-alsaleh"
-  - twitter:
+  - twitter: "https://twitter.com/AlsalehNael"
 # status: "" # additional titles, optional
 bio: "Nael is a Ph.D. candidate in Transportation Engineering at the Laboratory of Innovations in Transportation (LiTrans), Ryerson University, Canada. He is the President of Ryerson Institute of Transportation Engineers (RITE) for the 2021-2022 academic year. Nael received his B.Sc. in Civil Engineering in 2015 and M.Sc. in Transportation Engineering in 2017, both from Jordan University of Science and Technology (JUST), Jordan. He started his Ph.D. in September 2019 under the supervision of Dr. Bilal Farooq and his research focuses on travel demand modelling for Shared On-Demand Mobility Services."
 # link to your CV online, optional
