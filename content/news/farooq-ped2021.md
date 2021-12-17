@@ -1,6 +1,6 @@
 ---
 title: "Prof. Bilal Farooq gave a keynote at the 2021 PED Conference"
-date: 2021-11-18
+date: 2021-11-29
 draft: false
 # description:
 ---
