@@ -4,7 +4,7 @@ date: 2021-12-20
 draft: false
 # description:
 ---
-{{< figure src="/news/images/saba.png" width="80%" >}}
+{{< figure src="/news/images/saba.png" width="75%" >}}
 
 <!--more-->
 
