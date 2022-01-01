@@ -1,7 +1,8 @@
 ---
 img: "ayun.jpg"
-role: "other"
-date: 2020-10-07
+role: "alumni"
+date: 2021-12-18
+# date: 2020-10-07
 # your name
 name : "Ayush Kumar"
 
