@@ -1,7 +1,8 @@
 ---
 img: "maryam.png"
-role: other
-date: 2021-05-17
+role: alumni
+# date: 2021-05-17
+date: 2021-12-17
 name: Maryam Elbeshbishy
 position: Undergraduate Research Assistant
 
