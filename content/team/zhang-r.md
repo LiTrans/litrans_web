@@ -1,9 +1,9 @@
 ---
 img: "rodrick.png"
-role: meng
-date: 2020-08-19
+role: phd
+date: 2021-01-11
 name: Rodrick Zhang
-position: MEng Student
+position: PhD Student
 
 # enter your social media urls here, optional
 social:
@@ -14,7 +14,7 @@ social:
 #status: "MEng Graduate, 2022"
 
 # enter your short bio here (markdown format compatible)
-bio: "Roderick is a MEng student supervised by [Dr. Bilal Farooq](../farooq-b) in the Laboratory of Innovations in Transportation (LiTrans) at Ryerson University. Roderick received his H.B.Sc as a Physics Specialist from the University of Toronto in 2020. As an undergraduate in Physics, he specialized in areas of Planetary Atmosphere and Planetary Interior. In his final year of undergraduate, Roderick worked on an independent research project and created the first model of Machine-Learning based Martian climate zone map. Roderick has a very keen interest in climate change solutions, and his research in LiTrans focuses on using Deep-Learning frameworks to create better anticipatory routing solution to mitigate vehicular GHG emission and travel time on roads."
+bio: "Roderick is a Ph.D. student supervised by [Dr. Bilal Farooq](../farooq-b) in the Laboratory of Innovations in Transportation (LiTrans) at Ryerson University. Prior to the start of his Ph.D. study in January 2022, he was a Master's student at LiTrans since September 2020. In his undergrad, Roderick studied Physics at the University of Toronto, where he received his H.BSc in 2020. His core research focuses on using EDI-by-design climate change migration and adaptation smart mobility technology to address mobility issues that vulnerable communities face. Other dimensions of his research include Mobility related Public Health, Internet of Things, Artificial Intelligence, Data-driven Decision Making, and Information Safety."
 
 
 # link to your CV online, optional
@@ -28,9 +28,10 @@ bio: "Roderick is a MEng student supervised by [Dr. Bilal Farooq](../farooq-b) i
 
 # enter short research interests (traffic signal, CAV, etc.), optional
 interest:
-  - "Climate Change Mitigation"
-  - "Intelligent Transportation System"
-  - "Machine Learning & Deep Learning"
+  - "Smart Cities"
+  - "EDI-conscious Technology"
+  - "Climate Change Solutions"
+  - "Interdisciplinary Innovation"
 
 
 # enter your research highlights here (awards, achievements, etc.), optional
