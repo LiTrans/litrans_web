@@ -1,7 +1,7 @@
 ---
 img: "dehmana.png"
 role: alumni
-date: 2020-05-01
+date: 2022-01-17
 # your name
 name : "Amjad Dehman"
 
