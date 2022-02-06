@@ -9,6 +9,7 @@ draft: false
 
 <!--more-->
 **Researcher:** Amjad Dehman, PhD
+
 **Supervisor:** Bilal Farooq, PhD, PEng
 
 **About the Project**
