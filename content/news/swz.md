@@ -4,7 +4,7 @@ date: 2022-02-02
 draft: false
 # description:
 ---
-{{< figure src="/news/images/swz.jpg" width="80%" >}}
+{{< figure src="/news/images/swz.jpg" width="100%" >}}
 
 
 <!--more-->
