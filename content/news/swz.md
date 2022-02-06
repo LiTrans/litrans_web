@@ -18,7 +18,7 @@ Work zones on highways impose contraction in the available roadway space creatin
 
 [Evaluating Work Zone Traffic Performance Measures Using Traffic Surveillance Systems](/content/projects/smart-mobility/TrafficPerformance_WorkZones.pdf) (Presented at 100th TRB AM)
 
-[Are Work Zone and Connected Automated Vehicles Ready for a Harmonious Coexistence?](/https://www.sciencedirect.com/science/article/abs/pii/S0968090X21004162) (Published in Transportation Research Part C: Emerging Technologies)
+[Are Work Zone and Connected Automated Vehicles Ready for a Harmonious Coexistence?](https://www.sciencedirect.com/science/article/abs/pii/S0968090X21004162) (Published in Transportation Research Part C: Emerging Technologies)
 
 [Capacity Characteristics of Long-Term Work Zones on Signalized Intersection Approaches](/content/projects/smart-mobility/CapacityCharacteristics_WZ.pdf) (Presented at 101st TRB AM)
 
