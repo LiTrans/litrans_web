@@ -1,5 +1,5 @@
 ---
-title: "Smart Work Zone Traffic Management project"
+title: "Smart Work Zone Traffic Management project successfully completed"
 date: 2022-02-02
 draft: false
 # description:
