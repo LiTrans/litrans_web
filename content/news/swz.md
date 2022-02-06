@@ -1,5 +1,5 @@
 ---
-title: "Smart Work Zone Traffic Management"
+title: "Smart Work Zone Traffic Management project"
 date: 2022-02-02
 draft: false
 # description:
@@ -16,11 +16,11 @@ draft: false
 
 Work zones on highways impose contraction in the available roadway space creating adverse traffic mobility and safety impacts. On the other hand, new technologies have made it possible to collect and manage smart traffic data by deploying smart traffic sensors and cameras. This research project explored new techniques for managing traffic at highway work zone locations using smart systems, smart data, and smart vehicles. The project included three main studies or themes as outlined below and supported by links guiding to corresponding papers and presentations.
 
-[Evaluating Work Zone Traffic Performance Measures Using Traffic Surveillance Systems](/content/projects/smart-mobility/TrafficPerformance_WorkZones.pdf) (Presented at 100th TRB AM)
+[[Evaluating Work Zone Traffic Performance Measures Using Traffic Surveillance Systems]](/content/projects/smart-mobility/TrafficPerformance_WorkZones.pdf) (Presented at 100th TRB AM)
 
-[Are Work Zone and Connected Automated Vehicles Ready for a Harmonious Coexistence?](https://www.sciencedirect.com/science/article/abs/pii/S0968090X21004162) (Published in Transportation Research Part C: Emerging Technologies)
+[[Are Work Zone and Connected Automated Vehicles Ready for a Harmonious Coexistence?]](https://www.sciencedirect.com/science/article/abs/pii/S0968090X21004162) (Published in Transportation Research Part C: Emerging Technologies)
 
-[Capacity Characteristics of Long-Term Work Zones on Signalized Intersection Approaches](/content/projects/smart-mobility/CapacityCharacteristics_WZ.pdf) (Presented at 101st TRB AM)
+[[Capacity Characteristics of Long-Term Work Zones on Signalized Intersection Approaches]](/content/projects/smart-mobility/CapacityCharacteristics_WZ.pdf) (Presented at 101st TRB AM)
 
 **About the Researcher**
 
