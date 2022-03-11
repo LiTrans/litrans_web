@@ -147,7 +147,7 @@ googleAnalytics = "UA-137871044-1"
     enable = true
     # Possibility to center items
     center = true
-    links  = falsef
+    links  = false
     title  = "Our Team"
     alumni = true
     subtitle = "We prioritize, value, and practice equity, diversity, and inclusion in our research, lab space, teaching, and engagements."
