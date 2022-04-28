@@ -169,7 +169,7 @@ googleAnalytics = "UA-137871044-1"
     # Replace them with your clients's logos.
     # Suggestion: .svg in the size of 280px*80px looks good
     [[params.clients]]
-      logo = "ryerson.png"
+      logo = "tmu.jpeg"
       link = "https://www.ryerson.ca/"
 
     [[params.clients]]
