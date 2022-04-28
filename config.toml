@@ -79,7 +79,7 @@ googleAnalytics = "UA-137871044-1"
   [params.hero]
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
-    title      = "Centre for Urban Innovation @ Ryerson University"
+    title      = "Centre for Urban Innovation @ Toronto Metropolitan University"
     subtitle   = "Laboratory of Innovations in Transportation"
     buttonText = "Explore"
 
