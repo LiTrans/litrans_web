@@ -1,5 +1,5 @@
 ---
-title: "Nael Alsaleh awarded teh international Ontario Graduate Scholarship"
+title: "Nael awarded the international Ontario Graduate Scholarship"
 date: 2022-04-30
 draft: false
 # description:
