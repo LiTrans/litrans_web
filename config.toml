@@ -230,7 +230,7 @@ googleAnalytics = "UA-137871044-1"
     title  = "Contact us"
   	mapurl = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1443.2139942011902!2d-79.38044537639092!3d43.66006799849111!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDPCsDM5JzM2LjIiTiA3OcKwMjInNDcuNSJX!5e0!3m2!1sen!2sca!4v1551126871383&zoom=15"
     addressTitle = "Office"
-    address      = "Centre for Urban Innovation<br/>CUI-330, Ryerson University<br/>44 Gerrard Street East, Toronto ON M5G 1G3, Canada"
+    address      = "Centre for Urban Innovation<br/>CUI-330, Toronto Metropolitan University<br/>44 Gerrard Street East, Toronto ON M5G 1G3, Canada"
     phoneNumber  = "416 979-5000 ext 556456"
     # buttonText   = "Send message"
 
