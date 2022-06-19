@@ -1,9 +1,9 @@
 ---
 img: "rodrick.png"
-role: phd
+role: alumni
 date: 2021-01-11
 name: Rodrick Zhang
-position: PhD Student
+position: MEng Student, 2021
 
 # enter your social media urls here, optional
 social:
@@ -14,7 +14,7 @@ social:
 #status: "MEng Graduate, 2022"
 
 # enter your short bio here (markdown format compatible)
-bio: "Roderick is a Ph.D. student supervised by [Dr. Bilal Farooq](../farooq-b) in the Laboratory of Innovations in Transportation (LiTrans) at Ryerson University. Prior to the start of his Ph.D. study in January 2022, he was a Master's student at LiTrans since September 2020. In his undergrad, Roderick studied Physics at the University of Toronto, where he received his H.BSc in 2020. His core research focuses on using EDI-by-design climate change migration and adaptation smart mobility technology to address mobility issues that vulnerable communities face. Other dimensions of his research include Mobility related Public Health, Internet of Things, Artificial Intelligence, Data-driven Decision Making, and Information Safety."
+bio: "Roderick is a MEng student supervised by [Dr. Bilal Farooq](../farooq-b) in the Laboratory of Innovations in Transportation (LiTrans) at Ryerson University from September 2020 to December 2021. In his undergrad, Roderick studied Physics at the University of Toronto, where he received his H.BSc in 2020. His core research focuses on using EDI-by-design climate change migration and adaptation smart mobility technology to address mobility issues that vulnerable communities face. Other dimensions of his research include Mobility related Public Health, Internet of Things, Artificial Intelligence, Data-driven Decision Making, and Information Safety."
 
 
 # link to your CV online, optional
