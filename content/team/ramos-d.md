@@ -1,7 +1,7 @@
 ---
 img : "danielr.jpeg"
 role: meng
-date: 2020-05-01
+date: 2022-05-01
 name : "Daniel Ramos" #name
 position: "MEng Student" 
 social: 
@@ -10,6 +10,7 @@ social:
  - twitter: ""
 # status: "" # additional titles, optional
 bio: "Daniel Ramos is a Master of Engineering student in the Laboratory of Innovations in Transportation at Toronto Metropolitan University and Karlsruhe University of Applied Sciences supervised by Dr. Bilal Farooq. Daniel is part of the research team running an experiment investigating the interaction of pedestrians and autonomous vehicles using VR technology. The M.Eng. project focuses on data analysis based on the experiment’s outputs with python.
+
 
 Daniel graduated with his Bachelor of Engineering Degree from Karlsruhe University of Applied Sciences in 2021 and began his M.Eng. in Civil Engineering at Karlsruhe University of Applied Sciences and Toronto Metropolitan University in 2021."
 # link to your CV online, optional
