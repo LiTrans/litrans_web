@@ -12,7 +12,7 @@ social:
 bio: "Daniel Ramos is Master of Engineering student in the Laboratory of Innovations in Transportation at Toronto Metropolitan University and Karlsruhe University of Applied Sciences supervised by Dr. Bilal Farooq. Daniel’s is part of the research team running an experiment investigating the interaction of pedestrians and autonomous vehicles using VR technology. The M.Eng. project focuses on data analysis based on the experiment’s outputs with python.
 Daniel graduated with his Bachelor of Engineering Degree from Karlsruhe University of Applied Sciences in 2021 and began his M.Eng. in Civil Engineering at University of Applied Sciences and Toronto Metropolitan University in 2021."
 # link to your CV online, optional
-# cv: "https://your_cv_url" 
+cv: ../cv/Daniel_CV.pdf 
 # link to your personal website, optional
 # website: "https://your_personal_website_url" 
 # link to your google scholar profile, optional
