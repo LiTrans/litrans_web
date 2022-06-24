@@ -21,7 +21,7 @@ Daniel graduated with his Bachelor of Engineering Degree from Karlsruhe Universi
 interest: 
 - Virtual Reality
 - Public Transit
-- Travel Behaviour Modelling
+- Auotomated Vehicles
 # your research highlights here (awards, achievements, etc.), optional
 # highlights: 
 # - "Summer 2020 Intern at [PTV AG](https://www.ptvgroup.com/en/)"
