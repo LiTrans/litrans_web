@@ -9,7 +9,7 @@ draft: false
 
 <!--more-->
 
-Congratulations to Seyed Mehdi Meshkani on successfully defending his PhD thesis on July 04, 2022. In the context of shared ride-haiking services, his thesis developed novel algorithms for request-vehicle matching. He proposed centralized as well as distributed versions and compared with existing state-of-the-art. 
+Congratulations to Seyed Mehdi Meshkani on successfully defending his PhD thesis on July 04, 2022. In the context of shared ride-hailing services, his thesis developed novel algorithms for request-vehicle matching. He proposed centralized as well as distributed versions and compared with existing state-of-the-art. 
 
 
 ## Title: 
