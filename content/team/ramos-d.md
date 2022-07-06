@@ -6,7 +6,7 @@ name : "Daniel Ramos" #name
 position: "MEng Student" 
 social: 
  - github: ""
- - linkedin: linkedin.com/in/daniel-ramos-9a0988207
+ - linkedin: https://linkedin.com/in/daniel-ramos-9a0988207
  - twitter: ""
 # status: "" # additional titles, optional
 bio: "Daniel Ramos is a Master of Engineering student in the Laboratory of Innovations in Transportation at Toronto Metropolitan University and Karlsruhe University of Applied Sciences supervised by Dr. Bilal Farooq. Daniel is part of the research team running an experiment investigating the interaction of pedestrians and autonomous vehicles using VR technology. The M.Eng. project focuses on data analysis based on the experiment’s outputs with python.
