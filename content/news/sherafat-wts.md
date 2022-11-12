@@ -1,5 +1,5 @@
 ---
-title: "Ella Sherafat awarded WTS Toronto's AI-focused Sholarship"
+title: "Ella Sherafat awarded WTS Toronto's AI focused Sholarship"
 date: 2022-11-10
 draft: false
 # description:
