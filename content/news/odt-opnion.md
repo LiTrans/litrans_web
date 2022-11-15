@@ -4,7 +4,7 @@ date: 2022-11-14
 draft: false
 # description:
 ---
-{{< figure src="/news/images/odt.png" width="85%" >}}
+{{< figure src="/news/images/odt.png" width="95%" >}}
 
 <!--more-->
 
