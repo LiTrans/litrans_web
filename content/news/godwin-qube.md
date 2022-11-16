@@ -1,5 +1,5 @@
 ---
-title: "Dr. Godwin Badu-Marfo starting as Senior Machine Learning Engineer at Qube Tech"
+title: "Dr. Godwin Badu-Marfo appointed Senior Machine Learning Engineer at Qube Tech"
 date: 2022-11-15
 draft: false
 # description:
