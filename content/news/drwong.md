@@ -4,7 +4,7 @@ date: 2019-08-12
 draft: false
 # description:
 ---
-{{< figure src="/news/images/wong.jpeg" width="85%" >}}
+{{< figure src="/news/images/wong.jpeg" width="95%" >}}
 
 
 <!--more-->
