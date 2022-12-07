@@ -1,6 +1,6 @@
 ---
 title: "Nael Alsaleh Successfully defended his PhD Dissertation"
-date: 2021-12-06
+date: 2022-12-06
 draft: false
 # description:
 ---
