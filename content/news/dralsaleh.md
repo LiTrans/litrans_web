@@ -9,9 +9,8 @@ draft: false
 
 <!--more-->
 
-Congratulations to Nael Alsaleh on successfully defending his PhD thesis on December 06, 2022. Dr. Alsaleh completed his undergraduate in Civil Engineering in 2015 and master's degree in Transportation Engineering from [Jordan University of Science and Technology]([https://www.ntu.edu.sg/Pages/home.aspx](https://www.just.edu.jo/Pages/Default.aspx). In September 2019 he was admitted to the Ph.D. program at [Toronto Metropolitan University](https://www.torontomu.ca/) under teh supervision of Dr. Farooq. His thesis developed original research on the travel demand and sustainability issues of on-demand public transit systems. 
+Congratulations to Nael Alsaleh on successfully defending his PhD thesis on December 06, 2022. Dr. Alsaleh completed his undergraduate in Civil Engineering in 2015 and master's degree in Transportation Engineering from [Jordan University of Science and Technology](https://www.just.edu.jo/Pages/Default.aspx). In September 2019 he was admitted to the Ph.D. program at [Toronto Metropolitan University](https://www.torontomu.ca/) under teh supervision of Dr. Farooq. His thesis developed original research on the travel demand and sustainability issues of on-demand public transit systems. 
 
-{{< figure src="/team/images/nael.jpg" width="80%" >}}
 
 ## Title: 
 
