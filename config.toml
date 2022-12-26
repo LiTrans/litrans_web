@@ -170,7 +170,7 @@ googleAnalytics = "UA-137871044-1"
     # Suggestion: .svg in the size of 280px*80px looks good
     [[params.clients]]
       logo = "tmu.jpeg"
-      link = "https://www.ryerson.ca/"
+      link = "https://www.torontomu.ca/"
 
     [[params.clients]]
       logo = "NSERC_RGB.png"
@@ -254,7 +254,7 @@ googleAnalytics = "UA-137871044-1"
     # add some custom JS script to finish the implementation.
     # postURL = "https://example.com/mailout/"
 
-    email = "bilal.farooq@ryerson.ca"
+    email = "bilal.farooq@torontomu.ca"
 
     # Success and error message overwrite for async contact form
     #thanks = "Thank you for awesomely contacting us."
@@ -320,6 +320,6 @@ googleAnalytics = "UA-137871044-1"
       text = "Terms of Use"
       link = "/tos"
 
-    [[params.footer.quicklinks]]
-      text = "Hugo"
-      link = "http://gohugo.io/"
+    #[[params.footer.quicklinks]]
+    #  text = "Hugo"
+    #  link = "http://gohugo.io/"
