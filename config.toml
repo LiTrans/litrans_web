@@ -263,8 +263,8 @@ googleAnalytics = "UA-137871044-1"
     twitter     = "@litrans_lab"
     twitter_url = "https://twitter.com/litrans_lab/"
 
-    twitter     = "LiTrans"
-    twitter_url = "https://www.linkedin.com/company/litrans"
+    linkedin     = "LiTrans"
+    linkedin_url = "https://www.linkedin.com/company/litrans"
 
     [params.contact.captcha]
       # sitekey = ""
