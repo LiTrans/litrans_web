@@ -263,8 +263,8 @@ googleAnalytics = "UA-137871044-1"
     twitter     = "@litrans_lab"
     twitter_url = "https://twitter.com/litrans_lab/"
 
-    linkedin     = "LiTrans"
-    linkedin_url = "https://www.linkedin.com/company/litrans"
+    # linkedin     = "LiTrans"
+    # linkedin_url = "https://www.linkedin.com/company/litrans"
 
     [params.contact.captcha]
       # sitekey = ""
@@ -310,10 +310,10 @@ googleAnalytics = "UA-137871044-1"
     #   link = "#"
     #   title = "Facebook"
 
-    # [[params.footer.social]]
-    #   icon = "fab fa-github"
-    #   link = "#"
-    #   title = "LinkedIn"
+     [[params.footer.social]]
+       icon = "fab fa-github"
+       link = "https://www.linkedin.com/company/litrans"
+       title = "LinkedIn"
 
     [[params.footer.quicklinks]]
       text = "Privacy Policy"
