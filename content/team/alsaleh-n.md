@@ -1,9 +1,10 @@
 ---
 img : "nael.png"
-role: phd
+role: alumni
 name : "Nael Alsaleh" #name
 position: "PhD Student" 
-date: 2019-9-10
+date: 2022-12-08
+# date: 2019-9-10
 social: 
   - github:
   - linkedin: "www.linkedin.com/in/nael-alsaleh"
