@@ -2,6 +2,7 @@
 img: "godwin.png"
 role: alumni
 date: 2022-11-01
+# date: 2020-10-12
 name: "Godwin Badu-Marfo"
 position: Postdoc Research Fellow
 social: # enter your social media urls here, optional
