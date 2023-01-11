@@ -1,5 +1,5 @@
 ---
-title: "Dr. Alsaleh appointed Post Doctoral Researcher at Mobility Network, Univ. of Toronto"
+title: "Dr. Alsaleh appointed Post Doctoral Researcher at Mobility Network, U. of T."
 date: 2023-01-11
 draft: false
 # description:
