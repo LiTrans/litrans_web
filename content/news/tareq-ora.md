@@ -4,7 +4,7 @@ date: 2023-01-18
 draft: false
 # description:
 ---
-{{< figure src="/news/images/tareq-ora.jpg" width="80%" >}}
+{{< figure src="/news/images/tareq-ora.jpg" width="85%" >}}
 
 
 <!--more-->
