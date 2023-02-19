@@ -1,9 +1,9 @@
 ---
 img : "shannon.png"
-role: meng
+role: masc
 date: 2022-05-08
 name : "Shannon Stark" #name
-position: "MEng Student" 
+position: "MASc Student" 
 social: 
  - github: ""
  - linkedin: ""
