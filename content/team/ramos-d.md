@@ -23,7 +23,7 @@ cv: ../cv/Daniel_CV.pdf
 interest: 
 - Virtual Reality
 - Public Transit
-- Auotomated Vehicles
+- Automated Vehicles
 # your research highlights here (awards, achievements, etc.), optional
 # highlights: 
 # - "Summer 2020 Intern at [PTV AG](https://www.ptvgroup.com/en/)"
