@@ -1,5 +1,5 @@
 ---
-img : "danielr.jpeg"
+img : "danielr.png"
 role: meng
 date: 2022-05-01
 name : "Daniel Ramos" #name
