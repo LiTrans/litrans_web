@@ -1,5 +1,5 @@
 ---
-img: "daniel.png"
+img: "danielh.png"
 role: other
 date: 2023-03-01
 name: Daniel Haslam
