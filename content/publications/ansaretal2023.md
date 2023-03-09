@@ -4,7 +4,7 @@
 #    **<title>**.
 #    <journal location + etc>.
 bibliography: "Ansar, M.S., Alsaleh, N., Farooq, B., 2023.
-  **Behavioural Modelling of Automated to Manual Control Transition in Conditionally Automated Driving.**. Transportation Research Record." # surround Title with **<title>**
+  **Behavioural Modelling of Automated to Manual Control Transition in Conditionally Automated Driving**. Transportation Research Record." # surround Title with **<title>**
 date: 2023-03-08
 preview: journal_trpartf.jpg
 arxiv: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4006056"
