@@ -4,7 +4,7 @@
 #    **<title>**.
 #    <journal location + etc>.
 bibliography: "Meshkani, S.M., Farooq, B., 2023.
-  **Centralized and decentralized algorithms for two-to-one matching problem in ridehailing systems.**. EURO Journal on Transportation and Logistics." # surround Title with **<title>**
+  **Centralized and decentralized algorithms for two-to-one matching problem in ridehailing systems**. EURO Journal on Transportation and Logistics." # surround Title with **<title>**
 date: 2023-02-03
 preview: eurotranslog.jpeg
 arxiv: ""
