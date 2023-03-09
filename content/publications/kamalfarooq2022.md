@@ -4,7 +4,7 @@
 #    **<title>**.
 #    <journal location + etc>.
 bibliography: "Kamal, K., Farooq, B., 2023.
-  **Debiased machine learning for estimating the causal effect of urban traffic on pedestrian crossing behaviour.**. Transportation Research Record." # surround Title with **<title>**
+  **Debiased machine learning for estimating the causal effect of urban traffic on pedestrian crossing behaviour**. Transportation Research Record." # surround Title with **<title>**
 date: 2023-01-10
 preview: trr.png
 arxiv: "https://arxiv.org/abs/2212.11322"
