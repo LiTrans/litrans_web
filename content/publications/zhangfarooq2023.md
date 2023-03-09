@@ -4,7 +4,7 @@
 #    **<title>**.
 #    <journal location + etc>.
 bibliography: "Zhang, S.R., Farooq, B., 2023.
-  **Interpretable and Actionable Vehicular Greenhouse Gas Emission Prediction at Road link-level.**. Journal of Sustainable Cities and Society." # surround Title with **<title>**
+  **Interpretable and Actionable Vehicular Greenhouse Gas Emission Prediction at Road link-level**. Journal of Sustainable Cities and Society." # surround Title with **<title>**
 date: 2023-02-24
 preview: scs.jpg
 arxiv: "https://arxiv.org/abs/2206.09073"
