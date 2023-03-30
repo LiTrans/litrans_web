@@ -1,7 +1,7 @@
 ---
 img : "mudassarm.jpg"
 role: alumni
-date: 2023-05-01
+date: 2023-03-27
 name : "Mahwish Mudassar" #name
 position: "MASc Student" 
 social: 
