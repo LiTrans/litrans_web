@@ -2,7 +2,7 @@
 img : "daniel.png"
 role: masc
 name : "Daniel Mensah" #name
-position: "PhD Student" 
+position: "MASc Student" 
 date: 2021-04-29
 social: 
   - github: ""
