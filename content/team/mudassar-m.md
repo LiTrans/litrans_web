@@ -1,7 +1,7 @@
 ---
 img : "mudassarm.jpg"
-role: masc
-date: 2020-05-01
+role: alumni
+date: 2023-05-01
 name : "Mahwish Mudassar" #name
 position: "MASc Student" 
 social: 
