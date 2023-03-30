@@ -1,6 +1,6 @@
 ---
 img : "daniel.png"
-role: phd
+role: masc
 name : "Daniel Mensah" #name
 position: "PhD Student" 
 date: 2021-04-29
