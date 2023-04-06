@@ -6,8 +6,6 @@ draft: false
 ---
 <!-- ![](../images/thomas.png) -->
 {{< figure src="/news/images/thomas.png" width="75%">}}
-# Thomas Zhao Awarded 2023 NSERC Undergraduate Research Student Award.
-
 
 <!--more-->
 
