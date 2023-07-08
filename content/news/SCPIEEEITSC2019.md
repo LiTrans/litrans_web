@@ -2,7 +2,7 @@
 title: "IEEE ITS Conference 2019 Special Session"
 date: 2019-02-20
 draft: false
-description: We are organizing a special seeion on Cybersecurity and Privacy in Emerging Mobility Technologies and Services at IEEE ITSC2019 this October in New Zealand.
+description: We are organizing a special session on Cybersecurity and Privacy in Emerging Mobility Technologies and Services at IEEE ITSC2019 this October in New Zealand.
 ---
 
 # Cybersecurity and Privacy Issues in Emerging Mobility Technologies and Services
