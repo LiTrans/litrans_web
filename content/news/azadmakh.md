@@ -1,12 +1,12 @@
 ---
-title: "Drs. Azadeh and Maknoon from TUDelft to give keynotes at Disrupt 2023 Symposium"
+title: "Drs. Azadeh and Maknoon from TUDelft to give keynotes at Disrupt 2023"
 
 date: 2023-07-14
 draft: false
 # description:
 ---
 <!-- ![](../images/sy.png) -->
-{{< figure src="/news/images/sy.png" width="85%">}}
+{{< figure src="/news/images/sy.png" width="90%">}}
 
 <!--more-->
 
