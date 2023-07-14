@@ -1,5 +1,5 @@
 ---
-title: "Drs. Azadeh and Maknoon from TU Delft to give keynotes at Disrupt 2023"
+title: "Drs. Azadeh and Maknoon from TU Delft to give keynote at Disrupt 2023"
 
 date: 2023-07-14
 draft: false
