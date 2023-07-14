@@ -1,5 +1,5 @@
 ---
-title: "Drs. Azadeh and Maknoon from TUDelft to give keynotes at Disrupt 2023"
+title: "Drs. Azadeh and Maknoon from TU Delft to give keynotes at Disrupt 2023"
 
 date: 2023-07-14
 draft: false
@@ -9,6 +9,8 @@ draft: false
 {{< figure src="/news/images/sy.png" width="100%">}}
 
 <!--more-->
+
+The 2023 Disruptive Transportation Technologies and Services Research Symposium (Disrupt 2023) will be held on July 21, 2023, at [Toronto Metropolitan University](https://www.torontomu.ca/). We are pleased to welcome Dr. Azadeh and Dr. Maknoon from TU Delft as this year's keynote speakers.
 
 # Biography
 [Dr. Shadi Sharif Azadeh](https://www.tudelft.nl/citg/over-faculteit/afdelingen/transport-planning/staff/persoonlijke-paginas/dr-s-shadi-sharif-azadeh) is a faculty member at [Civil Engineering and Geosciences faculty](https://www.tudelft.nl/en/ceg) and the co-director of [SUM (Sustainable Urban Multi-modal Mobility) lab](https://www.tudelft.nl/citg/over-faculteit/afdelingen/transport-planning/research/labs/sum-lab-1) at [TU Delft](https://www.tudelft.nl) in the department of Transport & Planning. Her areas of expertise include integration of operations research with behavioural models for transport, mobility and logistics networks (Choice Driven Optimization). More precisely, her current major projects are related to 1) combining pricing and assortment optimisation methods to model supply and demand interplay for last mile delivery and urban mobility systems and 2) developing real-time methods to be incorporated in combinatorial optimisation framework for large-scale transport problems. She is an editorial board editor at Transportation Research Part B: Methodological, editorial board member of Transportation Research Part C: Emerging Technologies and guest editor of three special issues at Transportation Science, EURO Journal of Transport and Logistics and OR Spectrum.
