@@ -10,6 +10,8 @@ draft: false
 
 <!--more-->
 
+
+
 The 2023 Disruptive Transportation Technologies and Services Research Symposium (Disrupt 2023) will be held on July 21, 2023, at [Toronto Metropolitan University](https://www.torontomu.ca/). We are pleased to welcome Dr. Azadeh and Dr. Maknoon from TU Delft as this year's keynote speakers.
 
 # Biography
