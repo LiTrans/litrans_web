@@ -1,5 +1,5 @@
 ---
-img : "/news/images/ella.png"
+img : "ella.png"
 role: phd
 name : "Elahe Sherafat" #name
 position: "PhD Student" 
