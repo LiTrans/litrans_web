@@ -5,7 +5,7 @@
 #    <journal location + etc>.
 bibliography: "Dehman, A., Farooq, B., 2023.
   **Capacity Characteristics of Long-Term Work Zones on Signalized Intersection Approaches**. Transportation Research Part A: Policy and Practice." # surround Title with **<title>**
-date: 2023-08-27
+date: 2023-07-27
 preview: journal_trparta.jpg
 # arxiv: ""
 # link: ""
