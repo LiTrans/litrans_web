@@ -1,5 +1,5 @@
 ---
-title: "Kimia, Saba, & Ella Awarded TMGS Scholarship"
+title: "Kimia, Saba, and Ella Awarded 2023 TMGS Scholarship"
 date: 2023-08-10
 draft: false
 # description:
