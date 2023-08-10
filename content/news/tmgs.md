@@ -9,7 +9,7 @@ draft: false
 
 <!--more-->
 
-[Toronto Met Graduate Scholarhip](https://www.torontomu.ca/graduate/future-students/financing-your-studies/scholarships-awards/toronto-met--graduate-scholarship-tmgs/) is a highly competitive scholarship awarded every year to top-performing graduate students. In 2023, [Kimia Kamal](https://litrans.ca/team/kalam-k/), [Saba Sabet](https://litrans.ca/team/sabet-s/), and [Ella Sherafat](https://litrans.ca/team/sherafat-e/).
+[Toronto Met Graduate Scholarhip](https://www.torontomu.ca/graduate/future-students/financing-your-studies/scholarships-awards/toronto-met--graduate-scholarship-tmgs/) is a highly competitive scholarship awarded every year to top-performing graduate students of [Toronto Metropolitan University](https://www.torontomu.ca/). In 2023, [Kimia Kamal](https://litrans.ca/team/kalam-k/), [Saba Sabet](https://litrans.ca/team/sabet-s/), and [Ella Sherafat](https://litrans.ca/team/sherafat-e/).
 
 Kimia's research interests include travel behaviour analysis, causal analysis of human decisions and pedestrian and autonomous vehicle interaction. She mainly explores how the combination of econometrics frameworks, machine learning algorithms, and causal inference techniques impact travel behaviour analysis.
 
