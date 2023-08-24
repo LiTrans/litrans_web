@@ -1,6 +1,6 @@
 ---
 img : "danielr.png"
-role: meng
+role: alumni
 date: 2022-05-01
 name : "Daniel Ramos" #name
 position: "MEng Student" 
