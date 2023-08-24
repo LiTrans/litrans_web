@@ -1,5 +1,5 @@
 ---
-img: "lina.jpg"
+img: "lina.png"
 role: masc
 date: 2023-08-24
 name : "Lina Waqfi" #name
