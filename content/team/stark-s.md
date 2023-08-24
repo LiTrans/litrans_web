@@ -1,6 +1,6 @@
 ---
 img : "shannon.png"
-role: masc
+role: alumni
 date: 2022-05-08
 name : "Shannon Stark" #name
 position: "MASc Student" 
