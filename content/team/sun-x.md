@@ -1,5 +1,5 @@
 ---
-img: "xiozhu.jpg"
+img: "xiozhu.png"
 role: phd
 date: 2023-08-25
 name : "Xiaozhu Sun" #name
