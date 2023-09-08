@@ -1,10 +1,10 @@
 ---
-title: "Nael Appointed Asst. Prof. at American International University-Kuwait"
+title: "Dr. Alsaleh Appointed Asst. Prof. at American International University-Kuwait"
 date: 2023-09-08
 draft: false
 # description:
 ---
-{{< figure src="/news/images/nael.png" width="80%" >}}
+{{< figure src="/news/images/nael.png" width="85%" >}}
 
 
 <!--more-->
