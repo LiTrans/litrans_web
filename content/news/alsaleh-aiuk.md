@@ -4,7 +4,7 @@ date: 2023-09-08
 draft: false
 # description:
 ---
-{{< figure src="/news/images/nael.png" width="85%" >}}
+{{< figure src="/news/images/nael.png" width="88%" >}}
 
 
 <!--more-->
