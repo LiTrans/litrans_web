@@ -1,8 +1,8 @@
 ---
 img : "saba.png"
-role: phd
+role: masc
 name : "Saba Sabet" #name
-position: "PhD Student" 
+position: "MASc Student" 
 date: 2021-05-02
 social: 
   - github:
