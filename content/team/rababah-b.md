@@ -1,9 +1,9 @@
 ---
 img : "bara.png"
-role: meng
+role: masc
 date: 2023-01-06
 name : "Bara Rababah" #name
-position: "MEng Student" 
+position: "MASc Student" 
 social: 
  - github: ""
  - linkedin: https://www.linkedin.com/in/bara-rababah/
