@@ -13,7 +13,7 @@ bio: "Tareq is a Ph.D. student in Civil Engineering at the Center of Urban Innov
 
 Tareq received his B.Sc. and M. Sc. in Civil Engineering in 2012 and 2016, respectively, both from Jordan University of Science and Technology (JUST), Jordan. He started his Ph.D. in September 2022 under the supervision of Dr. Bilal Farooq, and his research focuses on the electrification of light-duty vehicle fleets and anthropogenic analysis."
 # link to your CV online, optional
-cv: "./cv/TAlsaleh_CV.pdf" 
+cv: "../cv/TAlsaleh_CV.pdf" 
 # link to your personal website, optional
 website: "" 
 # link to your google scholar profile, optional
