@@ -2,7 +2,7 @@
 img: "godwin.png"
 role: postdoc
 date: 2022-11-01
-# date: 2020-10-12
+# date: 2016-01-12
 name: "Godwin Badu-Marfo"
 position: Research Associate
 social: # enter your social media urls here, optional
