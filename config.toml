@@ -186,6 +186,10 @@ googleAnalytics = "UA-137871044-1"
       link = "http://www.nserc-crsng.gc.ca/index_eng.asp"
 
     [[params.clients]]
+      logo = "cfref.png"
+      link = "https://www.cfref-apogee.gc.ca/home-accueil-eng.aspx"
+      
+    [[params.clients]]
       logo = "crc.jpg"
       link = "http://www.chairs-chaires.gc.ca/home-accueil-eng.aspx"
 
