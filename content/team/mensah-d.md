@@ -1,6 +1,6 @@
 ---
 img : "daniel.png"
-role: masc
+role: alumni
 name : "Daniel Mensah" #name
 position: "MASc Student" 
 date: 2021-04-29
