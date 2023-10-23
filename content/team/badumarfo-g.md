@@ -1,10 +1,10 @@
 ---
 img: "godwin.png"
-role: alumni
+role: postdoc
 date: 2022-11-01
 # date: 2020-10-12
 name: "Godwin Badu-Marfo"
-position: Postdoc Research Fellow
+position: Research Associate
 social: # enter your social media urls here, optional
   - github: "https://github.com/gbmarfo"
   - linkedin: "https://www.linkedin.com/in/godwin-badu-marfo-05946b36/"
