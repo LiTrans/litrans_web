@@ -233,6 +233,10 @@ googleAnalytics = "UA-137871044-1"
       logo = "innisfil.jpg"
       link = "https://innisfil.ca/"
 
+    [[params.clients]]
+      logo = "iie.png"
+      link = "https://www.iie.org/"      
+
   # Contact section
   [params.contact]
     enable = true
