@@ -4,7 +4,7 @@ role: postdoc
 date: 2016-01-12
 # date: 2020-10-12
 name: "Godwin Badu-Marfo"
-position: Research Associate
+position: Senior Research Associate
 social: # enter your social media urls here, optional
   - github: "https://github.com/gbmarfo"
   - linkedin: "https://www.linkedin.com/in/godwin-badu-marfo-05946b36/"
