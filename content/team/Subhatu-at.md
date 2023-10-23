@@ -10,7 +10,7 @@ social: # enter your social media urls here, optional
   - twitter:
 status: 
 bio:  "Alemtsehay Teklay Subhatu received her PhD in geography and sustainable development from [Bern University](https://www.unibe.ch/index_eng.html) Switzerland in 2019, and graduated a master’s degree in watershed management from [Hawassa University](https://www.hu.edu.et/), Ethiopia; followed by bachelor’s degree in Natural resource management from [Mekelle University](http://www.mu.edu.et/), Ethiopia."
-cv: ./cv/Subhatu_CV.pdf
+cv: ../cv/Subhatu_CV.pdf
 website:
 googlescholar:
 interest:
