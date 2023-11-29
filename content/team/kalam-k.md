@@ -14,7 +14,7 @@ cv: "" # link to your CV online, optional
 website: ""
 googlescholar: "https://scholar.google.com/citations?user=6NaA1_kAAAAJ&hl=en&oi=sra" # link to your google scholar profile, optional
 interest:
-  - "Travel Behavior Modelling"
+  - "Travel Behaviour Modelling"
   - "Machine Learning"
   - "Causality Analysis"
   - "Intelligent Transportation Systems"
