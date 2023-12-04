@@ -4,7 +4,7 @@
 #    **<title>**.
 #    <journal location + etc>.
 bibliography: "Kamal, K., Farooq, B., 2023.
-  ****Ordinal-ResLogit: Interpretable deep residual neural networks for ordered choices. Journal of Choice Modelling." # surround Title with **<title>**
+  **Ordinal-ResLogit: Interpretable deep residual neural networks for ordered choices**. Journal of Choice Modelling." # surround Title with **<title>**
 date: 2023-12-03
 preview: journal_choicemodelling.jpg
 arxiv: "https://arxiv.org/abs/2204.09187"
