@@ -1,9 +1,10 @@
 ---
 img : "saba.png"
-role: masc
+role: alumni
 name : "Saba Sabet" #name
 position: "MASc Student" 
-date: 2021-05-02
+# date: 2021-05-02
+date: 2023-12-02
 social: 
   - github:
   - linkedin: "www.linkedin.com/in/sabasabet"
