@@ -182,10 +182,6 @@ googleAnalytics = "UA-137871044-1"
       link = "https://www.torontomu.ca/"
 
     [[params.clients]]
-      logo = "cfref.png"
-      link = "https://www.cfref-apogee.gc.ca/home-accueil-eng.aspx"
-
-    [[params.clients]]
       logo = "NSERC_RGB.png"
       link = "http://www.nserc-crsng.gc.ca/index_eng.asp"
 
