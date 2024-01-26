@@ -2,7 +2,7 @@
 img : "ella.png"
 role: alumni
 name : "Elahe Sherafat" #name
-position: "DnF" 
+position: "PhD Student (DnF)" 
 date: 2024-01-01
 # date: 2022-02-01
 social: 
