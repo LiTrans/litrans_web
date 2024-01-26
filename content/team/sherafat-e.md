@@ -1,9 +1,10 @@
 ---
 img : "ella.png"
-role: phd
+role: alumni
 name : "Elahe Sherafat" #name
-position: "PhD Student" 
-date: 2022-02-01
+position: "DnF" 
+date: 2024-01-01
+# date: 2022-02-01
 social: 
   - github:
   - linkedin: "www.linkedin.com/in/elahe-sherafat-732763187"
