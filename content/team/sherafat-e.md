@@ -16,7 +16,7 @@ bio: "Elahe is a Ph.D. Candidate in the Transportation Engineering program at Ry
 # link to your personal website, optional
 # website: "" 
 # link to your google scholar profile, optional
-googlescholar: "https://scholar.google.com/citations?user=33y7yF0AAAAJ" 
+googlescholar:  
 # enter short research interests (traffic signal, CAV, etc.), optional
 interest: 
   - "Deep Learning Models"
