@@ -8,7 +8,7 @@ draft: false
 
 
 <!--more-->
-LiTrans welcomed two new members to the LiTrans family, Hyaw and Elizabeth. We congratulate Alemtsehay, the proud mother of Hyaw and Tareq, the proud father of Elizabeth for the new arrivals.
+We recently welcomed two new members to the LiTrans family, Hyaw and Elizabeth. We congratulate Alemtsehay, the proud mother of Hyaw and Tareq, the proud father of Elizabeth for the new arrivals.
 
 "After many ups and downs and a long journey from Ethiopia, I joined LiTrans TMU in October 2023. When I joined Litrans I was pregnant and on December 28, 2023, I welcomed my newborn baby Hyaw Goitom to our family.  I thank God, my supervisor Dr. Bilal Farooq and Scholar Rescue Fund Institute of International Education for supporting me to continue my career at TMU and with my accompanying family," says Alemtsehay.
 
