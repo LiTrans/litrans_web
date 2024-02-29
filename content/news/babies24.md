@@ -4,7 +4,7 @@ date: 2024-02-29
 draft: false
 # description:
 ---
-{{< figure src="/news/images/babies24.png" width="95%" >}}
+{{< figure src="/news/images/babies24.png" width="100%" >}}
 
 
 <!--more-->
