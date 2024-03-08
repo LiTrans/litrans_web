@@ -20,9 +20,9 @@ bio: "Did not finish with the lab."
 googlescholar:  
 # enter short research interests (traffic signal, CAV, etc.), optional
 interest: 
-  - "Deep Learning Models"
-  - "Reinforcement Learning" 
-  - "Connected and Autonomous Vehicles Simulation"
+#  - "Deep Learning Models"
+#  - "Reinforcement Learning" 
+#  - "Connected and Autonomous Vehicles Simulation"
 # your research highlights here (awards, achievements, etc.), optional
 # highlights: 
 #  - "The First Place Award in The Best Master Thesis at JUST for 2018"
