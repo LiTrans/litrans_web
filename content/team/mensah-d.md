@@ -19,9 +19,9 @@ cv: ""
 # googlescholar: "https://scholar.google.com/citations?user=kLkCsa0AAAAJ&hl=en" 
 # enter short research interests (traffic signal, CAV, etc.), optional
 interest: 
-  - "Intelligent Transportation Systems"
-  - "Advanced Machine Learning for Mobility Choice Modelling Travelling"
-  - "Secure and Privacy-preserving Mobility Data" 
+#  - "Intelligent Transportation Systems"
+#  - "Advanced Machine Learning for Mobility Choice Modelling Travelling"
+#  - "Secure and Privacy-preserving Mobility Data" 
 # your research highlights here (awards, achievements, etc.), optional
 highlights: 
 #  - "The First Place Award in The Best Master Thesis at JUST for 2018"
