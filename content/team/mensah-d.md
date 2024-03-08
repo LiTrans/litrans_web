@@ -9,7 +9,8 @@ social:
   - linkedin: "" 
   - twitter: ""
 # status: "" # additional titles, optional
-bio: "Daniel is an M.A.Sc. Student in Transportation Engineering at Toronto Metropolitan University, Canada. He earned his B.Sc. in Geomatic Engineering in 2010 from University of Mines and Technology, Ghana, and M.Sc. in Management Information Systems in 2019 from Ghana Institute of Management and Public Administration, Ghana. He started his Ph.D. in May 2021 under the supervision of Dr. Bilal Farooq. His research focuses on Mobility Choice Modelling using Advanced Machine Learning Algorithms."
+bio: "Did not finish with the lab."
+# "Daniel is an M.A.Sc. Student in Transportation Engineering at Toronto Metropolitan University, Canada. He earned his B.Sc. in Geomatic Engineering in 2010 from University of Mines and Technology, Ghana, and M.Sc. in Management Information Systems in 2019 from Ghana Institute of Management and Public Administration, Ghana. He started his Ph.D. in May 2021 under the supervision of Dr. Bilal Farooq. His research focuses on Mobility Choice Modelling using Advanced Machine Learning Algorithms."
 # link to your CV online, optional
 cv: "" 
 # link to your personal website, optional
