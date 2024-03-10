@@ -1,5 +1,5 @@
 ---
-title: "TMU-ITE organized the Toronto Section Student Presentations Competition"
+title: "TMU-ITE hosted the Toronto Section Student Presentations Competition"
 date: 2024-03-10
 draft: false
 # description:
