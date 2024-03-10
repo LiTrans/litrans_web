@@ -7,7 +7,7 @@ draft: false
 {{< figure src="/news/images/tmuite.jpeg" width="80%" >}}
 
 <!--more-->
-On February 21st, the TMU-ITE Chapter had the pleasure of hosting the ITE Toronto Section's student presentations competition. This event brought together students from various local universities, providing them with a platform to showcase their insights and solutions to pressing transportation issues. TMU's role as the host signifies the university's commitment to developing academic excellence and supporting the next generation of transportation professionals. This event was organized by Farzan Moosavi, Xiaozhu Sun and Lina Waqfi from LiTrans.
+On February 21, the TMU-ITE Chapter had the pleasure of hosting the ITE Toronto Section's student presentations competition. This event brought together students from various local universities, providing them with a platform to showcase their insights and solutions to pressing transportation issues. TMU's role as the host signifies the university's commitment to developing academic excellence and supporting the next generation of transportation professionals. This event was organized by Farzan Moosavi, Xiaozhu Sun and Lina Waqfi from LiTrans.
 
 ITE Canada (legally, the Canadian Institute of Transportation Engineers) is a volunteer-run membership association of over 2,000 transportation professionals and students in Canada. Its aim is to provide the Canadian transportation community opportunities to learn, connect, contribute and grow to best meet the needs for safe and healthy mobility in Canada.
 
