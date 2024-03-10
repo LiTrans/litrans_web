@@ -4,7 +4,7 @@ date: 2024-03-10
 draft: false
 # description:
 ---
-{{< figure src="/news/images/tmuite.jpeg" width="110%" >}}
+{{< figure src="/news/images/tmuite.jpeg" width="100%" >}}
 
 <!--more-->
 On February 21, the TMU-ITE Chapter had the pleasure of hosting the ITE Toronto Section's student presentations competition. This event brought together students from various local universities, providing them with a platform to showcase their insights and solutions to pressing transportation issues. TMU's role as the host signifies the university's commitment to developing academic excellence and supporting the next generation of transportation professionals. This event was organized by Farzan Moosavi, Xiaozhu Sun and Lina Waqfi from LiTrans.
