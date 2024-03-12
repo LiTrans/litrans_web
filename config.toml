@@ -159,7 +159,7 @@ googleAnalytics = "UA-137871044-1"
     links  = false
     title  = "Our Team"
     alumni = true
-    subtitle = "We prioritize, value, and practice equity, diversity, and inclusion in our research, lab space, teaching, and engagements. We cherish integrity, excellence, innovation, commitment, and rigour. Before reaching out to us for any possible positions in our lab, please consider that we are shamelessly uncompromising when it comes to abiding with our values."
+    subtitle = "We prioritize, value, and practice equity, diversity, and inclusion in our research, lab space, teaching, and engagements. We cherish decency, integrity, excellence, innovation, commitment, and rigour. Before reaching out to us for any possible positions in our lab, please do consider that we are shamelessly uncompromising when it comes to abiding with our values."
     # description = "..."
 
     # All team member's pictures are stored under 'static/img/team'.
