@@ -159,7 +159,7 @@ googleAnalytics = "UA-137871044-1"
     links  = false
     title  = "Our Team"
     alumni = true
-    subtitle = "We prioritize, value, and practice equity, diversity, and inclusion in our research, lab space, teaching, and engagements. We cherish kindness, integrity, excellence, innovation, commitment, and rigour. Before reaching out to us for any possible positions in our lab, please do consider that we are shamelessly uncompromising when it comes to abiding by our values."
+    subtitle = "We prioritize, value, and practice equity, diversity, and inclusion in our research, lab space, teaching, and engagements. We cherish kindness, integrity, excellence, innovation, commitment, and rigour. Before reaching out to us for any possible positions in our lab, please do consider that we are shamelessly uncompromising when it comes to abiding by our values. [Link](https://litrans.ca/projects/smart-mobility/LiTransValues_22012022.pdf)"
     # description = "..."
 
     # All team member's pictures are stored under 'static/img/team'.
