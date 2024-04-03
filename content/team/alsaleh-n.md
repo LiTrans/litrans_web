@@ -2,7 +2,7 @@
 img : "nael.png"
 role: alumni
 name : "Nael Alsaleh" #name
-position: "PhD Student" 
+position: "PhD Student, 2022" 
 date: 2022-12-08
 # date: 2019-9-10
 social: 
