@@ -3,7 +3,7 @@ img: "IMG_3926.jpg"
 role: alumni
 date: 2022-06-06
 name: Seyed Mehdi Meshkani
-position: PhD Student
+position: PhD Student, 2022
 social: # enter your social media urls here, optional
   - github:
   - linkedin: https://www.linkedin.com/in/mehdi-meshkani-8ab66143
