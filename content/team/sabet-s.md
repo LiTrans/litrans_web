@@ -2,7 +2,7 @@
 img : "saba.png"
 role: alumni
 name : "Saba Sabet" #name
-position: "MASc Student" 
+position: "MASc Student, 2024" 
 # date: 2021-05-02
 date: 2023-12-02
 social: 
