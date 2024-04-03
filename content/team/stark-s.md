@@ -3,7 +3,7 @@ img : "shannon.png"
 role: alumni
 date: 2022-05-08
 name : "Shannon Stark" #name
-position: "MASc Student" 
+position: "MASc Student, 2023" 
 social: 
  - github: ""
  - linkedin: ""
