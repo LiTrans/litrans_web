@@ -3,7 +3,7 @@ img : "mudassarm.jpg"
 role: alumni
 date: 2023-03-27
 name : "Mahwish Mudassar" #name
-position: "MASc Student" 
+position: "MASc Student, 2023" 
 social: 
  - github: ""
  - linkedin: https://www.linkedin.com/in/mahwish-mudassar-6a9813126/
