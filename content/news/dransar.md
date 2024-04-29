@@ -23,7 +23,7 @@ Control Transitions in Conditional Automation: Driver Adoption, Takeover Behavio
   
   [Professor Songnian Li](https://www.torontomu.ca/civil/people/faculty/songnian-li/), [Toronto Metropolitan University](https://www.torontomu.ca/)
 
-  Professor Elzohairy Yoassry, [Toronto Metropolitan University](https://www.torontomu.ca/)
+  Professor Elzohairy Yoassry, [Ministry of Transportation, Ontario](https://www.ontario.ca/page/ministry-transportation)
   
   [Professor Bilal Farooq](https://www.torontomu.ca/civil/people/faculty/bilal-farooq/), [Toronto Metropolitan University](https://www.torontomu.ca/)
 
