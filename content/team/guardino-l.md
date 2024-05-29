@@ -7,7 +7,7 @@ position: Undergraduate Research Assistant
 
 # enter your social media urls here, optional
 social:
-  - github: "
+  - github: ""
   - linkedin: ""
   - twitter: ""
 
