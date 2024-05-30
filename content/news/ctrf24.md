@@ -4,7 +4,7 @@ date: 2024-05-15
 draft: false
 # description:
 ---
-{{< figure src="/news/images/wifi_ctrf.png" width="75%" >}}
+{{< figure src="/news/images/wifi_ctrf.png" width="100%" >}}
 
 <!--more-->
 
