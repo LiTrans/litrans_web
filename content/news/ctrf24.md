@@ -1,5 +1,5 @@
 ---
-title: "WiFi Research Awarded at the CTRF 2024 Conference"
+title: "WiFi based Crowd Management Research Awarded at the CTRF 2024 Conference"
 date: 2024-05-15
 draft: false
 # description:
