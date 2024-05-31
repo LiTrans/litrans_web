@@ -4,7 +4,7 @@ date: 2024-05-30
 draft: false
 # description:
 ---
-{{< figure src="/news/images/tareq_clue1.png" width="100%" >}}
+{{< figure src="/news/images/tareq_clue1.png" width="90%" >}}
 
 
 <!--more-->
