@@ -1,5 +1,5 @@
 ---
-title: "Tareq Wins Best Research Poster Presentation Award at CLUE Symposium"
+title: "Tareq Wins Best Research Poster Presentation Award at 2024 CLUE Symposium"
 date: 2024-05-30
 draft: false
 # description:
