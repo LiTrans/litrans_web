@@ -3,7 +3,7 @@ img: "sajjad.png"
 role: alumni
 name: "Sajjad Ansar"
 date: 2024-05-15
-position: "PhD Student" # PhD/MSc student, Professor, etc. leave blank if not applicable
+position: "PhD Student, 2024" # PhD/MSc student, Professor, etc. leave blank if not applicable
 social: # enter your social media urls here, optional
   - github: ""
   - linkedin: https://www.linkedin.com/in/muhammad-sajjad-ansar-7b0b10119/
