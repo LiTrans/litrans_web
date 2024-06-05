@@ -1,6 +1,6 @@
 ---
 img: "sajjad.png"
-role: phd
+role: alumni
 name: "Sajjad Ansar"
 date: 2020-09-10
 position: "PhD Student" # PhD/MSc student, Professor, etc. leave blank if not applicable
