@@ -1,9 +1,9 @@
 ---
 img: "mohsen.jpg"
-role: postdoc
-date: 2021-08-28
+role: alumni
+date: 2024-06-01
 name: "Mohsen Nazemi"
-position: Postdoc Research Fellow
+position: Postdoc Research Fellow, 2024
 social: # enter your social media urls here, optional
   - github:
   - linkedin: https://www.linkedin.com/in/mohsennazemi/
