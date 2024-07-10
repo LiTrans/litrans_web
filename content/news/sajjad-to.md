@@ -4,7 +4,7 @@ date: 2024-07-10
 draft: false
 # description:
 ---
-{{< figure src="/news/images/drsajjad.png" width="83%" >}}
+{{< figure src="/news/images/drsajjad.png" width="90%" >}}
 
 
 <!--more-->
