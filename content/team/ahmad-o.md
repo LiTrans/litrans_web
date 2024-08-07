@@ -1,9 +1,10 @@
 ---
 img : "ahmado.png"
-role: masc
-date: 2020-05-01
+role: alumni
+# date: 2020-05-01
+date: 2024-08-06
 name : "Omair Ahmad" #name
-position: "MASc Student" 
+position: "MASc Student, 2024" 
 social: 
  - github: ""
  - linkedin: https://www.linkedin.com/in/omair-ahmad/
