@@ -1,9 +1,10 @@
 ---
 img: "thomas.jpg"
-role: other
-date: 2021-05-17
+role: masc
+date: 2024-08-06
+# date: 2021-05-17
 name: Thomas Zhao
-position: Undergraduate Research Assistant
+position: MASc Student
 
 # enter your social media urls here, optional
 social:
