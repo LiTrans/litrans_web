@@ -1,17 +1,18 @@
 ---
 img : "bara.png"
-role: masc
-date: 2023-01-06
+role: phd
+date: 2024-08-06
+# date: 2023-01-06
 name : "Bara Rababah" #name
-position: "MASc Student" 
+position: "PhD Student" 
 social: 
  - github: ""
  - linkedin: https://www.linkedin.com/in/bara-rababah/
  - twitter: ""
 # status: "" # additional titles, optional
-bio: "Bara Rababah is a Master of Engineering student at Toronto Metropolitan University supervised by Doctor Bilal Farooq. Bara has an interest in transportation engineering and learning about the technologies and new methods that are being implemented as the world continues to go through new changes and innovations. Currently Bara is part of the research team running an investigation in the interaction of pedestrians and autonomous vehicles using VR technology. The M.Eng. project looks into the topic of Mobility as a Service (MaaS) and its impacts on Sustainability.
+bio: "Bara Rababah is a doctoral student at Toronto Metropolitan University supervised by Doctor Bilal Farooq. Bara has an interest in transportation engineering and learning about the technologies and new methods that are being implemented as the world continues to go through new changes and innovations. Currently, Bara is part of the research team running an investigation in the interaction of pedestrians and autonomous vehicles using VR technology. The M.Eng. project looks into the topic of Mobility as a Service (MaaS) and its impacts on Sustainability.
 
-Bara graduated with his Bachelor of Engineering Degree from [Lassonde School of Engineering, York University](https://lassonde.yorku.ca/) in 2022 and began his M.Eng. in Civil Engineering at [Toronto Metropolitan University](https://torontomu.ca/) in 2022. Bara strives to innovate and creatively solve real world problems in dynamic environments."
+Bara graduated with his Bachelor of Engineering Degree from [Lassonde School of Engineering, York University](https://lassonde.yorku.ca/) in 2022 and finished his M.A.Sc. in Civil Engineering at [Toronto Metropolitan University](https://torontomu.ca/) in 2024. Bara strives to innovate and creatively solve real world problems in dynamic environments."
 # link to your CV online, optional
 # cv:  
 # link to your personal website, optional
