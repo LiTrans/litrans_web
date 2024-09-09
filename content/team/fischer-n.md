@@ -7,7 +7,7 @@ name : "Nicole Fischer" #name
 position: "MASc Student" 
 social: 
  - github: ""
- - linkedin: "" 
+ - linkedin: "https://www.linkedin.com/in/nicole-fischer-679732271/" 
  - twitter: ""
 # status: "" # additional titles, optional
 bio: "Nicole is currently pursuing a Master's degree in Civil Engineering specializing in Transportation Engineering through a double degree program between [Toronto Metropolitan University](https://www.torontomu.ca/) in Canada and the [University of Applied Sciences in Karlsruhe](https://www.h-ka.de/en/), Germany. She holds a Bachelor's degree in Environmental Engineering from the University of Applied Sciences in Karlsruhe, where she also completed the first half of her Master’s studies before beginning the second phase in Canada in Fall 2024. Nicole has gained valuable experience in noise protection within traffic infrastructure through both professional work and research. Her interests in the transportation field are broad, with a growing emphasis on active transportation. She will be writing her thesis under the supervision of Dr. Bilal Farooq."
