@@ -1,5 +1,5 @@
 ---
-img: "nicole.jpg"
+img: "nicole.png"
 role: masc
 date: 2024-09-06
 # date: 2023-08-24
