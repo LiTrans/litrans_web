@@ -2,6 +2,7 @@
 img: "lina.png"
 role: phd
 date: 2024-09-01
+# date: 2023-08-24
 name : "Lina Waqfi" #name
 position: "PhD Student" 
 social: 
