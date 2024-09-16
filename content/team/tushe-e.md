@@ -21,7 +21,6 @@ interest:
   - "Smart Mobility and Urban Traffic Management"
   - "Sustainable Transportation Systems"
   - "Human-Autonomous System Interaction"
-  - "Transportation Systems Simulation"
   - "Neuroscience and Cognitive Load in Automated Driving"
 # your research highlights here (awards, achievements, etc.), optional
 highlights: 
