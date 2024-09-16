@@ -3,7 +3,7 @@ img : "ergi.png"
 role: masc
 name : "Ergi Tushe" #name
 position: "MASc Student" 
-date: 2022-09-01
+date: 2024-09-15
 social: 
   - github:
   - linkedin: "https://www.linkedin.com/in/ergi-tushe-aba082186/"
