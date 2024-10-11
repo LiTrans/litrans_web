@@ -2,7 +2,7 @@
 img : "ergi.png"
 role: masc
 name : "Ergi Tushe" #name
-position: "MASc Student" 
+position: "MSc Student" 
 date: 2024-09-15
 social: 
   - github:
