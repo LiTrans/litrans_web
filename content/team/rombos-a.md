@@ -4,7 +4,7 @@ role: masc
 date: 2024-09-15
 # date: 2023-08-24
 name : "Alexandra Rombos" #name
-position: "MASc Student" 
+position: "MSc Student" 
 social: 
  - github: ""
  - linkedin: "https://ca.linkedin.com/in/alexandra-rombos" 
