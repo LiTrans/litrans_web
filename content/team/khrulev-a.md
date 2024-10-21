@@ -1,5 +1,5 @@
 ---
-img: "def.jpeg"
+img: "alexk.png"
 role: alumni
 date: 2020-05-07
 # your name
