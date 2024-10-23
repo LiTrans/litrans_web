@@ -4,7 +4,7 @@ role: masc
 date: 2024-09-06
 # date: 2023-08-24
 name : "Nicole Fischer" #name
-position: "MASc Student" 
+position: "MEng Student" 
 social: 
  - github: ""
  - linkedin: "https://www.linkedin.com/in/nicole-fischer-679732271/" 
