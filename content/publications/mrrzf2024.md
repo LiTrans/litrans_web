@@ -3,7 +3,7 @@
 # bibliograhpy : "<authors>, <year>.
 #    **<title>**.
 #    <journal location + etc>.
-bibliography: "Nazemi, M., Rababah, B., Ramos, D., Zhao, T., Farooq, B., 2021.
+bibliography: "Nazemi, M., Rababah, B., Ramos, D., Zhao, T., Farooq, B., 2024.
   **Decoding Pedestrian Stress on Urban Streets using Electrodermal Activity Monitoring in Virtual Immersive Reality**. Transportation Research Part C: Emerging Technologies." # surround Title with **<title>**
 date: 2024-11-22
 preview: journal_trpartc.jpg
