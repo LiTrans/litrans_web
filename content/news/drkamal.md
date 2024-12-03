@@ -1,5 +1,5 @@
 ---
-title: "Kimia Kamal Successfully Defended her PhD Dissertation"
+title: "Kimia Kamal Successfully Defended Her PhD Dissertation"
 date: 2024-12-03
 draft: false
 # description:
