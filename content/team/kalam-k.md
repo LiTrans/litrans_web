@@ -1,9 +1,9 @@
 ---
 img: "kimia.png"
-role: phd
+role: postdoc
 name: "Kimia Kamal"
 date: 2020-12-30
-position: "PhD Student" # PhD/MSc student, Professor, etc. leave blank if not applicable
+position: "Postdoc Research Fellow" # PhD/MSc student, Professor, etc. leave blank if not applicable
 social: # enter your social media urls here, optional
   - github: ""
   - linkedin: https://www.linkedin.com/in/kimia-kamal-46028b157/
