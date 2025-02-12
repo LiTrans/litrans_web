@@ -1,5 +1,5 @@
 ---
-img: "sisko.jpg"
+img: "sisko.png"
 role: professor
 name: "Capt'n Sisko"
 position: Morale Officer
