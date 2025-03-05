@@ -7,7 +7,7 @@ date: 2025-03-01
 name : "Irum Sanaullah"
 
 # PhD/MSc student, Professor, etc. leave blank if not applicable
-position: "Postdoc" 
+position: "Postdoc Research Fellow" 
 
 # enter your social media urls here, optional
 social: 
