@@ -1,12 +1,12 @@
 ---
 img: "irum.png"
-role: alumni
+role: postdoc
 date: 2019-09-01
 # your name
 name : "Irum Sanaullah"
 
 # PhD/MSc student, Professor, etc. leave blank if not applicable
-position: "Postdoc, 2019" 
+position: "Postdoc" 
 
 # enter your social media urls here, optional
 social: 
@@ -18,7 +18,9 @@ social:
 # status: ""
 
 # enter your short bio here (markdown format compatible)
-bio: "Irum Sanaullah was a Postdoctoral Research Fellow at the Laboratory of Innovations in Transportation at Ryerson University working under the supervision of Dr. Bilal Farooq. Her research focused on investigating the Spatial and temporal factors which impact the On-Demand Transit. She worked on the City of Belleville's on-demand transit project to carry out the performance analysis.
+# bio: "Irum Sanaullah is a Postdoctoral Research Fellow at the Laboratory of Innovations in Transportation at Ryerson University working under the supervision of Dr. Bilal Farooq. Her research focused on investigating the Spatial and temporal factors which impact the On-Demand Transit. She worked on the City of Belleville's on-demand transit project to carry out the performance analysis.
+
+bio: "Irum Sanaullah is a Postdoctoral Research Fellow at the Laboratory of Innovations in Transportation at Toronto Metropolitan University, working under the supervision of Dr. Bilal Farooq. Her research focused on investigating driver behaviour, especially of newcomers in Canada, for which she is collaborating with the Ministry of Transportation, Ontario.
 
 
 Irum completed her Ph.D. in Intelligent Transportation Systems from Loughborough University, UK, in 2013. She has also worked as a researcher on the project of social and environmental impacts of adopting a driverless car (dial-a-pod) system in the UK. She has been teaching Transportation-related subjects in Universities for the last ten years." 
