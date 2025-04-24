@@ -1,7 +1,8 @@
 ---
 img: "davidhr.png"
-role: other
-date: 2023-03-01
+role: alumni
+date: 2025-03-01
+# date: 2023-03-01
 name: Daniel Haslam
 position: Undergraduate Research Assistant
 
