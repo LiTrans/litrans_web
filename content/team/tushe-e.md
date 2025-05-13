@@ -1,9 +1,10 @@
 ---
 img : "ergi.png"
-role: masc
+role: alumni
 name : "Ergi Tushe" #name
 position: "MSc Student" 
-date: 2024-09-15
+date: 2025-05-10
+# date: 2024-09-15
 social: 
   - github:
   - linkedin: "https://www.linkedin.com/in/ergi-tushe-aba082186/"
