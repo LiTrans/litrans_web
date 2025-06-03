@@ -1,7 +1,8 @@
 ---
 img: "soren.png"
-role: other
-date: 2025-03-01
+role: alumni
+# date: 2025-03-01
+date: 2025-05-31
 name: Sören Riegraf
 position: Research Assistant
 
