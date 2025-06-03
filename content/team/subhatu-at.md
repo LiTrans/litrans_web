@@ -1,7 +1,8 @@
 ---
 img: "alemtsehay.png"
-role: postdoc
-date: 2023-10-15
+role: alumni
+# date: 2023-10-15
+date: 2025-05-15
 name: "Alemtsehay Teklay Subhatu"
 position: Postdoc Research Fellow
 social: # enter your social media urls here, optional
