@@ -1,9 +1,9 @@
 ---
 img: "luke.png"
-role: other
-date: 2024-05-17
+role: masc
+date: 2025-08-27
 name: Luke Guardino
-position: Undergraduate Research Assistant
+position: MASc Student
 
 # enter your social media urls here, optional
 social:
@@ -14,7 +14,7 @@ social:
 #status: "MEng Graduate, 2022"
 
 # enter your short bio here (markdown format compatible)
-bio: "Luke is a third year student at Toronto Metropolitan University studying computer science. He is currently doing research with urban systems microsimulations designed to aid in transportation research and innovation."
+bio: "Luke is a MASc student at Toronto Metropolitan University (TMU) studying transportation engineering. Previously, he completed his undergraduate degree in computer science at TMU. He is currently doing research with urban systems microsimulations designed to aid in transportation research and innovation."
 
 
 # link to your CV online, optional
