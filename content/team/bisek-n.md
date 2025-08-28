@@ -29,6 +29,8 @@ bio: "Nadia is a master's student at Toronto Metropolitan University (TMU) pursu
 # enter short research interests (traffic signal, CAV, etc.), optional
 interest:
   - "Sustainable transportation"
+  - "Public transit"
+  - "Active transportation"
 
 
 # enter your research highlights here (awards, achievements, etc.), optional
