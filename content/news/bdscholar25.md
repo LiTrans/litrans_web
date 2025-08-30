@@ -4,7 +4,7 @@ date: 2025-08-30
 draft: false
 # description:
 ---
-{{< figure src="/news/images/bdscholars25.jpeg" width="100%" >}}
+{{< figure src="/news/images/bdscholars25.jpeg" width="105%" >}}
 
 
 <!--more-->
