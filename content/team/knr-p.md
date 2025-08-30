@@ -2,7 +2,7 @@
 img: "praveen.png"
 role: phd
 date: 2025-08-28
-name: Praveen Moolayil
+name: Praveen M.P.
 position: PhD Student
 
 # enter your social media urls here, optional
