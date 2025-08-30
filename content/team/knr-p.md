@@ -14,7 +14,7 @@ social:
 #status: "MEng Graduate, 2022"
 
 # enter your short bio here (markdown format compatible)
-bio: "Praveen is a Ph.D. student in Civil Engineering at the Laboratory of Innovations in Transportation (LiTrans) at Toronto Metropolitan University (TMU), under the supervision of Dr. Bilal Farooq. He received his master’s degree in Transportation Engineering from the National Institute of Technology Karnataka, India (2023), and his bachelor’s degree in Civil Engineering from APJ Abdul Kalam Technological University, Kerala, India (2020). Before starting his doctoral studies in Fall 2025, he worked as a Research Fellow at the Indian Institute of Technology Hyderabad and as a Research Scientist at DromoLys Research and Development Pvt. Ltd., a startup he co-founded."
+bio: "Praveen is a Ph.D. student in Civil Engineering at the Laboratory of Innovations in Transportation (LiTrans) at Toronto Metropolitan University (TMU), under the supervision of Dr. Bilal Farooq. He received his master's degree in Transportation Engineering from the [National Institute of Technology Karnataka](https://www.nitk.ac.in/), India (2023), and his bachelor’s degree in Civil Engineering from [APJ Abdul Kalam Technological University, Kerala](https://ktu.edu.in/), India (2020). Before starting his doctoral studies in Fall 2025, he worked as a Research Fellow at the [Indian Institute of Technology Hyderabad](https://www.iith.ac.in/) and as a Research Scientist at [DromoLys Research and Development Pvt. Ltd.](https://www.linkedin.com/company/dromolys-research-development-pvt-ltd/, a startup he co-founded."
 
 
 # link to your CV online, optional
