@@ -13,4 +13,4 @@ Congratulations to Farzan Moosavi and Tareq Alsaleh, who are the recipients of t
 
 Farzan's doctoral research focuses on solving optimization problems related to on-demand last-mile delivery using advanced tools and techniques, including generative AI, reinforcement learning, and quantum computing. His research applications give particular consideration to improving mobility and accessibility for all segments of the urban population.
 
-Tareq's doctoral research focuses on understanding travel behaviour related to the adoption of sustainable transportation using advanced tools and techniques, including smartphone apps, generative AI, and econometrics. His research applications give particular consideration to the perceptions, attitudes, and habits of urban travellers.
+Tareq's doctoral research focuses on understanding travel behaviour related to the adoption of sustainable transportation using advanced tools and techniques, including smartphone apps, generative AI, and econometrics. His research applications give particular consideration to the perceptions, attitudes, and habits of urban commuters.
