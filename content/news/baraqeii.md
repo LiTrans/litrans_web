@@ -1,5 +1,5 @@
 ---
-title: "Bara received the Queen Elizabeth II Graduate Scholarship in Science and Technology"
+title: "Bara received the Queen Elizabeth II Graduate Scholarship"
 date: 2025-09-15
 draft: false
 # description:
