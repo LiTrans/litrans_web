@@ -1,5 +1,5 @@
 ---
-title: "Kimia joined Canadian Tire as Senior Data Scientist"
+title: "Dr. Kimia Kamal joined Canadian Tire as Senior Data Scientist"
 date: 2025-09-20
 draft: false
 # description:
