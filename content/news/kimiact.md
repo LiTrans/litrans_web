@@ -1,6 +1,6 @@
 ---
 title: "Dr. Kimia Kamal joined Canadian Tire as Senior Data Scientist"
-date: 2025-09-20
+date: 2025-09-25
 draft: false
 # description:
 ---
