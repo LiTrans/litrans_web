@@ -1,5 +1,5 @@
 ---
-title: "Nadia Among a Select Youth Group at the 2025 CUTA Young Leader's Summit"
+title: "Nadia Among a Select Youth Group at the 2025 CUTA Young Leaders Summit"
 date: 2025-11-10
 draft: false
 # description:
