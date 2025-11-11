@@ -4,7 +4,7 @@ date: 2025-11-10
 draft: false
 # description:
 ---
-{{< figure src="/news/images/nadia.png" width="90%" >}}
+{{< figure src="/team/images/nadia.png" width="90%" >}}
 
 
 <!--more-->
