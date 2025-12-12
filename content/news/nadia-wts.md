@@ -1,5 +1,5 @@
 ---
-title: "Nadia awarded WTS Toronto Area Chapter Scholarship"
+title: "Nadia awarded 2025 WTS Toronto Area Chapter Scholarship"
 date: 2025-12-10
 draft: false
 # description:
