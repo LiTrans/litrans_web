@@ -1,5 +1,5 @@
 ---
-title: "Thomas & Luke accepted intp DAAD RISE Professional Internship"
+title: "Thomas & Luke accepted into DAAD RISE Professional Program"
 date: 2026-03-05
 draft: false
 # description:
