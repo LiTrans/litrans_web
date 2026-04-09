@@ -1,9 +1,10 @@
 ---
 img : "shannon.png"
-role: phd
-date: 2025-08-27
+role: alumni
+#date: 2025-08-27
+date: 2022-08-27
 name : "Shannon Stark" #name
-position: "PhD Student" 
+position: "MASc Student" 
 social: 
  - github: ""
  - linkedin: ""
