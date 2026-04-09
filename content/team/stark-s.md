@@ -2,7 +2,7 @@
 img : "shannon.png"
 role: alumni
 #date: 2025-08-27
-date: 2022-08-27
+date: 2021-08-27
 name : "Shannon Stark" #name
 position: "MASc Student" 
 social: 
@@ -10,7 +10,7 @@ social:
  - linkedin: ""
  - twitter: ""
 # status: "" # additional titles, optional
-bio: "Shannon Stark is a PhD student in the Civil Engineering program at Toronto Metropolitan University under the supervision of Dr. Bilal Farooq. She completed her MASc degree in transportation engineering at TMU in 2023. She has a background in Engineering and Architecture, and experience in Transportation, Stormwater and Wastewater. Her skills include geometric roadway design, traffic operations and safety analysis. She is also knowledgeable about Low Impact Development (LID), LEED, Lean Thinking and the Ontario Building Code (OBC)."
+bio: "Shannon Stark completed her MASc degree in transportation engineering at TMU in 2023. She has a background in Engineering and Architecture, and experience in Transportation, Stormwater and Wastewater. Her skills include geometric roadway design, traffic operations and safety analysis. She is also knowledgeable about Low Impact Development (LID), LEED, Lean Thinking and the Ontario Building Code (OBC)."
 # link to your CV online, optional
 # cv: "https://your_cv_url" 
 # link to your personal website, optional
