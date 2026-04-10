@@ -1,6 +1,6 @@
 ---
 img: "kimia.png"
-role: postdoc
+role: alumni
 name: "Kimia Kamal"
 date: 2020-12-30
 position: "Postdoc Research Fellow" # PhD/MSc student, Professor, etc. leave blank if not applicable
