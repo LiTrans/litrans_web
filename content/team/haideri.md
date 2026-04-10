@@ -3,7 +3,7 @@ img: "rulla.png"
 role: postdoc
 date: 2025-04-14
 name: Rulla Al-Haideri
-position: Postdoc Research Fellow
+position: NSERC Postdoc Research Fellow
 
 # enter your social media urls here, optional
 social:
