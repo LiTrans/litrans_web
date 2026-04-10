@@ -1,6 +1,6 @@
 ---
 img: "saabiq.png"
-role: other
+role: alumni
 date: 2025-05-17
 name: Saabiq Aziz
 position: Undergraduate Research Assistant
