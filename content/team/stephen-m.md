@@ -1,6 +1,6 @@
 ---
 img: "marieelle.png"
-role: other
+role: alumni
 date: 2025-05-17
 name: Marie-Elle Stephen
 position: Undergraduate Research Assistant
