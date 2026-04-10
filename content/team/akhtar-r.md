@@ -1,6 +1,6 @@
 ---
 img : "rabbab.png"
-role: masc
+role: alumni
 date: 2024-10-06
 # date: 2023-01-06
 name : "Rabbab Akhtar" #name
