@@ -4,7 +4,7 @@ date: 2026-04-19
 draft: false
 # description:
 ---
-{{< figure src="/news/images/rulla.png" width="100%" >}}
+{{< figure src="/news/images/rulla.png" width="90%" >}}
 
 
 <!--more-->
