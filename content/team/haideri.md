@@ -24,7 +24,7 @@ bio: "Rulla Al-Haideri earned her B.Sc. (2011) and M.Sc. (2014) in Civil Enginee
 # website: "your_personal_website"
 
 # link to your google scholar profile, optional
-# googlescholar: ""
+googlescholar: "https://scholar.google.ca/citations?user=4abwTEcAAAAJ&hl=en"
 
 # enter short research interests (traffic signal, CAV, etc.), optional
 interest:
