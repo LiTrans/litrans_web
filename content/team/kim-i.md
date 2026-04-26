@@ -2,7 +2,7 @@
 img : "isabel.png"
 role: masc
 # date: 2020-05-01
-date: 2026-09-01
+date: 2025-09-01
 name : "Isabel Kim" #name
 position: "MASc Student (Incoming)" 
 social: 
