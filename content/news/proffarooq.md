@@ -4,7 +4,7 @@ date: 2026-05-08
 draft: false
 # description:
 ---
-{{< figure src="/news/images/bilal.jpg" width="93%" >}}
+{{< figure src="/news/images/bilal3.jpg" width="93%" >}}
 
 
 <!--more-->
