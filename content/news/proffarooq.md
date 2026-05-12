@@ -1,6 +1,6 @@
 ---
 title: "LiTrans Founding Director Dr. Bilal Farooq Promoted to Full Professor at TMU"
-date: 2025-05-08
+date: 2026-05-08
 draft: false
 # description:
 ---
