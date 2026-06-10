@@ -4,7 +4,7 @@
 #    **<title>**.
 #    <journal location + etc>.
 bibliography: "Al-Haideri, R., Liu, C., Ismail, K., Farooq, B., Zhang, C., 2026.
-  **Latent Class Logit Kernel framework for surrogate safety: identifying behavioral thresholds through conflict indicator profiles**. Transportation Research Part F: Traffic Psychology and Behaviour." # surround Title with **<title>**
+  **Latent Class Logit Kernel framework for surrogate safety: identifying behavioral thresholds through conflict indicator profiles**. Traffic Injury Prevention." # surround Title with **<title>**
 date: 2026-03-14
 preview: injury.png
 arxiv: ""
