@@ -1,6 +1,6 @@
 ---
 img : "nicolas.png"
-role: phd
+role: alumni
 # date: 2020-05-01
 date: 2026-04-01
 name : "Nicolas Salvadé" #name
