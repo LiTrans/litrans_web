@@ -7,18 +7,18 @@ name : "Lili Nouri" #name
 position: "PhD Student" 
 social: 
  - github: ""
- - linkedin: ""
+ - linkedin: https://www.linkedin.com/in/maliheh-lili-nouri-a218864b
  - twitter: ""
 # status: "" # additional titles, optional
-bio: "Maliheh Nouri is a PhD student in Urban Health at the Daphne Cockwell School of Nursing and at the Centre of Urban Innovation’s Laboratory (LiTrans), at Toronto Metropolitan University.  Maliheh received her B.A. and M.A. in Urban Planning and Design in 2012 and 2016, respectively, from the University of Yazd and Shahid Beheshti University of Tehran, in Iran.
-Prior to commencing her doctoral studies, Maliheh accumulated ten years of professional experience leading rural and urban planning and design projects across diverse contexts in Iran. 
+bio: "Lili Nouri is a PhD student in Urban Health at the Daphne Cockwell School of Nursing and at the Centre of Urban Innovation’s Laboratory (LiTrans), at Toronto Metropolitan University.  Lili received her B.A. and M.A. in Urban Planning and Design in 2012 and 2016, respectively, from the University of Yazd and Shahid Beheshti University of Tehran, in Iran.
+Prior to commencing her doctoral studies, Lili accumulated ten years of professional experience leading rural and urban planning and design projects across diverse contexts in Iran. 
 Her academic and professional work has primarily focused on the quality of urban, rural, and park landscapes, with a particular emphasis on people–place relationships. Her research explores the connections between the built and natural environment and human well-being, including outcomes such as satisfaction, happiness, anxiety, and resilience in urban settings."
 # link to your CV online, optional
-# cv: "https://your_cv_url" 
+cv: "../cv/Nouri_CV.pdf" 
 # link to your personal website, optional
 # website: "https://your_personal_website_url" 
 # link to your google scholar profile, optional
-googlescholar: https://scholar.google.com/citations?user=h_ZK1rwAAAAJ&hl=fr&oi=ao
+# googlescholar: https://scholar.google.com/citations?user=h_ZK1rwAAAAJ&hl=fr&oi=ao
 # enter short research interests (traffic signal, CAV, etc.), optional
 interest: 
 - Place attachment and place Identity
