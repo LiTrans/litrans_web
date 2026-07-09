@@ -4,7 +4,7 @@ date: 2026-07-06
 draft: false
 # description:
 ---
-{{< figure src="/news/images/dralsaleh2.png" width="95%" >}}
+{{< figure src="/news/images/tareqev.png" width="95%" >}}
 
 
 <!--more-->
