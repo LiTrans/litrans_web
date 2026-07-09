@@ -4,14 +4,15 @@ date: 2026-07-06
 draft: false
 # description:
 ---
-{{< figure src="/news/images/dralsaleh2.png" width="85%" >}}
+{{< figure src="/news/images/dralsaleh2.png" width="90%" >}}
 
 
 <!--more-->
 
-Congratulations to Tareq Alsaleh on successfully defending his PhD thesis on July 06, 2026. Dr. Alsaleh completed his undergraduate in Civil Engineering in 2012 and master's degree in Transportation Engineering in 2016 from [Jordan University of Science and Technology](https://www.just.edu.jo/Pages/Default.aspx). In September 2022, he was admitted to the Ph.D. program at [Toronto Metropolitan University](https://www.torontomu.ca/) under the supervision of Dr. Farooq. His thesis developed original research on the pathways towards sustainability in transportation systems. 
+Congratulations to Tareq Alsaleh on successfully defending his PhD dissertation on July 06, 2026. Dr. Alsaleh completed his undergraduate in Civil Engineering in 2012 and master's degree in Transportation Engineering in 2016 from [Jordan University of Science and Technology](https://www.just.edu.jo/Pages/Default.aspx). In September 2022, he was admitted to the Ph.D. program at [Toronto Metropolitan University](https://www.torontomu.ca/) under the supervision of Dr. Farooq. His thesis developed original research on the pathways towards sustainability in transportation systems. 
 
 {{< figure src="/news/images/dralsalehf.png" width="85%" >}}
+Dr. Alsaleh with his proud family and supervisor after the successful defence.
 
 ## Title: 
 
