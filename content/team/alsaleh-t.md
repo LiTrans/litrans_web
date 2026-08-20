@@ -1,9 +1,10 @@
 ---
 img : "tarek.png"
-role: phd
+role: postdoc
 name : "Tareq Alsaleh" #name
-position: "PhD Student" 
-date: 2022-09-01
+position: "Postdoc Research Fellow"
+date: 2026-07-06
+# date: 2022-09-01
 social: 
   - github:
   - linkedin: "https://www.linkedin.com/in/tareq-alsaleh-3a015275/"
