@@ -1,6 +1,6 @@
 ---
 img: "nicole.png"
-role: masc
+role: alumni
 date: 2024-09-06
 # date: 2023-08-24
 name : "Nicole Fischer" #name
