@@ -1,6 +1,6 @@
 ---
 img: "thomas.jpg"
-role: masc
+role: alumni
 date: 2024-08-06
 # date: 2021-05-17
 name: Thomas Zhao
