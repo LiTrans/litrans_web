@@ -1,8 +1,8 @@
 ---
 img : "farzan.jpg"
-role: phd
+role: postdoc
 name : "Farzan Moosavi" #name
-position: "PhD Student" 
+position: "Postdoc Research Fellow" 
 date: 2022-09-02
 social: 
   - github:
