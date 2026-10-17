@@ -1,7 +1,8 @@
 ---
 img: "alex.png"
-role: masc
-date: 2024-09-15
+role: alumni
+date: 2016-10-15
+# date: 2024-09-15
 # date: 2023-08-24
 name : "Alexandra Rombos" #name
 position: "MSc Student" 
