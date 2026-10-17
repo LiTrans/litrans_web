@@ -3,13 +3,13 @@ img: "default.png"
 role: masc
 date: 2026-09-01
 name : "Devashree Rege" #name
-position: "MSc Student" 
+position: "MASc Student" 
 social: 
  - github: ""
  - linkedin: "" 
  - twitter: ""
 # status: "" # additional titles, optional
-bio: "Devashree is an MASc candidate in Civil Engineering (Transportation) at Toronto Metropolitan University (TMU). She completed her B.Eng in Civil Engineering (Transportation) with a Minor in Mathematics from TMU, and has work experience in transportation planning and Intelligent Transportation Systems (ITS). Devashree’s work blends policy with design, spatial and data analytics, and transportation equity. She began her MASc in September 2026, under the supervision of Dr. Bilal Farooq, where she will research emerging technologies in ITS and their applications in transportation planning."
+bio: "Devashree is an MASc candidate in Civil Engineering (Transportation) at Toronto Metropolitan University (TMU). She completed her B.Eng in Civil Engineering (Transportation) with a Minor in Mathematics from TMU, and has work experience in transportation planning and Intelligent Transportation Systems (ITS). Devashree's work blends policy with design, spatial and data analytics, and transportation equity. She began her MASc in September 2026, under the supervision of Dr. Bilal Farooq, where she will research emerging technologies in ITS and their applications in transportation planning."
 # link to your CV online, optional
 cv: "" 
 # link to your personal website, optional
