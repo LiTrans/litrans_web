@@ -11,11 +11,11 @@ social:
 # status: "" # additional titles, optional
 bio: "Devashree is an MASc candidate in Civil Engineering (Transportation) at Toronto Metropolitan University (TMU). She completed her B.Eng in Civil Engineering (Transportation) with a Minor in Mathematics from TMU, and has work experience in transportation planning and Intelligent Transportation Systems (ITS). Devashree's work blends policy with design, spatial and data analytics, and transportation equity. She began her MASc in September 2026, under the supervision of Dr. Bilal Farooq, where she will research emerging technologies in ITS and their applications in transportation planning."
 # link to your CV online, optional
-cv: "" 
+# cv: "" 
 # link to your personal website, optional
 # website: "https://your_personal_website_url" 
 # link to your google scholar profile, optional
-googlescholar: ""
+# googlescholar: ""
 # enter short research interests (traffic signal, CAV, etc.), optional
 interest: 
 - Emerging technologies
