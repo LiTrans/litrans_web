@@ -1,6 +1,6 @@
 ---
 img : "tarek.png"
-role: postdoc
+role: alumni
 name : "Tareq Alsaleh" #name
 position: "Postdoc Research Fellow"
 date: 2026-07-06
