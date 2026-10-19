@@ -1,5 +1,5 @@
 ---
-img: "def.jpeg"
+img: "devi.png"
 role: masc
 date: 2026-09-01
 name: "Devashree Rege" #name
