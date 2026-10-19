@@ -1,6 +1,6 @@
 ---
-img: "def.jpeg"
-role: intern
+img: "rawan.png"
+role: other
 date: 2026-10-01
 name: "Rawan Al-Soodani" #name
 position: "Undergraduate Intern" 
