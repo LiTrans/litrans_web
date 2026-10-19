@@ -3,7 +3,7 @@ img: "rawan.png"
 role: other
 date: 2026-10-01
 name: "Rawan Al-Soodani" #name
-position: "Undergraduate Intern" 
+position: "Undergraduate Research Assistant" 
 social: 
  - github: ""
  - linkedin: "" 
