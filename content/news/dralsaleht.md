@@ -1,5 +1,5 @@
 ---
-title: "Dr. Tareq Alsaleh Receives Two Prestigious Awards and Joins Accenture UK"
+title: "Dr. Tareq Alsaleh Receives Two Prestigious Honours and Joins Accenture UK"
 date: 2026-10-15
 draft: false
 # description:
