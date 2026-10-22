@@ -5,7 +5,7 @@ draft: false
 # description:
 ---
 <!-- ![](../images/tareqev.png) -->
-{{< figure src="/team/images/tareq3.png" width="85%">}}
+{{< figure src="/team/images/tareq33.png" width="85%">}}
 
 
 <!--more-->
